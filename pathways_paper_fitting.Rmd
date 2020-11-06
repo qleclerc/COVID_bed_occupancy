@@ -17,7 +17,7 @@ We load packages, pathways data, and read in the movement data from Excel.
 knitr::opts_chunk$set(echo = FALSE, message = F, warning = F)
 
 library(openxlsx)
-library(tidyverse)
+library(dplyr)
 library(linelist)
 library(knitr)
 library(reshape2)

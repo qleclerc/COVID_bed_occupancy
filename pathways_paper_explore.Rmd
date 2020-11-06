@@ -11,8 +11,6 @@ output:
 
 # Setup 
 
-We load packages, pathways data, and model results.
-
 ## Load packages
 
 ```{r setup, include = F}
@@ -23,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE, message = F, warning = F,
                       dev = "png")
 
 library(openxlsx)
-library(tidyverse)
+library(dplyr)
 library(linelist)
 library(knitr)
 library(kableExtra)
@@ -155,9 +153,7 @@ p3 + p1/p2 + plot_layout(ncol = 2, widths = c(1, 3)) + plot_annotation(tag_level
 
 ```
 
-# Try looking at uclh true occupancy
-
-## Plot all the simulations together
+# Visualise model results
 
 ```{r uclh_res_melted}
 
@@ -220,6 +216,7 @@ round(table(CC_points$within)/length(CC_points$within), 2)
 
 ```
 
+# Supplementary
 
 ```{r sqdiff_weibull}
 
@@ -247,8 +244,6 @@ sqdiff_weibull_full = results_mean_uclh %>%
 
 
 ```
-
-## Sensitivity: run with Gamma instead of default Weibull & round instead of ceiling
 
 
 ```{r uclh_gamma}

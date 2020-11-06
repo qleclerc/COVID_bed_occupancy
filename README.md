@@ -9,13 +9,17 @@ The following datasets are in the "data" folder:
 stage in all identified full bed pathways, either for UCLH or CO-CIN
 - `average_los_by_outcome_X`: average LoS and standard deviation by bed type,
 either for UCLH or CO-CIN
+- `pathways_all_cocin`: the complete LoS distribution for CO-CIN full bed
+pathways, saved as an R object that can be used directly with the model
 - `uk_hospital_data`: bed occupancy data for England. This is extracted from
-the publicly available [UK dashboard](https://coronavirus.data.gov.uk/)
+the publicly available [UK COVID dashboard](https://coronavirus.data.gov.uk/)
 - `uclh_occupancy`: bed occupancy data for UCLH
+- `data_figs`: a simplified dataset of the full bed pathways for UCLH and CO-CIN,
+used to generate Figure 1 in our paper
 
 The "raw_cocin" subfolder contains the raw CO-CIN distributions for each stage
-in each bed pathway. These were generated in another paper, please [REF] for a
-complete description.
+in each bed pathway. These were generated in another paper, please see [REF] for
+a complete description.
 
 ## Code
 
@@ -24,6 +28,10 @@ The "code" folder contains the following scripts:
 used for multiple runs, and a plotting function
 - `paths_table_to_blocks`: script used to convert the LoS datasets in "data" to
 R objects that can then be used with the model
+- `cocin_data_to_pathways_block`: script used to convert the raw distributions
+in the "data/raw_cocin" folder to R objects that can then be used with the model
+- `import_hosp_data`: script used to extract data from the
+[UK COVID dashboard](https://coronavirus.data.gov.uk/)
 
 ## Reports
 

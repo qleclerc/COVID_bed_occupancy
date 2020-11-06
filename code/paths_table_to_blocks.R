@@ -57,7 +57,7 @@ pathways_all = readRDS(here::here("data", "pathways_all_cocin.rds"))
 
 # ## Averaged to single bed LoS ####
 
-table_LoS = read.csv(here::here("data", "average_LoS_by_outcome.csv"))
+table_LoS = read.csv(here::here("data", "average_LoS_by_outcome_cocin.csv"))
 
 ## All patients
 
