@@ -1,0 +1,3745 @@
+"date","geography","value_type","value"
+2020-03-17,"East of England","hospital_inc",20
+2020-03-17,"England","hospital_inc",391
+2020-03-17,"London","hospital_inc",176
+2020-03-17,"Midlands","hospital_inc",65
+2020-03-17,"North East and Yorkshire","hospital_inc",16
+2020-03-17,"North West","hospital_inc",36
+2020-03-17,"South East","hospital_inc",66
+2020-03-17,"South West","hospital_inc",12
+2020-03-17,"East of England","hospital_prev",NA
+2020-03-17,"East of England","icu_prev",NA
+2020-03-17,"England","hospital_prev",NA
+2020-03-17,"England","icu_prev",NA
+2020-03-17,"London","hospital_prev",NA
+2020-03-17,"London","icu_prev",NA
+2020-03-17,"Midlands","hospital_prev",NA
+2020-03-17,"Midlands","icu_prev",NA
+2020-03-17,"North East and Yorkshire","hospital_prev",NA
+2020-03-17,"North East and Yorkshire","icu_prev",NA
+2020-03-17,"North West","hospital_prev",NA
+2020-03-17,"North West","icu_prev",NA
+2020-03-17,"South East","hospital_prev",NA
+2020-03-17,"South East","icu_prev",NA
+2020-03-17,"South West","hospital_prev",NA
+2020-03-17,"South West","icu_prev",NA
+2020-03-18,"East of England","hospital_inc",23
+2020-03-18,"England","hospital_inc",586
+2020-03-18,"London","hospital_inc",240
+2020-03-18,"Midlands","hospital_inc",96
+2020-03-18,"North East and Yorkshire","hospital_inc",48
+2020-03-18,"North West","hospital_inc",47
+2020-03-18,"South East","hospital_inc",103
+2020-03-18,"South West","hospital_inc",29
+2020-03-18,"East of England","hospital_prev",NA
+2020-03-18,"East of England","icu_prev",NA
+2020-03-18,"England","hospital_prev",NA
+2020-03-18,"England","icu_prev",NA
+2020-03-18,"London","hospital_prev",NA
+2020-03-18,"London","icu_prev",NA
+2020-03-18,"Midlands","hospital_prev",NA
+2020-03-18,"Midlands","icu_prev",NA
+2020-03-18,"North East and Yorkshire","hospital_prev",NA
+2020-03-18,"North East and Yorkshire","icu_prev",NA
+2020-03-18,"North West","hospital_prev",NA
+2020-03-18,"North West","icu_prev",NA
+2020-03-18,"South East","hospital_prev",NA
+2020-03-18,"South East","icu_prev",NA
+2020-03-18,"South West","hospital_prev",NA
+2020-03-18,"South West","icu_prev",NA
+2020-03-19,"East of England","hospital_inc",23
+2020-03-19,"England","hospital_inc",691
+2020-03-19,"London","hospital_inc",272
+2020-03-19,"Midlands","hospital_inc",164
+2020-03-19,"North East and Yorkshire","hospital_inc",43
+2020-03-19,"North West","hospital_inc",56
+2020-03-19,"South East","hospital_inc",90
+2020-03-19,"South West","hospital_inc",43
+2020-03-19,"East of England","hospital_prev",NA
+2020-03-19,"East of England","icu_prev",NA
+2020-03-19,"England","hospital_prev",NA
+2020-03-19,"England","icu_prev",NA
+2020-03-19,"London","hospital_prev",NA
+2020-03-19,"London","icu_prev",NA
+2020-03-19,"Midlands","hospital_prev",NA
+2020-03-19,"Midlands","icu_prev",NA
+2020-03-19,"North East and Yorkshire","hospital_prev",NA
+2020-03-19,"North East and Yorkshire","icu_prev",NA
+2020-03-19,"North West","hospital_prev",NA
+2020-03-19,"North West","icu_prev",NA
+2020-03-19,"South East","hospital_prev",NA
+2020-03-19,"South East","icu_prev",NA
+2020-03-19,"South West","hospital_prev",NA
+2020-03-19,"South West","icu_prev",NA
+2020-03-20,"East of England","hospital_inc",37
+2020-03-20,"England","hospital_inc",777
+2020-03-20,"London","hospital_inc",311
+2020-03-20,"Midlands","hospital_inc",151
+2020-03-20,"North East and Yorkshire","hospital_inc",73
+2020-03-20,"North West","hospital_inc",71
+2020-03-20,"South East","hospital_inc",91
+2020-03-20,"South West","hospital_inc",43
+2020-03-20,"East of England","hospital_prev",59
+2020-03-20,"East of England","icu_prev",NA
+2020-03-20,"England","hospital_prev",1541
+2020-03-20,"England","icu_prev",NA
+2020-03-20,"London","hospital_prev",819
+2020-03-20,"London","icu_prev",NA
+2020-03-20,"Midlands","hospital_prev",218
+2020-03-20,"Midlands","icu_prev",NA
+2020-03-20,"North East and Yorkshire","hospital_prev",82
+2020-03-20,"North East and Yorkshire","icu_prev",NA
+2020-03-20,"North West","hospital_prev",130
+2020-03-20,"North West","icu_prev",NA
+2020-03-20,"South East","hospital_prev",176
+2020-03-20,"South East","icu_prev",NA
+2020-03-20,"South West","hospital_prev",57
+2020-03-20,"South West","icu_prev",NA
+2020-03-21,"East of England","hospital_inc",49
+2020-03-21,"England","hospital_inc",859
+2020-03-21,"London","hospital_inc",335
+2020-03-21,"Midlands","hospital_inc",192
+2020-03-21,"North East and Yorkshire","hospital_inc",69
+2020-03-21,"North West","hospital_inc",83
+2020-03-21,"South East","hospital_inc",94
+2020-03-21,"South West","hospital_inc",37
+2020-03-21,"East of England","hospital_prev",71
+2020-03-21,"East of England","icu_prev",NA
+2020-03-21,"England","hospital_prev",2092
+2020-03-21,"England","icu_prev",NA
+2020-03-21,"London","hospital_prev",1055
+2020-03-21,"London","icu_prev",NA
+2020-03-21,"Midlands","hospital_prev",278
+2020-03-21,"Midlands","icu_prev",NA
+2020-03-21,"North East and Yorkshire","hospital_prev",124
+2020-03-21,"North East and Yorkshire","icu_prev",NA
+2020-03-21,"North West","hospital_prev",162
+2020-03-21,"North West","icu_prev",NA
+2020-03-21,"South East","hospital_prev",307
+2020-03-21,"South East","icu_prev",NA
+2020-03-21,"South West","hospital_prev",95
+2020-03-21,"South West","icu_prev",NA
+2020-03-22,"East of England","hospital_inc",46
+2020-03-22,"England","hospital_inc",1128
+2020-03-22,"London","hospital_inc",505
+2020-03-22,"Midlands","hospital_inc",208
+2020-03-22,"North East and Yorkshire","hospital_inc",107
+2020-03-22,"North West","hospital_inc",86
+2020-03-22,"South East","hospital_inc",114
+2020-03-22,"South West","hospital_inc",62
+2020-03-22,"East of England","hospital_prev",91
+2020-03-22,"East of England","icu_prev",NA
+2020-03-22,"England","hospital_prev",2588
+2020-03-22,"England","icu_prev",NA
+2020-03-22,"London","hospital_prev",1228
+2020-03-22,"London","icu_prev",NA
+2020-03-22,"Midlands","hospital_prev",379
+2020-03-22,"Midlands","icu_prev",NA
+2020-03-22,"North East and Yorkshire","hospital_prev",158
+2020-03-22,"North East and Yorkshire","icu_prev",NA
+2020-03-22,"North West","hospital_prev",190
+2020-03-22,"North West","icu_prev",NA
+2020-03-22,"South East","hospital_prev",408
+2020-03-22,"South East","icu_prev",NA
+2020-03-22,"South West","hospital_prev",134
+2020-03-22,"South West","icu_prev",NA
+2020-03-23,"East of England","hospital_inc",106
+2020-03-23,"England","hospital_inc",1544
+2020-03-23,"London","hospital_inc",637
+2020-03-23,"Midlands","hospital_inc",329
+2020-03-23,"North East and Yorkshire","hospital_inc",167
+2020-03-23,"North West","hospital_inc",122
+2020-03-23,"South East","hospital_inc",123
+2020-03-23,"South West","hospital_inc",60
+2020-03-23,"East of England","hospital_prev",131
+2020-03-23,"East of England","icu_prev",NA
+2020-03-23,"England","hospital_prev",3097
+2020-03-23,"England","icu_prev",NA
+2020-03-23,"London","hospital_prev",1515
+2020-03-23,"London","icu_prev",NA
+2020-03-23,"Midlands","hospital_prev",436
+2020-03-23,"Midlands","icu_prev",NA
+2020-03-23,"North East and Yorkshire","hospital_prev",190
+2020-03-23,"North East and Yorkshire","icu_prev",NA
+2020-03-23,"North West","hospital_prev",236
+2020-03-23,"North West","icu_prev",NA
+2020-03-23,"South East","hospital_prev",449
+2020-03-23,"South East","icu_prev",NA
+2020-03-23,"South West","hospital_prev",140
+2020-03-23,"South West","icu_prev",NA
+2020-03-24,"East of England","hospital_inc",76
+2020-03-24,"England","hospital_inc",1755
+2020-03-24,"London","hospital_inc",675
+2020-03-24,"Midlands","hospital_inc",422
+2020-03-24,"North East and Yorkshire","hospital_inc",160
+2020-03-24,"North West","hospital_inc",187
+2020-03-24,"South East","hospital_inc",141
+2020-03-24,"South West","hospital_inc",94
+2020-03-24,"East of England","hospital_prev",150
+2020-03-24,"East of England","icu_prev",NA
+2020-03-24,"England","hospital_prev",3492
+2020-03-24,"England","icu_prev",NA
+2020-03-24,"London","hospital_prev",1651
+2020-03-24,"London","icu_prev",NA
+2020-03-24,"Midlands","hospital_prev",581
+2020-03-24,"Midlands","icu_prev",NA
+2020-03-24,"North East and Yorkshire","hospital_prev",228
+2020-03-24,"North East and Yorkshire","icu_prev",NA
+2020-03-24,"North West","hospital_prev",250
+2020-03-24,"North West","icu_prev",NA
+2020-03-24,"South East","hospital_prev",469
+2020-03-24,"South East","icu_prev",NA
+2020-03-24,"South West","hospital_prev",163
+2020-03-24,"South West","icu_prev",NA
+2020-03-25,"East of England","hospital_inc",160
+2020-03-25,"England","hospital_inc",1639
+2020-03-25,"London","hospital_inc",519
+2020-03-25,"Midlands","hospital_inc",356
+2020-03-25,"North East and Yorkshire","hospital_inc",196
+2020-03-25,"North West","hospital_inc",184
+2020-03-25,"South East","hospital_inc",138
+2020-03-25,"South West","hospital_inc",86
+2020-03-25,"East of England","hospital_prev",192
+2020-03-25,"East of England","icu_prev",NA
+2020-03-25,"England","hospital_prev",4262
+2020-03-25,"England","icu_prev",NA
+2020-03-25,"London","hospital_prev",1974
+2020-03-25,"London","icu_prev",NA
+2020-03-25,"Midlands","hospital_prev",688
+2020-03-25,"Midlands","icu_prev",NA
+2020-03-25,"North East and Yorkshire","hospital_prev",309
+2020-03-25,"North East and Yorkshire","icu_prev",NA
+2020-03-25,"North West","hospital_prev",332
+2020-03-25,"North West","icu_prev",NA
+2020-03-25,"South East","hospital_prev",567
+2020-03-25,"South East","icu_prev",NA
+2020-03-25,"South West","hospital_prev",200
+2020-03-25,"South West","icu_prev",NA
+2020-03-26,"East of England","hospital_inc",94
+2020-03-26,"England","hospital_inc",1931
+2020-03-26,"London","hospital_inc",639
+2020-03-26,"Midlands","hospital_inc",404
+2020-03-26,"North East and Yorkshire","hospital_inc",240
+2020-03-26,"North West","hospital_inc",219
+2020-03-26,"South East","hospital_inc",230
+2020-03-26,"South West","hospital_inc",105
+2020-03-26,"East of England","hospital_prev",290
+2020-03-26,"East of England","icu_prev",NA
+2020-03-26,"England","hospital_prev",5045
+2020-03-26,"England","icu_prev",NA
+2020-03-26,"London","hospital_prev",2158
+2020-03-26,"London","icu_prev",NA
+2020-03-26,"Midlands","hospital_prev",964
+2020-03-26,"Midlands","icu_prev",NA
+2020-03-26,"North East and Yorkshire","hospital_prev",426
+2020-03-26,"North East and Yorkshire","icu_prev",NA
+2020-03-26,"North West","hospital_prev",372
+2020-03-26,"North West","icu_prev",NA
+2020-03-26,"South East","hospital_prev",599
+2020-03-26,"South East","icu_prev",NA
+2020-03-26,"South West","hospital_prev",236
+2020-03-26,"South West","icu_prev",NA
+2020-03-27,"East of England","hospital_inc",124
+2020-03-27,"England","hospital_inc",1873
+2020-03-27,"London","hospital_inc",551
+2020-03-27,"Midlands","hospital_inc",350
+2020-03-27,"North East and Yorkshire","hospital_inc",258
+2020-03-27,"North West","hospital_inc",210
+2020-03-27,"South East","hospital_inc",250
+2020-03-27,"South West","hospital_inc",130
+2020-03-27,"East of England","hospital_prev",336
+2020-03-27,"East of England","icu_prev",NA
+2020-03-27,"England","hospital_prev",6245
+2020-03-27,"England","icu_prev",NA
+2020-03-27,"London","hospital_prev",2727
+2020-03-27,"London","icu_prev",NA
+2020-03-27,"Midlands","hospital_prev",1054
+2020-03-27,"Midlands","icu_prev",NA
+2020-03-27,"North East and Yorkshire","hospital_prev",532
+2020-03-27,"North East and Yorkshire","icu_prev",NA
+2020-03-27,"North West","hospital_prev",548
+2020-03-27,"North West","icu_prev",NA
+2020-03-27,"South East","hospital_prev",744
+2020-03-27,"South East","icu_prev",NA
+2020-03-27,"South West","hospital_prev",304
+2020-03-27,"South West","icu_prev",NA
+2020-03-28,"East of England","hospital_inc",201
+2020-03-28,"England","hospital_inc",2186
+2020-03-28,"London","hospital_inc",672
+2020-03-28,"Midlands","hospital_inc",481
+2020-03-28,"North East and Yorkshire","hospital_inc",254
+2020-03-28,"North West","hospital_inc",198
+2020-03-28,"South East","hospital_inc",273
+2020-03-28,"South West","hospital_inc",107
+2020-03-28,"East of England","hospital_prev",423
+2020-03-28,"East of England","icu_prev",NA
+2020-03-28,"England","hospital_prev",7017
+2020-03-28,"England","icu_prev",NA
+2020-03-28,"London","hospital_prev",3002
+2020-03-28,"London","icu_prev",NA
+2020-03-28,"Midlands","hospital_prev",1117
+2020-03-28,"Midlands","icu_prev",NA
+2020-03-28,"North East and Yorkshire","hospital_prev",677
+2020-03-28,"North East and Yorkshire","icu_prev",NA
+2020-03-28,"North West","hospital_prev",654
+2020-03-28,"North West","icu_prev",NA
+2020-03-28,"South East","hospital_prev",802
+2020-03-28,"South East","icu_prev",NA
+2020-03-28,"South West","hospital_prev",342
+2020-03-28,"South West","icu_prev",NA
+2020-03-29,"East of England","hospital_inc",148
+2020-03-29,"England","hospital_inc",2817
+2020-03-29,"London","hospital_inc",883
+2020-03-29,"Midlands","hospital_inc",581
+2020-03-29,"North East and Yorkshire","hospital_inc",340
+2020-03-29,"North West","hospital_inc",420
+2020-03-29,"South East","hospital_inc",317
+2020-03-29,"South West","hospital_inc",128
+2020-03-29,"East of England","hospital_prev",475
+2020-03-29,"East of England","icu_prev",NA
+2020-03-29,"England","hospital_prev",8143
+2020-03-29,"England","icu_prev",NA
+2020-03-29,"London","hospital_prev",3334
+2020-03-29,"London","icu_prev",NA
+2020-03-29,"Midlands","hospital_prev",1312
+2020-03-29,"Midlands","icu_prev",NA
+2020-03-29,"North East and Yorkshire","hospital_prev",804
+2020-03-29,"North East and Yorkshire","icu_prev",NA
+2020-03-29,"North West","hospital_prev",809
+2020-03-29,"North West","icu_prev",NA
+2020-03-29,"South East","hospital_prev",1008
+2020-03-29,"South East","icu_prev",NA
+2020-03-29,"South West","hospital_prev",401
+2020-03-29,"South West","icu_prev",NA
+2020-03-30,"East of England","hospital_inc",146
+2020-03-30,"England","hospital_inc",2447
+2020-03-30,"London","hospital_inc",645
+2020-03-30,"Midlands","hospital_inc",594
+2020-03-30,"North East and Yorkshire","hospital_inc",303
+2020-03-30,"North West","hospital_inc",342
+2020-03-30,"South East","hospital_inc",295
+2020-03-30,"South West","hospital_inc",122
+2020-03-30,"East of England","hospital_prev",617
+2020-03-30,"East of England","icu_prev",NA
+2020-03-30,"England","hospital_prev",9498
+2020-03-30,"England","icu_prev",NA
+2020-03-30,"London","hospital_prev",3492
+2020-03-30,"London","icu_prev",NA
+2020-03-30,"Midlands","hospital_prev",1799
+2020-03-30,"Midlands","icu_prev",NA
+2020-03-30,"North East and Yorkshire","hospital_prev",963
+2020-03-30,"North East and Yorkshire","icu_prev",NA
+2020-03-30,"North West","hospital_prev",964
+2020-03-30,"North West","icu_prev",NA
+2020-03-30,"South East","hospital_prev",1208
+2020-03-30,"South East","icu_prev",NA
+2020-03-30,"South West","hospital_prev",455
+2020-03-30,"South West","icu_prev",NA
+2020-03-31,"East of England","hospital_inc",167
+2020-03-31,"England","hospital_inc",3099
+2020-03-31,"London","hospital_inc",767
+2020-03-31,"Midlands","hospital_inc",776
+2020-03-31,"North East and Yorkshire","hospital_inc",507
+2020-03-31,"North West","hospital_inc",466
+2020-03-31,"South East","hospital_inc",304
+2020-03-31,"South West","hospital_inc",112
+2020-03-31,"East of England","hospital_prev",779
+2020-03-31,"East of England","icu_prev",NA
+2020-03-31,"England","hospital_prev",10767
+2020-03-31,"England","icu_prev",NA
+2020-03-31,"London","hospital_prev",3915
+2020-03-31,"London","icu_prev",NA
+2020-03-31,"Midlands","hospital_prev",1918
+2020-03-31,"Midlands","icu_prev",NA
+2020-03-31,"North East and Yorkshire","hospital_prev",1085
+2020-03-31,"North East and Yorkshire","icu_prev",NA
+2020-03-31,"North West","hospital_prev",1110
+2020-03-31,"North West","icu_prev",NA
+2020-03-31,"South East","hospital_prev",1469
+2020-03-31,"South East","icu_prev",NA
+2020-03-31,"South West","hospital_prev",491
+2020-03-31,"South West","icu_prev",NA
+2020-04-01,"East of England","hospital_inc",184
+2020-04-01,"England","hospital_inc",2932
+2020-04-01,"London","hospital_inc",835
+2020-04-01,"Midlands","hospital_inc",582
+2020-04-01,"North East and Yorkshire","hospital_inc",423
+2020-04-01,"North West","hospital_inc",434
+2020-04-01,"South East","hospital_inc",322
+2020-04-01,"South West","hospital_inc",152
+2020-04-01,"East of England","hospital_prev",812
+2020-04-01,"East of England","icu_prev",NA
+2020-04-01,"England","hospital_prev",11540
+2020-04-01,"England","icu_prev",NA
+2020-04-01,"London","hospital_prev",4012
+2020-04-01,"London","icu_prev",NA
+2020-04-01,"Midlands","hospital_prev",2138
+2020-04-01,"Midlands","icu_prev",NA
+2020-04-01,"North East and Yorkshire","hospital_prev",1254
+2020-04-01,"North East and Yorkshire","icu_prev",NA
+2020-04-01,"North West","hospital_prev",1392
+2020-04-01,"North West","icu_prev",NA
+2020-04-01,"South East","hospital_prev",1368
+2020-04-01,"South East","icu_prev",NA
+2020-04-01,"South West","hospital_prev",564
+2020-04-01,"South West","icu_prev",NA
+2020-04-02,"East of England","hospital_inc",192
+2020-04-02,"England","hospital_inc",2564
+2020-04-02,"London","hospital_inc",647
+2020-04-02,"Midlands","hospital_inc",451
+2020-04-02,"North East and Yorkshire","hospital_inc",373
+2020-04-02,"North West","hospital_inc",446
+2020-04-02,"South East","hospital_inc",332
+2020-04-02,"South West","hospital_inc",123
+2020-04-02,"East of England","hospital_prev",677
+2020-04-02,"East of England","icu_prev",119
+2020-04-02,"England","hospital_prev",10039
+2020-04-02,"England","icu_prev",1494
+2020-04-02,"London","hospital_prev",3336
+2020-04-02,"London","icu_prev",673
+2020-04-02,"Midlands","hospital_prev",1428
+2020-04-02,"Midlands","icu_prev",301
+2020-04-02,"North East and Yorkshire","hospital_prev",1236
+2020-04-02,"North East and Yorkshire","icu_prev",83
+2020-04-02,"North West","hospital_prev",1374
+2020-04-02,"North West","icu_prev",102
+2020-04-02,"South East","hospital_prev",1457
+2020-04-02,"South East","icu_prev",157
+2020-04-02,"South West","hospital_prev",531
+2020-04-02,"South West","icu_prev",59
+2020-04-03,"East of England","hospital_inc",163
+2020-04-03,"England","hospital_inc",2593
+2020-04-03,"London","hospital_inc",733
+2020-04-03,"Midlands","hospital_inc",559
+2020-04-03,"North East and Yorkshire","hospital_inc",294
+2020-04-03,"North West","hospital_inc",398
+2020-04-03,"South East","hospital_inc",348
+2020-04-03,"South West","hospital_inc",98
+2020-04-03,"East of England","hospital_prev",708
+2020-04-03,"East of England","icu_prev",162
+2020-04-03,"England","hospital_prev",11056
+2020-04-03,"England","icu_prev",1788
+2020-04-03,"London","hospital_prev",3077
+2020-04-03,"London","icu_prev",759
+2020-04-03,"Midlands","hospital_prev",2189
+2020-04-03,"Midlands","icu_prev",357
+2020-04-03,"North East and Yorkshire","hospital_prev",1655
+2020-04-03,"North East and Yorkshire","icu_prev",116
+2020-04-03,"North West","hospital_prev",1500
+2020-04-03,"North West","icu_prev",138
+2020-04-03,"South East","hospital_prev",1353
+2020-04-03,"South East","icu_prev",188
+2020-04-03,"South West","hospital_prev",574
+2020-04-03,"South West","icu_prev",68
+2020-04-04,"East of England","hospital_inc",220
+2020-04-04,"England","hospital_inc",2592
+2020-04-04,"London","hospital_inc",732
+2020-04-04,"Midlands","hospital_inc",489
+2020-04-04,"North East and Yorkshire","hospital_inc",365
+2020-04-04,"North West","hospital_inc",379
+2020-04-04,"South East","hospital_inc",277
+2020-04-04,"South West","hospital_inc",130
+2020-04-04,"East of England","hospital_prev",760
+2020-04-04,"East of England","icu_prev",171
+2020-04-04,"England","hospital_prev",12632
+2020-04-04,"England","icu_prev",1950
+2020-04-04,"London","hospital_prev",3582
+2020-04-04,"London","icu_prev",824
+2020-04-04,"Midlands","hospital_prev",2408
+2020-04-04,"Midlands","icu_prev",360
+2020-04-04,"North East and Yorkshire","hospital_prev",1865
+2020-04-04,"North East and Yorkshire","icu_prev",148
+2020-04-04,"North West","hospital_prev",1895
+2020-04-04,"North West","icu_prev",154
+2020-04-04,"South East","hospital_prev",1486
+2020-04-04,"South East","icu_prev",226
+2020-04-04,"South West","hospital_prev",636
+2020-04-04,"South West","icu_prev",67
+2020-04-05,"East of England","hospital_inc",231
+2020-04-05,"England","hospital_inc",2679
+2020-04-05,"London","hospital_inc",743
+2020-04-05,"Midlands","hospital_inc",439
+2020-04-05,"North East and Yorkshire","hospital_inc",404
+2020-04-05,"North West","hospital_inc",392
+2020-04-05,"South East","hospital_inc",326
+2020-04-05,"South West","hospital_inc",144
+2020-04-05,"East of England","hospital_prev",942
+2020-04-05,"East of England","icu_prev",219
+2020-04-05,"England","hospital_prev",13516
+2020-04-05,"England","icu_prev",2097
+2020-04-05,"London","hospital_prev",3771
+2020-04-05,"London","icu_prev",800
+2020-04-05,"Midlands","hospital_prev",2489
+2020-04-05,"Midlands","icu_prev",406
+2020-04-05,"North East and Yorkshire","hospital_prev",2071
+2020-04-05,"North East and Yorkshire","icu_prev",147
+2020-04-05,"North West","hospital_prev",1999
+2020-04-05,"North West","icu_prev",179
+2020-04-05,"South East","hospital_prev",1594
+2020-04-05,"South East","icu_prev",256
+2020-04-05,"South West","hospital_prev",650
+2020-04-05,"South West","icu_prev",90
+2020-04-06,"East of England","hospital_inc",164
+2020-04-06,"England","hospital_inc",2744
+2020-04-06,"London","hospital_inc",722
+2020-04-06,"Midlands","hospital_inc",532
+2020-04-06,"North East and Yorkshire","hospital_inc",446
+2020-04-06,"North West","hospital_inc",375
+2020-04-06,"South East","hospital_inc",353
+2020-04-06,"South West","hospital_inc",152
+2020-04-06,"East of England","hospital_prev",940
+2020-04-06,"East of England","icu_prev",204
+2020-04-06,"England","hospital_prev",13688
+2020-04-06,"England","icu_prev",2264
+2020-04-06,"London","hospital_prev",3742
+2020-04-06,"London","icu_prev",914
+2020-04-06,"Midlands","hospital_prev",2623
+2020-04-06,"Midlands","icu_prev",419
+2020-04-06,"North East and Yorkshire","hospital_prev",1836
+2020-04-06,"North East and Yorkshire","icu_prev",205
+2020-04-06,"North West","hospital_prev",2238
+2020-04-06,"North West","icu_prev",171
+2020-04-06,"South East","hospital_prev",1610
+2020-04-06,"South East","icu_prev",248
+2020-04-06,"South West","hospital_prev",699
+2020-04-06,"South West","icu_prev",103
+2020-04-07,"East of England","hospital_inc",219
+2020-04-07,"England","hospital_inc",2619
+2020-04-07,"London","hospital_inc",744
+2020-04-07,"Midlands","hospital_inc",536
+2020-04-07,"North East and Yorkshire","hospital_inc",327
+2020-04-07,"North West","hospital_inc",410
+2020-04-07,"South East","hospital_inc",249
+2020-04-07,"South West","hospital_inc",134
+2020-04-07,"East of England","hospital_prev",1068
+2020-04-07,"East of England","icu_prev",255
+2020-04-07,"England","hospital_prev",14098
+2020-04-07,"England","icu_prev",2472
+2020-04-07,"London","hospital_prev",3813
+2020-04-07,"London","icu_prev",876
+2020-04-07,"Midlands","hospital_prev",2641
+2020-04-07,"Midlands","icu_prev",445
+2020-04-07,"North East and Yorkshire","hospital_prev",1883
+2020-04-07,"North East and Yorkshire","icu_prev",230
+2020-04-07,"North West","hospital_prev",2252
+2020-04-07,"North West","icu_prev",243
+2020-04-07,"South East","hospital_prev",1763
+2020-04-07,"South East","icu_prev",310
+2020-04-07,"South West","hospital_prev",678
+2020-04-07,"South West","icu_prev",113
+2020-04-08,"East of England","hospital_inc",192
+2020-04-08,"England","hospital_inc",2340
+2020-04-08,"London","hospital_inc",554
+2020-04-08,"Midlands","hospital_inc",374
+2020-04-08,"North East and Yorkshire","hospital_inc",336
+2020-04-08,"North West","hospital_inc",477
+2020-04-08,"South East","hospital_inc",286
+2020-04-08,"South West","hospital_inc",121
+2020-04-08,"East of England","hospital_prev",1040
+2020-04-08,"East of England","icu_prev",276
+2020-04-08,"England","hospital_prev",14223
+2020-04-08,"England","icu_prev",2561
+2020-04-08,"London","hospital_prev",3872
+2020-04-08,"London","icu_prev",941
+2020-04-08,"Midlands","hospital_prev",2620
+2020-04-08,"Midlands","icu_prev",450
+2020-04-08,"North East and Yorkshire","hospital_prev",2059
+2020-04-08,"North East and Yorkshire","icu_prev",260
+2020-04-08,"North West","hospital_prev",2224
+2020-04-08,"North West","icu_prev",212
+2020-04-08,"South East","hospital_prev",1756
+2020-04-08,"South East","icu_prev",302
+2020-04-08,"South West","hospital_prev",652
+2020-04-08,"South West","icu_prev",120
+2020-04-09,"East of England","hospital_inc",215
+2020-04-09,"England","hospital_inc",2196
+2020-04-09,"London","hospital_inc",531
+2020-04-09,"Midlands","hospital_inc",379
+2020-04-09,"North East and Yorkshire","hospital_inc",319
+2020-04-09,"North West","hospital_inc",352
+2020-04-09,"South East","hospital_inc",269
+2020-04-09,"South West","hospital_inc",131
+2020-04-09,"East of England","hospital_prev",1007
+2020-04-09,"East of England","icu_prev",265
+2020-04-09,"England","hospital_prev",14406
+2020-04-09,"England","icu_prev",2546
+2020-04-09,"London","hospital_prev",3942
+2020-04-09,"London","icu_prev",849
+2020-04-09,"Midlands","hospital_prev",2534
+2020-04-09,"Midlands","icu_prev",465
+2020-04-09,"North East and Yorkshire","hospital_prev",2278
+2020-04-09,"North East and Yorkshire","icu_prev",289
+2020-04-09,"North West","hospital_prev",2320
+2020-04-09,"North West","icu_prev",276
+2020-04-09,"South East","hospital_prev",1646
+2020-04-09,"South East","icu_prev",284
+2020-04-09,"South West","hospital_prev",679
+2020-04-09,"South West","icu_prev",118
+2020-04-10,"East of England","hospital_inc",165
+2020-04-10,"England","hospital_inc",1955
+2020-04-10,"London","hospital_inc",490
+2020-04-10,"Midlands","hospital_inc",335
+2020-04-10,"North East and Yorkshire","hospital_inc",290
+2020-04-10,"North West","hospital_inc",313
+2020-04-10,"South East","hospital_inc",235
+2020-04-10,"South West","hospital_inc",127
+2020-04-10,"East of England","hospital_prev",1065
+2020-04-10,"East of England","icu_prev",280
+2020-04-10,"England","hospital_prev",14227
+2020-04-10,"England","icu_prev",2820
+2020-04-10,"London","hospital_prev",3679
+2020-04-10,"London","icu_prev",1057
+2020-04-10,"Midlands","hospital_prev",2637
+2020-04-10,"Midlands","icu_prev",464
+2020-04-10,"North East and Yorkshire","hospital_prev",2012
+2020-04-10,"North East and Yorkshire","icu_prev",292
+2020-04-10,"North West","hospital_prev",2457
+2020-04-10,"North West","icu_prev",264
+2020-04-10,"South East","hospital_prev",1693
+2020-04-10,"South East","icu_prev",338
+2020-04-10,"South West","hospital_prev",684
+2020-04-10,"South West","icu_prev",125
+2020-04-11,"East of England","hospital_inc",144
+2020-04-11,"England","hospital_inc",1791
+2020-04-11,"London","hospital_inc",384
+2020-04-11,"Midlands","hospital_inc",303
+2020-04-11,"North East and Yorkshire","hospital_inc",309
+2020-04-11,"North West","hospital_inc",294
+2020-04-11,"South East","hospital_inc",228
+2020-04-11,"South West","hospital_inc",129
+2020-04-11,"East of England","hospital_prev",1039
+2020-04-11,"East of England","icu_prev",283
+2020-04-11,"England","hospital_prev",14016
+2020-04-11,"England","icu_prev",2865
+2020-04-11,"London","hospital_prev",3395
+2020-04-11,"London","icu_prev",1035
+2020-04-11,"Midlands","hospital_prev",2593
+2020-04-11,"Midlands","icu_prev",469
+2020-04-11,"North East and Yorkshire","hospital_prev",2120
+2020-04-11,"North East and Yorkshire","icu_prev",302
+2020-04-11,"North West","hospital_prev",2525
+2020-04-11,"North West","icu_prev",305
+2020-04-11,"South East","hospital_prev",1657
+2020-04-11,"South East","icu_prev",350
+2020-04-11,"South West","hospital_prev",687
+2020-04-11,"South West","icu_prev",121
+2020-04-12,"East of England","hospital_inc",214
+2020-04-12,"England","hospital_inc",1912
+2020-04-12,"London","hospital_inc",416
+2020-04-12,"Midlands","hospital_inc",333
+2020-04-12,"North East and Yorkshire","hospital_inc",305
+2020-04-12,"North West","hospital_inc",304
+2020-04-12,"South East","hospital_inc",227
+2020-04-12,"South West","hospital_inc",113
+2020-04-12,"East of England","hospital_prev",1193
+2020-04-12,"East of England","icu_prev",291
+2020-04-12,"England","hospital_prev",14291
+2020-04-12,"England","icu_prev",2881
+2020-04-12,"London","hospital_prev",3398
+2020-04-12,"London","icu_prev",1035
+2020-04-12,"Midlands","hospital_prev",2617
+2020-04-12,"Midlands","icu_prev",475
+2020-04-12,"North East and Yorkshire","hospital_prev",2142
+2020-04-12,"North East and Yorkshire","icu_prev",298
+2020-04-12,"North West","hospital_prev",2534
+2020-04-12,"North West","icu_prev",303
+2020-04-12,"South East","hospital_prev",1700
+2020-04-12,"South East","icu_prev",353
+2020-04-12,"South West","hospital_prev",707
+2020-04-12,"South West","icu_prev",126
+2020-04-13,"East of England","hospital_inc",187
+2020-04-13,"England","hospital_inc",1859
+2020-04-13,"London","hospital_inc",447
+2020-04-13,"Midlands","hospital_inc",359
+2020-04-13,"North East and Yorkshire","hospital_inc",306
+2020-04-13,"North West","hospital_inc",269
+2020-04-13,"South East","hospital_inc",185
+2020-04-13,"South West","hospital_inc",106
+2020-04-13,"East of England","hospital_prev",1004
+2020-04-13,"East of England","icu_prev",264
+2020-04-13,"England","hospital_prev",13850
+2020-04-13,"England","icu_prev",2872
+2020-04-13,"London","hospital_prev",3202
+2020-04-13,"London","icu_prev",1046
+2020-04-13,"Midlands","hospital_prev",2490
+2020-04-13,"Midlands","icu_prev",485
+2020-04-13,"North East and Yorkshire","hospital_prev",2170
+2020-04-13,"North East and Yorkshire","icu_prev",300
+2020-04-13,"North West","hospital_prev",2575
+2020-04-13,"North West","icu_prev",315
+2020-04-13,"South East","hospital_prev",1707
+2020-04-13,"South East","icu_prev",342
+2020-04-13,"South West","hospital_prev",702
+2020-04-13,"South West","icu_prev",120
+2020-04-14,"East of England","hospital_inc",113
+2020-04-14,"England","hospital_inc",1608
+2020-04-14,"London","hospital_inc",412
+2020-04-14,"Midlands","hospital_inc",242
+2020-04-14,"North East and Yorkshire","hospital_inc",254
+2020-04-14,"North West","hospital_inc",247
+2020-04-14,"South East","hospital_inc",228
+2020-04-14,"South West","hospital_inc",112
+2020-04-14,"East of England","hospital_prev",1084
+2020-04-14,"East of England","icu_prev",303
+2020-04-14,"England","hospital_prev",13691
+2020-04-14,"England","icu_prev",2849
+2020-04-14,"London","hospital_prev",3005
+2020-04-14,"London","icu_prev",1026
+2020-04-14,"Midlands","hospital_prev",2522
+2020-04-14,"Midlands","icu_prev",467
+2020-04-14,"North East and Yorkshire","hospital_prev",2132
+2020-04-14,"North East and Yorkshire","icu_prev",299
+2020-04-14,"North West","hospital_prev",2547
+2020-04-14,"North West","icu_prev",295
+2020-04-14,"South East","hospital_prev",1678
+2020-04-14,"South East","icu_prev",342
+2020-04-14,"South West","hospital_prev",723
+2020-04-14,"South West","icu_prev",117
+2020-04-15,"East of England","hospital_inc",133
+2020-04-15,"England","hospital_inc",1777
+2020-04-15,"London","hospital_inc",388
+2020-04-15,"Midlands","hospital_inc",283
+2020-04-15,"North East and Yorkshire","hospital_inc",275
+2020-04-15,"North West","hospital_inc",254
+2020-04-15,"South East","hospital_inc",326
+2020-04-15,"South West","hospital_inc",118
+2020-04-15,"East of England","hospital_prev",1110
+2020-04-15,"East of England","icu_prev",308
+2020-04-15,"England","hospital_prev",13070
+2020-04-15,"England","icu_prev",2847
+2020-04-15,"London","hospital_prev",2863
+2020-04-15,"London","icu_prev",1023
+2020-04-15,"Midlands","hospital_prev",2284
+2020-04-15,"Midlands","icu_prev",472
+2020-04-15,"North East and Yorkshire","hospital_prev",2109
+2020-04-15,"North East and Yorkshire","icu_prev",291
+2020-04-15,"North West","hospital_prev",2374
+2020-04-15,"North West","icu_prev",281
+2020-04-15,"South East","hospital_prev",1615
+2020-04-15,"South East","icu_prev",355
+2020-04-15,"South West","hospital_prev",715
+2020-04-15,"South West","icu_prev",117
+2020-04-16,"East of England","hospital_inc",154
+2020-04-16,"England","hospital_inc",1674
+2020-04-16,"London","hospital_inc",358
+2020-04-16,"Midlands","hospital_inc",291
+2020-04-16,"North East and Yorkshire","hospital_inc",236
+2020-04-16,"North West","hospital_inc",273
+2020-04-16,"South East","hospital_inc",260
+2020-04-16,"South West","hospital_inc",102
+2020-04-16,"East of England","hospital_prev",1056
+2020-04-16,"East of England","icu_prev",308
+2020-04-16,"England","hospital_prev",12847
+2020-04-16,"England","icu_prev",2838
+2020-04-16,"London","hospital_prev",2788
+2020-04-16,"London","icu_prev",1012
+2020-04-16,"Midlands","hospital_prev",2234
+2020-04-16,"Midlands","icu_prev",474
+2020-04-16,"North East and Yorkshire","hospital_prev",2056
+2020-04-16,"North East and Yorkshire","icu_prev",297
+2020-04-16,"North West","hospital_prev",2466
+2020-04-16,"North West","icu_prev",287
+2020-04-16,"South East","hospital_prev",1566
+2020-04-16,"South East","icu_prev",345
+2020-04-16,"South West","hospital_prev",681
+2020-04-16,"South West","icu_prev",115
+2020-04-17,"East of England","hospital_inc",191
+2020-04-17,"England","hospital_inc",1411
+2020-04-17,"London","hospital_inc",283
+2020-04-17,"Midlands","hospital_inc",229
+2020-04-17,"North East and Yorkshire","hospital_inc",231
+2020-04-17,"North West","hospital_inc",206
+2020-04-17,"South East","hospital_inc",180
+2020-04-17,"South West","hospital_inc",91
+2020-04-17,"East of England","hospital_prev",1020
+2020-04-17,"East of England","icu_prev",320
+2020-04-17,"England","hospital_prev",11953
+2020-04-17,"England","icu_prev",2780
+2020-04-17,"London","hospital_prev",2635
+2020-04-17,"London","icu_prev",982
+2020-04-17,"Midlands","hospital_prev",2056
+2020-04-17,"Midlands","icu_prev",440
+2020-04-17,"North East and Yorkshire","hospital_prev",1919
+2020-04-17,"North East and Yorkshire","icu_prev",287
+2020-04-17,"North West","hospital_prev",2099
+2020-04-17,"North West","icu_prev",290
+2020-04-17,"South East","hospital_prev",1543
+2020-04-17,"South East","icu_prev",350
+2020-04-17,"South West","hospital_prev",681
+2020-04-17,"South West","icu_prev",111
+2020-04-18,"East of England","hospital_inc",148
+2020-04-18,"England","hospital_inc",1475
+2020-04-18,"London","hospital_inc",290
+2020-04-18,"Midlands","hospital_inc",281
+2020-04-18,"North East and Yorkshire","hospital_inc",267
+2020-04-18,"North West","hospital_inc",214
+2020-04-18,"South East","hospital_inc",199
+2020-04-18,"South West","hospital_inc",76
+2020-04-18,"East of England","hospital_prev",1011
+2020-04-18,"East of England","icu_prev",312
+2020-04-18,"England","hospital_prev",12000
+2020-04-18,"England","icu_prev",2868
+2020-04-18,"London","hospital_prev",2453
+2020-04-18,"London","icu_prev",992
+2020-04-18,"Midlands","hospital_prev",2046
+2020-04-18,"Midlands","icu_prev",464
+2020-04-18,"North East and Yorkshire","hospital_prev",1951
+2020-04-18,"North East and Yorkshire","icu_prev",285
+2020-04-18,"North West","hospital_prev",2302
+2020-04-18,"North West","icu_prev",350
+2020-04-18,"South East","hospital_prev",1582
+2020-04-18,"South East","icu_prev",350
+2020-04-18,"South West","hospital_prev",655
+2020-04-18,"South West","icu_prev",115
+2020-04-19,"East of England","hospital_inc",126
+2020-04-19,"England","hospital_inc",1522
+2020-04-19,"London","hospital_inc",308
+2020-04-19,"Midlands","hospital_inc",280
+2020-04-19,"North East and Yorkshire","hospital_inc",278
+2020-04-19,"North West","hospital_inc",226
+2020-04-19,"South East","hospital_inc",227
+2020-04-19,"South West","hospital_inc",77
+2020-04-19,"East of England","hospital_prev",1056
+2020-04-19,"East of England","icu_prev",306
+2020-04-19,"England","hospital_prev",12021
+2020-04-19,"England","icu_prev",2820
+2020-04-19,"London","hospital_prev",2393
+2020-04-19,"London","icu_prev",991
+2020-04-19,"Midlands","hospital_prev",2064
+2020-04-19,"Midlands","icu_prev",459
+2020-04-19,"North East and Yorkshire","hospital_prev",1948
+2020-04-19,"North East and Yorkshire","icu_prev",269
+2020-04-19,"North West","hospital_prev",2310
+2020-04-19,"North West","icu_prev",341
+2020-04-19,"South East","hospital_prev",1593
+2020-04-19,"South East","icu_prev",340
+2020-04-19,"South West","hospital_prev",657
+2020-04-19,"South West","icu_prev",114
+2020-04-20,"East of England","hospital_inc",148
+2020-04-20,"England","hospital_inc",1495
+2020-04-20,"London","hospital_inc",288
+2020-04-20,"Midlands","hospital_inc",259
+2020-04-20,"North East and Yorkshire","hospital_inc",253
+2020-04-20,"North West","hospital_inc",260
+2020-04-20,"South East","hospital_inc",198
+2020-04-20,"South West","hospital_inc",89
+2020-04-20,"East of England","hospital_prev",1069
+2020-04-20,"East of England","icu_prev",294
+2020-04-20,"England","hospital_prev",11910
+2020-04-20,"England","icu_prev",2780
+2020-04-20,"London","hospital_prev",2359
+2020-04-20,"London","icu_prev",1019
+2020-04-20,"Midlands","hospital_prev",2087
+2020-04-20,"Midlands","icu_prev",437
+2020-04-20,"North East and Yorkshire","hospital_prev",1870
+2020-04-20,"North East and Yorkshire","icu_prev",251
+2020-04-20,"North West","hospital_prev",2294
+2020-04-20,"North West","icu_prev",337
+2020-04-20,"South East","hospital_prev",1601
+2020-04-20,"South East","icu_prev",335
+2020-04-20,"South West","hospital_prev",630
+2020-04-20,"South West","icu_prev",107
+2020-04-21,"East of England","hospital_inc",120
+2020-04-21,"England","hospital_inc",1310
+2020-04-21,"London","hospital_inc",225
+2020-04-21,"Midlands","hospital_inc",218
+2020-04-21,"North East and Yorkshire","hospital_inc",247
+2020-04-21,"North West","hospital_inc",214
+2020-04-21,"South East","hospital_inc",202
+2020-04-21,"South West","hospital_inc",84
+2020-04-21,"East of England","hospital_prev",1040
+2020-04-21,"East of England","icu_prev",279
+2020-04-21,"England","hospital_prev",11786
+2020-04-21,"England","icu_prev",2701
+2020-04-21,"London","hospital_prev",2298
+2020-04-21,"London","icu_prev",972
+2020-04-21,"Midlands","hospital_prev",2060
+2020-04-21,"Midlands","icu_prev",437
+2020-04-21,"North East and Yorkshire","hospital_prev",1977
+2020-04-21,"North East and Yorkshire","icu_prev",249
+2020-04-21,"North West","hospital_prev",2219
+2020-04-21,"North West","icu_prev",328
+2020-04-21,"South East","hospital_prev",1563
+2020-04-21,"South East","icu_prev",334
+2020-04-21,"South West","hospital_prev",629
+2020-04-21,"South West","icu_prev",102
+2020-04-22,"East of England","hospital_inc",128
+2020-04-22,"England","hospital_inc",1289
+2020-04-22,"London","hospital_inc",266
+2020-04-22,"Midlands","hospital_inc",221
+2020-04-22,"North East and Yorkshire","hospital_inc",227
+2020-04-22,"North West","hospital_inc",182
+2020-04-22,"South East","hospital_inc",181
+2020-04-22,"South West","hospital_inc",84
+2020-04-22,"East of England","hospital_prev",1017
+2020-04-22,"East of England","icu_prev",276
+2020-04-22,"England","hospital_prev",11376
+2020-04-22,"England","icu_prev",2646
+2020-04-22,"London","hospital_prev",2207
+2020-04-22,"London","icu_prev",927
+2020-04-22,"Midlands","hospital_prev",1981
+2020-04-22,"Midlands","icu_prev",435
+2020-04-22,"North East and Yorkshire","hospital_prev",1911
+2020-04-22,"North East and Yorkshire","icu_prev",237
+2020-04-22,"North West","hospital_prev",2136
+2020-04-22,"North West","icu_prev",326
+2020-04-22,"South East","hospital_prev",1516
+2020-04-22,"South East","icu_prev",340
+2020-04-22,"South West","hospital_prev",608
+2020-04-22,"South West","icu_prev",105
+2020-04-23,"East of England","hospital_inc",141
+2020-04-23,"England","hospital_inc",1277
+2020-04-23,"London","hospital_inc",171
+2020-04-23,"Midlands","hospital_inc",204
+2020-04-23,"North East and Yorkshire","hospital_inc",223
+2020-04-23,"North West","hospital_inc",211
+2020-04-23,"South East","hospital_inc",235
+2020-04-23,"South West","hospital_inc",92
+2020-04-23,"East of England","hospital_prev",994
+2020-04-23,"East of England","icu_prev",267
+2020-04-23,"England","hospital_prev",10944
+2020-04-23,"England","icu_prev",2563
+2020-04-23,"London","hospital_prev",2031
+2020-04-23,"London","icu_prev",897
+2020-04-23,"Midlands","hospital_prev",1946
+2020-04-23,"Midlands","icu_prev",408
+2020-04-23,"North East and Yorkshire","hospital_prev",1838
+2020-04-23,"North East and Yorkshire","icu_prev",257
+2020-04-23,"North West","hospital_prev",2135
+2020-04-23,"North West","icu_prev",310
+2020-04-23,"South East","hospital_prev",1423
+2020-04-23,"South East","icu_prev",324
+2020-04-23,"South West","hospital_prev",577
+2020-04-23,"South West","icu_prev",100
+2020-04-24,"East of England","hospital_inc",128
+2020-04-24,"England","hospital_inc",1080
+2020-04-24,"London","hospital_inc",137
+2020-04-24,"Midlands","hospital_inc",187
+2020-04-24,"North East and Yorkshire","hospital_inc",198
+2020-04-24,"North West","hospital_inc",202
+2020-04-24,"South East","hospital_inc",168
+2020-04-24,"South West","hospital_inc",60
+2020-04-24,"East of England","hospital_prev",965
+2020-04-24,"East of England","icu_prev",263
+2020-04-24,"England","hospital_prev",10517
+2020-04-24,"England","icu_prev",2414
+2020-04-24,"London","hospital_prev",1901
+2020-04-24,"London","icu_prev",836
+2020-04-24,"Midlands","hospital_prev",1867
+2020-04-24,"Midlands","icu_prev",378
+2020-04-24,"North East and Yorkshire","hospital_prev",1824
+2020-04-24,"North East and Yorkshire","icu_prev",230
+2020-04-24,"North West","hospital_prev",2036
+2020-04-24,"North West","icu_prev",302
+2020-04-24,"South East","hospital_prev",1371
+2020-04-24,"South East","icu_prev",311
+2020-04-24,"South West","hospital_prev",553
+2020-04-24,"South West","icu_prev",94
+2020-04-25,"East of England","hospital_inc",148
+2020-04-25,"England","hospital_inc",1208
+2020-04-25,"London","hospital_inc",187
+2020-04-25,"Midlands","hospital_inc",210
+2020-04-25,"North East and Yorkshire","hospital_inc",249
+2020-04-25,"North West","hospital_inc",181
+2020-04-25,"South East","hospital_inc",182
+2020-04-25,"South West","hospital_inc",51
+2020-04-25,"East of England","hospital_prev",943
+2020-04-25,"East of England","icu_prev",260
+2020-04-25,"England","hospital_prev",10007
+2020-04-25,"England","icu_prev",2405
+2020-04-25,"London","hospital_prev",1820
+2020-04-25,"London","icu_prev",868
+2020-04-25,"Midlands","hospital_prev",1641
+2020-04-25,"Midlands","icu_prev",359
+2020-04-25,"North East and Yorkshire","hospital_prev",1785
+2020-04-25,"North East and Yorkshire","icu_prev",233
+2020-04-25,"North West","hospital_prev",1989
+2020-04-25,"North West","icu_prev",292
+2020-04-25,"South East","hospital_prev",1299
+2020-04-25,"South East","icu_prev",298
+2020-04-25,"South West","hospital_prev",530
+2020-04-25,"South West","icu_prev",95
+2020-04-26,"East of England","hospital_inc",127
+2020-04-26,"England","hospital_inc",1344
+2020-04-26,"London","hospital_inc",261
+2020-04-26,"Midlands","hospital_inc",206
+2020-04-26,"North East and Yorkshire","hospital_inc",259
+2020-04-26,"North West","hospital_inc",223
+2020-04-26,"South East","hospital_inc",199
+2020-04-26,"South West","hospital_inc",69
+2020-04-26,"East of England","hospital_prev",974
+2020-04-26,"East of England","icu_prev",253
+2020-04-26,"England","hospital_prev",10019
+2020-04-26,"England","icu_prev",2309
+2020-04-26,"London","hospital_prev",1784
+2020-04-26,"London","icu_prev",831
+2020-04-26,"Midlands","hospital_prev",1761
+2020-04-26,"Midlands","icu_prev",350
+2020-04-26,"North East and Yorkshire","hospital_prev",1733
+2020-04-26,"North East and Yorkshire","icu_prev",230
+2020-04-26,"North West","hospital_prev",1996
+2020-04-26,"North West","icu_prev",281
+2020-04-26,"South East","hospital_prev",1251
+2020-04-26,"South East","icu_prev",273
+2020-04-26,"South West","hospital_prev",520
+2020-04-26,"South West","icu_prev",91
+2020-04-27,"East of England","hospital_inc",184
+2020-04-27,"England","hospital_inc",1296
+2020-04-27,"London","hospital_inc",248
+2020-04-27,"Midlands","hospital_inc",220
+2020-04-27,"North East and Yorkshire","hospital_inc",226
+2020-04-27,"North West","hospital_inc",194
+2020-04-27,"South East","hospital_inc",153
+2020-04-27,"South West","hospital_inc",71
+2020-04-27,"East of England","hospital_prev",974
+2020-04-27,"East of England","icu_prev",231
+2020-04-27,"England","hospital_prev",10210
+2020-04-27,"England","icu_prev",2188
+2020-04-27,"London","hospital_prev",1820
+2020-04-27,"London","icu_prev",794
+2020-04-27,"Midlands","hospital_prev",1808
+2020-04-27,"Midlands","icu_prev",301
+2020-04-27,"North East and Yorkshire","hospital_prev",1785
+2020-04-27,"North East and Yorkshire","icu_prev",222
+2020-04-27,"North West","hospital_prev",2034
+2020-04-27,"North West","icu_prev",272
+2020-04-27,"South East","hospital_prev",1289
+2020-04-27,"South East","icu_prev",279
+2020-04-27,"South West","hospital_prev",500
+2020-04-27,"South West","icu_prev",89
+2020-04-28,"East of England","hospital_inc",157
+2020-04-28,"England","hospital_inc",1295
+2020-04-28,"London","hospital_inc",212
+2020-04-28,"Midlands","hospital_inc",223
+2020-04-28,"North East and Yorkshire","hospital_inc",230
+2020-04-28,"North West","hospital_inc",227
+2020-04-28,"South East","hospital_inc",196
+2020-04-28,"South West","hospital_inc",50
+2020-04-28,"East of England","hospital_prev",972
+2020-04-28,"East of England","icu_prev",223
+2020-04-28,"England","hospital_prev",9731
+2020-04-28,"England","icu_prev",2087
+2020-04-28,"London","hospital_prev",1555
+2020-04-28,"London","icu_prev",749
+2020-04-28,"Midlands","hospital_prev",1748
+2020-04-28,"Midlands","icu_prev",299
+2020-04-28,"North East and Yorkshire","hospital_prev",1759
+2020-04-28,"North East and Yorkshire","icu_prev",214
+2020-04-28,"North West","hospital_prev",1927
+2020-04-28,"North West","icu_prev",241
+2020-04-28,"South East","hospital_prev",1268
+2020-04-28,"South East","icu_prev",273
+2020-04-28,"South West","hospital_prev",502
+2020-04-28,"South West","icu_prev",88
+2020-04-29,"East of England","hospital_inc",198
+2020-04-29,"England","hospital_inc",1227
+2020-04-29,"London","hospital_inc",183
+2020-04-29,"Midlands","hospital_inc",206
+2020-04-29,"North East and Yorkshire","hospital_inc",192
+2020-04-29,"North West","hospital_inc",214
+2020-04-29,"South East","hospital_inc",164
+2020-04-29,"South West","hospital_inc",70
+2020-04-29,"East of England","hospital_prev",928
+2020-04-29,"East of England","icu_prev",210
+2020-04-29,"England","hospital_prev",9528
+2020-04-29,"England","icu_prev",2045
+2020-04-29,"London","hospital_prev",1602
+2020-04-29,"London","icu_prev",733
+2020-04-29,"Midlands","hospital_prev",1629
+2020-04-29,"Midlands","icu_prev",306
+2020-04-29,"North East and Yorkshire","hospital_prev",1712
+2020-04-29,"North East and Yorkshire","icu_prev",199
+2020-04-29,"North West","hospital_prev",1960
+2020-04-29,"North West","icu_prev",258
+2020-04-29,"South East","hospital_prev",1236
+2020-04-29,"South East","icu_prev",253
+2020-04-29,"South West","hospital_prev",461
+2020-04-29,"South West","icu_prev",86
+2020-04-30,"East of England","hospital_inc",127
+2020-04-30,"England","hospital_inc",1081
+2020-04-30,"London","hospital_inc",201
+2020-04-30,"Midlands","hospital_inc",199
+2020-04-30,"North East and Yorkshire","hospital_inc",157
+2020-04-30,"North West","hospital_inc",181
+2020-04-30,"South East","hospital_inc",154
+2020-04-30,"South West","hospital_inc",62
+2020-04-30,"East of England","hospital_prev",865
+2020-04-30,"East of England","icu_prev",202
+2020-04-30,"England","hospital_prev",9262
+2020-04-30,"England","icu_prev",1991
+2020-04-30,"London","hospital_prev",1512
+2020-04-30,"London","icu_prev",723
+2020-04-30,"Midlands","hospital_prev",1630
+2020-04-30,"Midlands","icu_prev",291
+2020-04-30,"North East and Yorkshire","hospital_prev",1654
+2020-04-30,"North East and Yorkshire","icu_prev",208
+2020-04-30,"North West","hospital_prev",1945
+2020-04-30,"North West","icu_prev",233
+2020-04-30,"South East","hospital_prev",1211
+2020-04-30,"South East","icu_prev",254
+2020-04-30,"South West","hospital_prev",445
+2020-04-30,"South West","icu_prev",80
+2020-05-01,"East of England","hospital_inc",111
+2020-05-01,"England","hospital_inc",980
+2020-05-01,"London","hospital_inc",150
+2020-05-01,"Midlands","hospital_inc",151
+2020-05-01,"North East and Yorkshire","hospital_inc",172
+2020-05-01,"North West","hospital_inc",186
+2020-05-01,"South East","hospital_inc",142
+2020-05-01,"South West","hospital_inc",68
+2020-05-01,"East of England","hospital_prev",840
+2020-05-01,"East of England","icu_prev",193
+2020-05-01,"England","hospital_prev",9016
+2020-05-01,"England","icu_prev",1954
+2020-05-01,"London","hospital_prev",1440
+2020-05-01,"London","icu_prev",712
+2020-05-01,"Midlands","hospital_prev",1580
+2020-05-01,"Midlands","icu_prev",293
+2020-05-01,"North East and Yorkshire","hospital_prev",1654
+2020-05-01,"North East and Yorkshire","icu_prev",200
+2020-05-01,"North West","hospital_prev",1916
+2020-05-01,"North West","icu_prev",234
+2020-05-01,"South East","hospital_prev",1161
+2020-05-01,"South East","icu_prev",246
+2020-05-01,"South West","hospital_prev",425
+2020-05-01,"South West","icu_prev",76
+2020-05-02,"East of England","hospital_inc",166
+2020-05-02,"England","hospital_inc",1044
+2020-05-02,"London","hospital_inc",157
+2020-05-02,"Midlands","hospital_inc",142
+2020-05-02,"North East and Yorkshire","hospital_inc",180
+2020-05-02,"North West","hospital_inc",194
+2020-05-02,"South East","hospital_inc",137
+2020-05-02,"South West","hospital_inc",68
+2020-05-02,"East of England","hospital_prev",838
+2020-05-02,"East of England","icu_prev",183
+2020-05-02,"England","hospital_prev",8875
+2020-05-02,"England","icu_prev",1844
+2020-05-02,"London","hospital_prev",1355
+2020-05-02,"London","icu_prev",678
+2020-05-02,"Midlands","hospital_prev",1569
+2020-05-02,"Midlands","icu_prev",266
+2020-05-02,"North East and Yorkshire","hospital_prev",1639
+2020-05-02,"North East and Yorkshire","icu_prev",196
+2020-05-02,"North West","hospital_prev",1965
+2020-05-02,"North West","icu_prev",226
+2020-05-02,"South East","hospital_prev",1083
+2020-05-02,"South East","icu_prev",227
+2020-05-02,"South West","hospital_prev",426
+2020-05-02,"South West","icu_prev",68
+2020-05-03,"East of England","hospital_inc",106
+2020-05-03,"England","hospital_inc",1063
+2020-05-03,"London","hospital_inc",169
+2020-05-03,"Midlands","hospital_inc",228
+2020-05-03,"North East and Yorkshire","hospital_inc",180
+2020-05-03,"North West","hospital_inc",189
+2020-05-03,"South East","hospital_inc",121
+2020-05-03,"South West","hospital_inc",70
+2020-05-03,"East of England","hospital_prev",866
+2020-05-03,"East of England","icu_prev",179
+2020-05-03,"England","hospital_prev",8764
+2020-05-03,"England","icu_prev",1795
+2020-05-03,"London","hospital_prev",1363
+2020-05-03,"London","icu_prev",638
+2020-05-03,"Midlands","hospital_prev",1549
+2020-05-03,"Midlands","icu_prev",253
+2020-05-03,"North East and Yorkshire","hospital_prev",1620
+2020-05-03,"North East and Yorkshire","icu_prev",194
+2020-05-03,"North West","hospital_prev",1832
+2020-05-03,"North West","icu_prev",233
+2020-05-03,"South East","hospital_prev",1081
+2020-05-03,"South East","icu_prev",226
+2020-05-03,"South West","hospital_prev",453
+2020-05-03,"South West","icu_prev",72
+2020-05-04,"East of England","hospital_inc",90
+2020-05-04,"England","hospital_inc",959
+2020-05-04,"London","hospital_inc",178
+2020-05-04,"Midlands","hospital_inc",184
+2020-05-04,"North East and Yorkshire","hospital_inc",146
+2020-05-04,"North West","hospital_inc",201
+2020-05-04,"South East","hospital_inc",111
+2020-05-04,"South West","hospital_inc",49
+2020-05-04,"East of England","hospital_prev",785
+2020-05-04,"East of England","icu_prev",176
+2020-05-04,"England","hospital_prev",8714
+2020-05-04,"England","icu_prev",1724
+2020-05-04,"London","hospital_prev",1348
+2020-05-04,"London","icu_prev",587
+2020-05-04,"Midlands","hospital_prev",1534
+2020-05-04,"Midlands","icu_prev",243
+2020-05-04,"North East and Yorkshire","hospital_prev",1623
+2020-05-04,"North East and Yorkshire","icu_prev",186
+2020-05-04,"North West","hospital_prev",1857
+2020-05-04,"North West","icu_prev",237
+2020-05-04,"South East","hospital_prev",1112
+2020-05-04,"South East","icu_prev",223
+2020-05-04,"South West","hospital_prev",455
+2020-05-04,"South West","icu_prev",72
+2020-05-05,"East of England","hospital_inc",128
+2020-05-05,"England","hospital_inc",1040
+2020-05-05,"London","hospital_inc",216
+2020-05-05,"Midlands","hospital_inc",201
+2020-05-05,"North East and Yorkshire","hospital_inc",152
+2020-05-05,"North West","hospital_inc",158
+2020-05-05,"South East","hospital_inc",127
+2020-05-05,"South West","hospital_inc",58
+2020-05-05,"East of England","hospital_prev",805
+2020-05-05,"East of England","icu_prev",176
+2020-05-05,"England","hospital_prev",8542
+2020-05-05,"England","icu_prev",1662
+2020-05-05,"London","hospital_prev",1325
+2020-05-05,"London","icu_prev",565
+2020-05-05,"Midlands","hospital_prev",1500
+2020-05-05,"Midlands","icu_prev",235
+2020-05-05,"North East and Yorkshire","hospital_prev",1565
+2020-05-05,"North East and Yorkshire","icu_prev",181
+2020-05-05,"North West","hospital_prev",1821
+2020-05-05,"North West","icu_prev",222
+2020-05-05,"South East","hospital_prev",1082
+2020-05-05,"South East","icu_prev",209
+2020-05-05,"South West","hospital_prev",444
+2020-05-05,"South West","icu_prev",74
+2020-05-06,"East of England","hospital_inc",116
+2020-05-06,"England","hospital_inc",998
+2020-05-06,"London","hospital_inc",202
+2020-05-06,"Midlands","hospital_inc",167
+2020-05-06,"North East and Yorkshire","hospital_inc",171
+2020-05-06,"North West","hospital_inc",182
+2020-05-06,"South East","hospital_inc",107
+2020-05-06,"South West","hospital_inc",53
+2020-05-06,"East of England","hospital_prev",764
+2020-05-06,"East of England","icu_prev",171
+2020-05-06,"England","hospital_prev",8172
+2020-05-06,"England","icu_prev",1610
+2020-05-06,"London","hospital_prev",1223
+2020-05-06,"London","icu_prev",580
+2020-05-06,"Midlands","hospital_prev",1490
+2020-05-06,"Midlands","icu_prev",222
+2020-05-06,"North East and Yorkshire","hospital_prev",1497
+2020-05-06,"North East and Yorkshire","icu_prev",174
+2020-05-06,"North West","hospital_prev",1758
+2020-05-06,"North West","icu_prev",199
+2020-05-06,"South East","hospital_prev",1036
+2020-05-06,"South East","icu_prev",195
+2020-05-06,"South West","hospital_prev",404
+2020-05-06,"South West","icu_prev",69
+2020-05-07,"East of England","hospital_inc",70
+2020-05-07,"England","hospital_inc",743
+2020-05-07,"London","hospital_inc",99
+2020-05-07,"Midlands","hospital_inc",157
+2020-05-07,"North East and Yorkshire","hospital_inc",104
+2020-05-07,"North West","hospital_inc",169
+2020-05-07,"South East","hospital_inc",91
+2020-05-07,"South West","hospital_inc",53
+2020-05-07,"East of England","hospital_prev",742
+2020-05-07,"East of England","icu_prev",152
+2020-05-07,"England","hospital_prev",7788
+2020-05-07,"England","icu_prev",1493
+2020-05-07,"London","hospital_prev",1171
+2020-05-07,"London","icu_prev",565
+2020-05-07,"Midlands","hospital_prev",1425
+2020-05-07,"Midlands","icu_prev",173
+2020-05-07,"North East and Yorkshire","hospital_prev",1436
+2020-05-07,"North East and Yorkshire","icu_prev",161
+2020-05-07,"North West","hospital_prev",1649
+2020-05-07,"North West","icu_prev",191
+2020-05-07,"South East","hospital_prev",986
+2020-05-07,"South East","icu_prev",185
+2020-05-07,"South West","hospital_prev",379
+2020-05-07,"South West","icu_prev",66
+2020-05-08,"East of England","hospital_inc",101
+2020-05-08,"England","hospital_inc",798
+2020-05-08,"London","hospital_inc",85
+2020-05-08,"Midlands","hospital_inc",159
+2020-05-08,"North East and Yorkshire","hospital_inc",145
+2020-05-08,"North West","hospital_inc",167
+2020-05-08,"South East","hospital_inc",96
+2020-05-08,"South West","hospital_inc",45
+2020-05-08,"East of England","hospital_prev",694
+2020-05-08,"East of England","icu_prev",142
+2020-05-08,"England","hospital_prev",7459
+2020-05-08,"England","icu_prev",1445
+2020-05-08,"London","hospital_prev",1108
+2020-05-08,"London","icu_prev",531
+2020-05-08,"Midlands","hospital_prev",1358
+2020-05-08,"Midlands","icu_prev",198
+2020-05-08,"North East and Yorkshire","hospital_prev",1380
+2020-05-08,"North East and Yorkshire","icu_prev",151
+2020-05-08,"North West","hospital_prev",1636
+2020-05-08,"North West","icu_prev",181
+2020-05-08,"South East","hospital_prev",938
+2020-05-08,"South East","icu_prev",185
+2020-05-08,"South West","hospital_prev",345
+2020-05-08,"South West","icu_prev",57
+2020-05-09,"East of England","hospital_inc",71
+2020-05-09,"England","hospital_inc",756
+2020-05-09,"London","hospital_inc",86
+2020-05-09,"Midlands","hospital_inc",124
+2020-05-09,"North East and Yorkshire","hospital_inc",139
+2020-05-09,"North West","hospital_inc",156
+2020-05-09,"South East","hospital_inc",139
+2020-05-09,"South West","hospital_inc",41
+2020-05-09,"East of England","hospital_prev",726
+2020-05-09,"East of England","icu_prev",144
+2020-05-09,"England","hospital_prev",7478
+2020-05-09,"England","icu_prev",1398
+2020-05-09,"London","hospital_prev",1137
+2020-05-09,"London","icu_prev",516
+2020-05-09,"Midlands","hospital_prev",1374
+2020-05-09,"Midlands","icu_prev",189
+2020-05-09,"North East and Yorkshire","hospital_prev",1350
+2020-05-09,"North East and Yorkshire","icu_prev",147
+2020-05-09,"North West","hospital_prev",1637
+2020-05-09,"North West","icu_prev",176
+2020-05-09,"South East","hospital_prev",892
+2020-05-09,"South East","icu_prev",171
+2020-05-09,"South West","hospital_prev",362
+2020-05-09,"South West","icu_prev",55
+2020-05-10,"East of England","hospital_inc",88
+2020-05-10,"England","hospital_inc",866
+2020-05-10,"London","hospital_inc",91
+2020-05-10,"Midlands","hospital_inc",165
+2020-05-10,"North East and Yorkshire","hospital_inc",148
+2020-05-10,"North West","hospital_inc",203
+2020-05-10,"South East","hospital_inc",113
+2020-05-10,"South West","hospital_inc",58
+2020-05-10,"East of England","hospital_prev",761
+2020-05-10,"East of England","icu_prev",142
+2020-05-10,"England","hospital_prev",7255
+2020-05-10,"England","icu_prev",1362
+2020-05-10,"London","hospital_prev",1113
+2020-05-10,"London","icu_prev",466
+2020-05-10,"Midlands","hospital_prev",1334
+2020-05-10,"Midlands","icu_prev",189
+2020-05-10,"North East and Yorkshire","hospital_prev",1268
+2020-05-10,"North East and Yorkshire","icu_prev",156
+2020-05-10,"North West","hospital_prev",1551
+2020-05-10,"North West","icu_prev",172
+2020-05-10,"South East","hospital_prev",876
+2020-05-10,"South East","icu_prev",175
+2020-05-10,"South West","hospital_prev",352
+2020-05-10,"South West","icu_prev",62
+2020-05-11,"East of England","hospital_inc",116
+2020-05-11,"England","hospital_inc",844
+2020-05-11,"London","hospital_inc",80
+2020-05-11,"Midlands","hospital_inc",160
+2020-05-11,"North East and Yorkshire","hospital_inc",155
+2020-05-11,"North West","hospital_inc",186
+2020-05-11,"South East","hospital_inc",109
+2020-05-11,"South West","hospital_inc",38
+2020-05-11,"East of England","hospital_prev",757
+2020-05-11,"East of England","icu_prev",137
+2020-05-11,"England","hospital_prev",7503
+2020-05-11,"England","icu_prev",1316
+2020-05-11,"London","hospital_prev",1123
+2020-05-11,"London","icu_prev",457
+2020-05-11,"Midlands","hospital_prev",1381
+2020-05-11,"Midlands","icu_prev",178
+2020-05-11,"North East and Yorkshire","hospital_prev",1359
+2020-05-11,"North East and Yorkshire","icu_prev",149
+2020-05-11,"North West","hospital_prev",1624
+2020-05-11,"North West","icu_prev",175
+2020-05-11,"South East","hospital_prev",899
+2020-05-11,"South East","icu_prev",163
+2020-05-11,"South West","hospital_prev",360
+2020-05-11,"South West","icu_prev",57
+2020-05-12,"East of England","hospital_inc",72
+2020-05-12,"England","hospital_inc",804
+2020-05-12,"London","hospital_inc",91
+2020-05-12,"Midlands","hospital_inc",148
+2020-05-12,"North East and Yorkshire","hospital_inc",156
+2020-05-12,"North West","hospital_inc",186
+2020-05-12,"South East","hospital_inc",99
+2020-05-12,"South West","hospital_inc",52
+2020-05-12,"East of England","hospital_prev",739
+2020-05-12,"East of England","icu_prev",134
+2020-05-12,"England","hospital_prev",7313
+2020-05-12,"England","icu_prev",1247
+2020-05-12,"London","hospital_prev",1122
+2020-05-12,"London","icu_prev",425
+2020-05-12,"Midlands","hospital_prev",1344
+2020-05-12,"Midlands","icu_prev",176
+2020-05-12,"North East and Yorkshire","hospital_prev",1320
+2020-05-12,"North East and Yorkshire","icu_prev",145
+2020-05-12,"North West","hospital_prev",1574
+2020-05-12,"North West","icu_prev",159
+2020-05-12,"South East","hospital_prev",882
+2020-05-12,"South East","icu_prev",153
+2020-05-12,"South West","hospital_prev",332
+2020-05-12,"South West","icu_prev",55
+2020-05-13,"East of England","hospital_inc",88
+2020-05-13,"England","hospital_inc",763
+2020-05-13,"London","hospital_inc",91
+2020-05-13,"Midlands","hospital_inc",143
+2020-05-13,"North East and Yorkshire","hospital_inc",127
+2020-05-13,"North West","hospital_inc",164
+2020-05-13,"South East","hospital_inc",113
+2020-05-13,"South West","hospital_inc",37
+2020-05-13,"East of England","hospital_prev",722
+2020-05-13,"East of England","icu_prev",129
+2020-05-13,"England","hospital_prev",7167
+2020-05-13,"England","icu_prev",1198
+2020-05-13,"London","hospital_prev",1077
+2020-05-13,"London","icu_prev",413
+2020-05-13,"Midlands","hospital_prev",1339
+2020-05-13,"Midlands","icu_prev",163
+2020-05-13,"North East and Yorkshire","hospital_prev",1303
+2020-05-13,"North East and Yorkshire","icu_prev",134
+2020-05-13,"North West","hospital_prev",1554
+2020-05-13,"North West","icu_prev",157
+2020-05-13,"South East","hospital_prev",848
+2020-05-13,"South East","icu_prev",148
+2020-05-13,"South West","hospital_prev",324
+2020-05-13,"South West","icu_prev",54
+2020-05-14,"East of England","hospital_inc",92
+2020-05-14,"England","hospital_inc",738
+2020-05-14,"London","hospital_inc",77
+2020-05-14,"Midlands","hospital_inc",172
+2020-05-14,"North East and Yorkshire","hospital_inc",109
+2020-05-14,"North West","hospital_inc",153
+2020-05-14,"South East","hospital_inc",85
+2020-05-14,"South West","hospital_inc",50
+2020-05-14,"East of England","hospital_prev",698
+2020-05-14,"East of England","icu_prev",125
+2020-05-14,"England","hospital_prev",6867
+2020-05-14,"England","icu_prev",1162
+2020-05-14,"London","hospital_prev",1009
+2020-05-14,"London","icu_prev",395
+2020-05-14,"Midlands","hospital_prev",1285
+2020-05-14,"Midlands","icu_prev",164
+2020-05-14,"North East and Yorkshire","hospital_prev",1237
+2020-05-14,"North East and Yorkshire","icu_prev",123
+2020-05-14,"North West","hospital_prev",1515
+2020-05-14,"North West","icu_prev",153
+2020-05-14,"South East","hospital_prev",811
+2020-05-14,"South East","icu_prev",150
+2020-05-14,"South West","hospital_prev",312
+2020-05-14,"South West","icu_prev",52
+2020-05-15,"East of England","hospital_inc",72
+2020-05-15,"England","hospital_inc",671
+2020-05-15,"London","hospital_inc",59
+2020-05-15,"Midlands","hospital_inc",143
+2020-05-15,"North East and Yorkshire","hospital_inc",95
+2020-05-15,"North West","hospital_inc",178
+2020-05-15,"South East","hospital_inc",71
+2020-05-15,"South West","hospital_inc",53
+2020-05-15,"East of England","hospital_prev",684
+2020-05-15,"East of England","icu_prev",127
+2020-05-15,"England","hospital_prev",6737
+2020-05-15,"England","icu_prev",1165
+2020-05-15,"London","hospital_prev",961
+2020-05-15,"London","icu_prev",405
+2020-05-15,"Midlands","hospital_prev",1253
+2020-05-15,"Midlands","icu_prev",154
+2020-05-15,"North East and Yorkshire","hospital_prev",1227
+2020-05-15,"North East and Yorkshire","icu_prev",139
+2020-05-15,"North West","hospital_prev",1479
+2020-05-15,"North West","icu_prev",157
+2020-05-15,"South East","hospital_prev",822
+2020-05-15,"South East","icu_prev",133
+2020-05-15,"South West","hospital_prev",311
+2020-05-15,"South West","icu_prev",50
+2020-05-16,"East of England","hospital_inc",85
+2020-05-16,"England","hospital_inc",673
+2020-05-16,"London","hospital_inc",51
+2020-05-16,"Midlands","hospital_inc",152
+2020-05-16,"North East and Yorkshire","hospital_inc",95
+2020-05-16,"North West","hospital_inc",169
+2020-05-16,"South East","hospital_inc",94
+2020-05-16,"South West","hospital_inc",27
+2020-05-16,"East of England","hospital_prev",652
+2020-05-16,"East of England","icu_prev",125
+2020-05-16,"England","hospital_prev",6426
+2020-05-16,"England","icu_prev",1101
+2020-05-16,"London","hospital_prev",931
+2020-05-16,"London","icu_prev",384
+2020-05-16,"Midlands","hospital_prev",1235
+2020-05-16,"Midlands","icu_prev",150
+2020-05-16,"North East and Yorkshire","hospital_prev",1132
+2020-05-16,"North East and Yorkshire","icu_prev",125
+2020-05-16,"North West","hospital_prev",1444
+2020-05-16,"North West","icu_prev",136
+2020-05-16,"South East","hospital_prev",736
+2020-05-16,"South East","icu_prev",130
+2020-05-16,"South West","hospital_prev",296
+2020-05-16,"South West","icu_prev",51
+2020-05-17,"East of England","hospital_inc",81
+2020-05-17,"England","hospital_inc",733
+2020-05-17,"London","hospital_inc",74
+2020-05-17,"Midlands","hospital_inc",154
+2020-05-17,"North East and Yorkshire","hospital_inc",101
+2020-05-17,"North West","hospital_inc",171
+2020-05-17,"South East","hospital_inc",104
+2020-05-17,"South West","hospital_inc",48
+2020-05-17,"East of England","hospital_prev",672
+2020-05-17,"East of England","icu_prev",125
+2020-05-17,"England","hospital_prev",6489
+2020-05-17,"England","icu_prev",1064
+2020-05-17,"London","hospital_prev",908
+2020-05-17,"London","icu_prev",374
+2020-05-17,"Midlands","hospital_prev",1288
+2020-05-17,"Midlands","icu_prev",151
+2020-05-17,"North East and Yorkshire","hospital_prev",1126
+2020-05-17,"North East and Yorkshire","icu_prev",114
+2020-05-17,"North West","hospital_prev",1453
+2020-05-17,"North West","icu_prev",135
+2020-05-17,"South East","hospital_prev",728
+2020-05-17,"South East","icu_prev",118
+2020-05-17,"South West","hospital_prev",314
+2020-05-17,"South West","icu_prev",47
+2020-05-18,"East of England","hospital_inc",86
+2020-05-18,"England","hospital_inc",752
+2020-05-18,"London","hospital_inc",89
+2020-05-18,"Midlands","hospital_inc",157
+2020-05-18,"North East and Yorkshire","hospital_inc",99
+2020-05-18,"North West","hospital_inc",173
+2020-05-18,"South East","hospital_inc",96
+2020-05-18,"South West","hospital_inc",52
+2020-05-18,"East of England","hospital_prev",662
+2020-05-18,"East of England","icu_prev",121
+2020-05-18,"England","hospital_prev",6539
+2020-05-18,"England","icu_prev",1010
+2020-05-18,"London","hospital_prev",909
+2020-05-18,"London","icu_prev",349
+2020-05-18,"Midlands","hospital_prev",1327
+2020-05-18,"Midlands","icu_prev",139
+2020-05-18,"North East and Yorkshire","hospital_prev",1131
+2020-05-18,"North East and Yorkshire","icu_prev",112
+2020-05-18,"North West","hospital_prev",1461
+2020-05-18,"North West","icu_prev",130
+2020-05-18,"South East","hospital_prev",720
+2020-05-18,"South East","icu_prev",117
+2020-05-18,"South West","hospital_prev",329
+2020-05-18,"South West","icu_prev",42
+2020-05-19,"East of England","hospital_inc",93
+2020-05-19,"England","hospital_inc",732
+2020-05-19,"London","hospital_inc",71
+2020-05-19,"Midlands","hospital_inc",149
+2020-05-19,"North East and Yorkshire","hospital_inc",106
+2020-05-19,"North West","hospital_inc",151
+2020-05-19,"South East","hospital_inc",107
+2020-05-19,"South West","hospital_inc",55
+2020-05-19,"East of England","hospital_prev",665
+2020-05-19,"East of England","icu_prev",122
+2020-05-19,"England","hospital_prev",6460
+2020-05-19,"England","icu_prev",976
+2020-05-19,"London","hospital_prev",849
+2020-05-19,"London","icu_prev",333
+2020-05-19,"Midlands","hospital_prev",1299
+2020-05-19,"Midlands","icu_prev",141
+2020-05-19,"North East and Yorkshire","hospital_prev",1103
+2020-05-19,"North East and Yorkshire","icu_prev",112
+2020-05-19,"North West","hospital_prev",1515
+2020-05-19,"North West","icu_prev",121
+2020-05-19,"South East","hospital_prev",708
+2020-05-19,"South East","icu_prev",110
+2020-05-19,"South West","hospital_prev",321
+2020-05-19,"South West","icu_prev",37
+2020-05-20,"East of England","hospital_inc",77
+2020-05-20,"England","hospital_inc",715
+2020-05-20,"London","hospital_inc",76
+2020-05-20,"Midlands","hospital_inc",133
+2020-05-20,"North East and Yorkshire","hospital_inc",123
+2020-05-20,"North West","hospital_inc",165
+2020-05-20,"South East","hospital_inc",88
+2020-05-20,"South West","hospital_inc",53
+2020-05-20,"East of England","hospital_prev",651
+2020-05-20,"East of England","icu_prev",113
+2020-05-20,"England","hospital_prev",6162
+2020-05-20,"England","icu_prev",921
+2020-05-20,"London","hospital_prev",737
+2020-05-20,"London","icu_prev",313
+2020-05-20,"Midlands","hospital_prev",1283
+2020-05-20,"Midlands","icu_prev",132
+2020-05-20,"North East and Yorkshire","hospital_prev",1031
+2020-05-20,"North East and Yorkshire","icu_prev",112
+2020-05-20,"North West","hospital_prev",1463
+2020-05-20,"North West","icu_prev",111
+2020-05-20,"South East","hospital_prev",679
+2020-05-20,"South East","icu_prev",104
+2020-05-20,"South West","hospital_prev",318
+2020-05-20,"South West","icu_prev",36
+2020-05-21,"East of England","hospital_inc",79
+2020-05-21,"England","hospital_inc",638
+2020-05-21,"London","hospital_inc",77
+2020-05-21,"Midlands","hospital_inc",120
+2020-05-21,"North East and Yorkshire","hospital_inc",85
+2020-05-21,"North West","hospital_inc",160
+2020-05-21,"South East","hospital_inc",78
+2020-05-21,"South West","hospital_inc",39
+2020-05-21,"East of England","hospital_prev",631
+2020-05-21,"East of England","icu_prev",109
+2020-05-21,"England","hospital_prev",6002
+2020-05-21,"England","icu_prev",894
+2020-05-21,"London","hospital_prev",711
+2020-05-21,"London","icu_prev",307
+2020-05-21,"Midlands","hospital_prev",1280
+2020-05-21,"Midlands","icu_prev",129
+2020-05-21,"North East and Yorkshire","hospital_prev",961
+2020-05-21,"North East and Yorkshire","icu_prev",106
+2020-05-21,"North West","hospital_prev",1408
+2020-05-21,"North West","icu_prev",109
+2020-05-21,"South East","hospital_prev",689
+2020-05-21,"South East","icu_prev",99
+2020-05-21,"South West","hospital_prev",322
+2020-05-21,"South West","icu_prev",35
+2020-05-22,"East of England","hospital_inc",39
+2020-05-22,"England","hospital_inc",504
+2020-05-22,"London","hospital_inc",43
+2020-05-22,"Midlands","hospital_inc",113
+2020-05-22,"North East and Yorkshire","hospital_inc",97
+2020-05-22,"North West","hospital_inc",125
+2020-05-22,"South East","hospital_inc",59
+2020-05-22,"South West","hospital_inc",28
+2020-05-22,"East of England","hospital_prev",614
+2020-05-22,"East of England","icu_prev",104
+2020-05-22,"England","hospital_prev",5975
+2020-05-22,"England","icu_prev",852
+2020-05-22,"London","hospital_prev",760
+2020-05-22,"London","icu_prev",287
+2020-05-22,"Midlands","hospital_prev",1261
+2020-05-22,"Midlands","icu_prev",120
+2020-05-22,"North East and Yorkshire","hospital_prev",936
+2020-05-22,"North East and Yorkshire","icu_prev",97
+2020-05-22,"North West","hospital_prev",1382
+2020-05-22,"North West","icu_prev",113
+2020-05-22,"South East","hospital_prev",721
+2020-05-22,"South East","icu_prev",97
+2020-05-22,"South West","hospital_prev",301
+2020-05-22,"South West","icu_prev",34
+2020-05-23,"East of England","hospital_inc",52
+2020-05-23,"England","hospital_inc",497
+2020-05-23,"London","hospital_inc",41
+2020-05-23,"Midlands","hospital_inc",90
+2020-05-23,"North East and Yorkshire","hospital_inc",85
+2020-05-23,"North West","hospital_inc",128
+2020-05-23,"South East","hospital_inc",78
+2020-05-23,"South West","hospital_inc",23
+2020-05-23,"East of England","hospital_prev",609
+2020-05-23,"East of England","icu_prev",98
+2020-05-23,"England","hospital_prev",5686
+2020-05-23,"England","icu_prev",813
+2020-05-23,"London","hospital_prev",689
+2020-05-23,"London","icu_prev",272
+2020-05-23,"Midlands","hospital_prev",1189
+2020-05-23,"Midlands","icu_prev",114
+2020-05-23,"North East and Yorkshire","hospital_prev",887
+2020-05-23,"North East and Yorkshire","icu_prev",92
+2020-05-23,"North West","hospital_prev",1351
+2020-05-23,"North West","icu_prev",113
+2020-05-23,"South East","hospital_prev",666
+2020-05-23,"South East","icu_prev",89
+2020-05-23,"South West","hospital_prev",295
+2020-05-23,"South West","icu_prev",35
+2020-05-24,"East of England","hospital_inc",51
+2020-05-24,"England","hospital_inc",498
+2020-05-24,"London","hospital_inc",49
+2020-05-24,"Midlands","hospital_inc",92
+2020-05-24,"North East and Yorkshire","hospital_inc",67
+2020-05-24,"North West","hospital_inc",121
+2020-05-24,"South East","hospital_inc",82
+2020-05-24,"South West","hospital_inc",36
+2020-05-24,"East of England","hospital_prev",595
+2020-05-24,"East of England","icu_prev",88
+2020-05-24,"England","hospital_prev",5703
+2020-05-24,"England","icu_prev",786
+2020-05-24,"London","hospital_prev",703
+2020-05-24,"London","icu_prev",271
+2020-05-24,"Midlands","hospital_prev",1214
+2020-05-24,"Midlands","icu_prev",110
+2020-05-24,"North East and Yorkshire","hospital_prev",895
+2020-05-24,"North East and Yorkshire","icu_prev",87
+2020-05-24,"North West","hospital_prev",1326
+2020-05-24,"North West","icu_prev",100
+2020-05-24,"South East","hospital_prev",682
+2020-05-24,"South East","icu_prev",95
+2020-05-24,"South West","hospital_prev",288
+2020-05-24,"South West","icu_prev",35
+2020-05-25,"East of England","hospital_inc",85
+2020-05-25,"England","hospital_inc",578
+2020-05-25,"London","hospital_inc",67
+2020-05-25,"Midlands","hospital_inc",118
+2020-05-25,"North East and Yorkshire","hospital_inc",85
+2020-05-25,"North West","hospital_inc",112
+2020-05-25,"South East","hospital_inc",74
+2020-05-25,"South West","hospital_inc",37
+2020-05-25,"East of England","hospital_prev",591
+2020-05-25,"East of England","icu_prev",92
+2020-05-25,"England","hospital_prev",5752
+2020-05-25,"England","icu_prev",771
+2020-05-25,"London","hospital_prev",711
+2020-05-25,"London","icu_prev",276
+2020-05-25,"Midlands","hospital_prev",1271
+2020-05-25,"Midlands","icu_prev",101
+2020-05-25,"North East and Yorkshire","hospital_prev",931
+2020-05-25,"North East and Yorkshire","icu_prev",83
+2020-05-25,"North West","hospital_prev",1329
+2020-05-25,"North West","icu_prev",97
+2020-05-25,"South East","hospital_prev",636
+2020-05-25,"South East","icu_prev",88
+2020-05-25,"South West","hospital_prev",283
+2020-05-25,"South West","icu_prev",34
+2020-05-26,"East of England","hospital_inc",57
+2020-05-26,"England","hospital_inc",589
+2020-05-26,"London","hospital_inc",69
+2020-05-26,"Midlands","hospital_inc",126
+2020-05-26,"North East and Yorkshire","hospital_inc",82
+2020-05-26,"North West","hospital_inc",148
+2020-05-26,"South East","hospital_inc",72
+2020-05-26,"South West","hospital_inc",35
+2020-05-26,"East of England","hospital_prev",555
+2020-05-26,"East of England","icu_prev",86
+2020-05-26,"England","hospital_prev",5634
+2020-05-26,"England","icu_prev",756
+2020-05-26,"London","hospital_prev",689
+2020-05-26,"London","icu_prev",268
+2020-05-26,"Midlands","hospital_prev",1209
+2020-05-26,"Midlands","icu_prev",98
+2020-05-26,"North East and Yorkshire","hospital_prev",931
+2020-05-26,"North East and Yorkshire","icu_prev",82
+2020-05-26,"North West","hospital_prev",1320
+2020-05-26,"North West","icu_prev",104
+2020-05-26,"South East","hospital_prev",661
+2020-05-26,"South East","icu_prev",86
+2020-05-26,"South West","hospital_prev",269
+2020-05-26,"South West","icu_prev",32
+2020-05-27,"East of England","hospital_inc",53
+2020-05-27,"England","hospital_inc",570
+2020-05-27,"London","hospital_inc",57
+2020-05-27,"Midlands","hospital_inc",114
+2020-05-27,"North East and Yorkshire","hospital_inc",74
+2020-05-27,"North West","hospital_inc",145
+2020-05-27,"South East","hospital_inc",79
+2020-05-27,"South West","hospital_inc",48
+2020-05-27,"East of England","hospital_prev",547
+2020-05-27,"East of England","icu_prev",85
+2020-05-27,"England","hospital_prev",5413
+2020-05-27,"England","icu_prev",696
+2020-05-27,"London","hospital_prev",685
+2020-05-27,"London","icu_prev",228
+2020-05-27,"Midlands","hospital_prev",1170
+2020-05-27,"Midlands","icu_prev",96
+2020-05-27,"North East and Yorkshire","hospital_prev",888
+2020-05-27,"North East and Yorkshire","icu_prev",77
+2020-05-27,"North West","hospital_prev",1246
+2020-05-27,"North West","icu_prev",96
+2020-05-27,"South East","hospital_prev",636
+2020-05-27,"South East","icu_prev",84
+2020-05-27,"South West","hospital_prev",241
+2020-05-27,"South West","icu_prev",30
+2020-05-28,"East of England","hospital_inc",54
+2020-05-28,"England","hospital_inc",499
+2020-05-28,"London","hospital_inc",51
+2020-05-28,"Midlands","hospital_inc",112
+2020-05-28,"North East and Yorkshire","hospital_inc",71
+2020-05-28,"North West","hospital_inc",121
+2020-05-28,"South East","hospital_inc",65
+2020-05-28,"South West","hospital_inc",25
+2020-05-28,"East of England","hospital_prev",521
+2020-05-28,"East of England","icu_prev",78
+2020-05-28,"England","hospital_prev",5187
+2020-05-28,"England","icu_prev",663
+2020-05-28,"London","hospital_prev",639
+2020-05-28,"London","icu_prev",222
+2020-05-28,"Midlands","hospital_prev",1134
+2020-05-28,"Midlands","icu_prev",94
+2020-05-28,"North East and Yorkshire","hospital_prev",866
+2020-05-28,"North East and Yorkshire","icu_prev",73
+2020-05-28,"North West","hospital_prev",1205
+2020-05-28,"North West","icu_prev",87
+2020-05-28,"South East","hospital_prev",584
+2020-05-28,"South East","icu_prev",81
+2020-05-28,"South West","hospital_prev",238
+2020-05-28,"South West","icu_prev",28
+2020-05-29,"East of England","hospital_inc",43
+2020-05-29,"England","hospital_inc",466
+2020-05-29,"London","hospital_inc",30
+2020-05-29,"Midlands","hospital_inc",116
+2020-05-29,"North East and Yorkshire","hospital_inc",75
+2020-05-29,"North West","hospital_inc",97
+2020-05-29,"South East","hospital_inc",74
+2020-05-29,"South West","hospital_inc",31
+2020-05-29,"East of England","hospital_prev",434
+2020-05-29,"East of England","icu_prev",68
+2020-05-29,"England","hospital_prev",4959
+2020-05-29,"England","icu_prev",630
+2020-05-29,"London","hospital_prev",632
+2020-05-29,"London","icu_prev",207
+2020-05-29,"Midlands","hospital_prev",1073
+2020-05-29,"Midlands","icu_prev",103
+2020-05-29,"North East and Yorkshire","hospital_prev",835
+2020-05-29,"North East and Yorkshire","icu_prev",68
+2020-05-29,"North West","hospital_prev",1180
+2020-05-29,"North West","icu_prev",85
+2020-05-29,"South East","hospital_prev",580
+2020-05-29,"South East","icu_prev",73
+2020-05-29,"South West","hospital_prev",225
+2020-05-29,"South West","icu_prev",26
+2020-05-30,"East of England","hospital_inc",29
+2020-05-30,"England","hospital_inc",446
+2020-05-30,"London","hospital_inc",42
+2020-05-30,"Midlands","hospital_inc",102
+2020-05-30,"North East and Yorkshire","hospital_inc",78
+2020-05-30,"North West","hospital_inc",126
+2020-05-30,"South East","hospital_inc",46
+2020-05-30,"South West","hospital_inc",23
+2020-05-30,"East of England","hospital_prev",466
+2020-05-30,"East of England","icu_prev",65
+2020-05-30,"England","hospital_prev",4712
+2020-05-30,"England","icu_prev",628
+2020-05-30,"London","hospital_prev",567
+2020-05-30,"London","icu_prev",213
+2020-05-30,"Midlands","hospital_prev",1016
+2020-05-30,"Midlands","icu_prev",104
+2020-05-30,"North East and Yorkshire","hospital_prev",793
+2020-05-30,"North East and Yorkshire","icu_prev",63
+2020-05-30,"North West","hospital_prev",1132
+2020-05-30,"North West","icu_prev",86
+2020-05-30,"South East","hospital_prev",527
+2020-05-30,"South East","icu_prev",72
+2020-05-30,"South West","hospital_prev",211
+2020-05-30,"South West","icu_prev",25
+2020-05-31,"East of England","hospital_inc",58
+2020-05-31,"England","hospital_inc",522
+2020-05-31,"London","hospital_inc",48
+2020-05-31,"Midlands","hospital_inc",94
+2020-05-31,"North East and Yorkshire","hospital_inc",71
+2020-05-31,"North West","hospital_inc",149
+2020-05-31,"South East","hospital_inc",56
+2020-05-31,"South West","hospital_inc",46
+2020-05-31,"East of England","hospital_prev",452
+2020-05-31,"East of England","icu_prev",63
+2020-05-31,"England","hospital_prev",4692
+2020-05-31,"England","icu_prev",606
+2020-05-31,"London","hospital_prev",551
+2020-05-31,"London","icu_prev",197
+2020-05-31,"Midlands","hospital_prev",1009
+2020-05-31,"Midlands","icu_prev",104
+2020-05-31,"North East and Yorkshire","hospital_prev",807
+2020-05-31,"North East and Yorkshire","icu_prev",63
+2020-05-31,"North West","hospital_prev",1136
+2020-05-31,"North West","icu_prev",85
+2020-05-31,"South East","hospital_prev",529
+2020-05-31,"South East","icu_prev",70
+2020-05-31,"South West","hospital_prev",208
+2020-05-31,"South West","icu_prev",24
+2020-06-01,"East of England","hospital_inc",60
+2020-06-01,"England","hospital_inc",553
+2020-06-01,"London","hospital_inc",51
+2020-06-01,"Midlands","hospital_inc",126
+2020-06-01,"North East and Yorkshire","hospital_inc",70
+2020-06-01,"North West","hospital_inc",121
+2020-06-01,"South East","hospital_inc",83
+2020-06-01,"South West","hospital_inc",42
+2020-06-01,"East of England","hospital_prev",462
+2020-06-01,"East of England","icu_prev",64
+2020-06-01,"England","hospital_prev",4774
+2020-06-01,"England","icu_prev",584
+2020-06-01,"London","hospital_prev",567
+2020-06-01,"London","icu_prev",170
+2020-06-01,"Midlands","hospital_prev",1041
+2020-06-01,"Midlands","icu_prev",107
+2020-06-01,"North East and Yorkshire","hospital_prev",802
+2020-06-01,"North East and Yorkshire","icu_prev",65
+2020-06-01,"North West","hospital_prev",1138
+2020-06-01,"North West","icu_prev",89
+2020-06-01,"South East","hospital_prev",557
+2020-06-01,"South East","icu_prev",64
+2020-06-01,"South West","hospital_prev",207
+2020-06-01,"South West","icu_prev",25
+2020-06-02,"East of England","hospital_inc",46
+2020-06-02,"England","hospital_inc",491
+2020-06-02,"London","hospital_inc",68
+2020-06-02,"Midlands","hospital_inc",112
+2020-06-02,"North East and Yorkshire","hospital_inc",53
+2020-06-02,"North West","hospital_inc",122
+2020-06-02,"South East","hospital_inc",57
+2020-06-02,"South West","hospital_inc",33
+2020-06-02,"East of England","hospital_prev",421
+2020-06-02,"East of England","icu_prev",61
+2020-06-02,"England","hospital_prev",4655
+2020-06-02,"England","icu_prev",553
+2020-06-02,"London","hospital_prev",551
+2020-06-02,"London","icu_prev",159
+2020-06-02,"Midlands","hospital_prev",1005
+2020-06-02,"Midlands","icu_prev",99
+2020-06-02,"North East and Yorkshire","hospital_prev",788
+2020-06-02,"North East and Yorkshire","icu_prev",68
+2020-06-02,"North West","hospital_prev",1134
+2020-06-02,"North West","icu_prev",83
+2020-06-02,"South East","hospital_prev",548
+2020-06-02,"South East","icu_prev",59
+2020-06-02,"South West","hospital_prev",208
+2020-06-02,"South West","icu_prev",24
+2020-06-03,"East of England","hospital_inc",58
+2020-06-03,"England","hospital_inc",458
+2020-06-03,"London","hospital_inc",58
+2020-06-03,"Midlands","hospital_inc",94
+2020-06-03,"North East and Yorkshire","hospital_inc",52
+2020-06-03,"North West","hospital_inc",124
+2020-06-03,"South East","hospital_inc",56
+2020-06-03,"South West","hospital_inc",16
+2020-06-03,"East of England","hospital_prev",403
+2020-06-03,"East of England","icu_prev",60
+2020-06-03,"England","hospital_prev",4534
+2020-06-03,"England","icu_prev",523
+2020-06-03,"London","hospital_prev",548
+2020-06-03,"London","icu_prev",148
+2020-06-03,"Midlands","hospital_prev",962
+2020-06-03,"Midlands","icu_prev",92
+2020-06-03,"North East and Yorkshire","hospital_prev",755
+2020-06-03,"North East and Yorkshire","icu_prev",64
+2020-06-03,"North West","hospital_prev",1110
+2020-06-03,"North West","icu_prev",85
+2020-06-03,"South East","hospital_prev",544
+2020-06-03,"South East","icu_prev",52
+2020-06-03,"South West","hospital_prev",212
+2020-06-03,"South West","icu_prev",22
+2020-06-04,"East of England","hospital_inc",44
+2020-06-04,"England","hospital_inc",380
+2020-06-04,"London","hospital_inc",50
+2020-06-04,"Midlands","hospital_inc",70
+2020-06-04,"North East and Yorkshire","hospital_inc",69
+2020-06-04,"North West","hospital_inc",75
+2020-06-04,"South East","hospital_inc",42
+2020-06-04,"South West","hospital_inc",30
+2020-06-04,"East of England","hospital_prev",371
+2020-06-04,"East of England","icu_prev",54
+2020-06-04,"England","hospital_prev",4341
+2020-06-04,"England","icu_prev",494
+2020-06-04,"London","hospital_prev",530
+2020-06-04,"London","icu_prev",139
+2020-06-04,"Midlands","hospital_prev",943
+2020-06-04,"Midlands","icu_prev",93
+2020-06-04,"North East and Yorkshire","hospital_prev",703
+2020-06-04,"North East and Yorkshire","icu_prev",64
+2020-06-04,"North West","hospital_prev",1056
+2020-06-04,"North West","icu_prev",77
+2020-06-04,"South East","hospital_prev",533
+2020-06-04,"South East","icu_prev",48
+2020-06-04,"South West","hospital_prev",205
+2020-06-04,"South West","icu_prev",19
+2020-06-05,"East of England","hospital_inc",30
+2020-06-05,"England","hospital_inc",306
+2020-06-05,"London","hospital_inc",46
+2020-06-05,"Midlands","hospital_inc",51
+2020-06-05,"North East and Yorkshire","hospital_inc",46
+2020-06-05,"North West","hospital_inc",56
+2020-06-05,"South East","hospital_inc",49
+2020-06-05,"South West","hospital_inc",28
+2020-06-05,"East of England","hospital_prev",359
+2020-06-05,"East of England","icu_prev",49
+2020-06-05,"England","hospital_prev",4214
+2020-06-05,"England","icu_prev",481
+2020-06-05,"London","hospital_prev",525
+2020-06-05,"London","icu_prev",137
+2020-06-05,"Midlands","hospital_prev",896
+2020-06-05,"Midlands","icu_prev",91
+2020-06-05,"North East and Yorkshire","hospital_prev",674
+2020-06-05,"North East and Yorkshire","icu_prev",65
+2020-06-05,"North West","hospital_prev",1046
+2020-06-05,"North West","icu_prev",77
+2020-06-05,"South East","hospital_prev",512
+2020-06-05,"South East","icu_prev",46
+2020-06-05,"South West","hospital_prev",202
+2020-06-05,"South West","icu_prev",16
+2020-06-06,"East of England","hospital_inc",32
+2020-06-06,"England","hospital_inc",323
+2020-06-06,"London","hospital_inc",56
+2020-06-06,"Midlands","hospital_inc",65
+2020-06-06,"North East and Yorkshire","hospital_inc",39
+2020-06-06,"North West","hospital_inc",66
+2020-06-06,"South East","hospital_inc",43
+2020-06-06,"South West","hospital_inc",22
+2020-06-06,"East of England","hospital_prev",393
+2020-06-06,"East of England","icu_prev",46
+2020-06-06,"England","hospital_prev",4033
+2020-06-06,"England","icu_prev",473
+2020-06-06,"London","hospital_prev",451
+2020-06-06,"London","icu_prev",140
+2020-06-06,"Midlands","hospital_prev",875
+2020-06-06,"Midlands","icu_prev",80
+2020-06-06,"North East and Yorkshire","hospital_prev",633
+2020-06-06,"North East and Yorkshire","icu_prev",68
+2020-06-06,"North West","hospital_prev",977
+2020-06-06,"North West","icu_prev",79
+2020-06-06,"South East","hospital_prev",506
+2020-06-06,"South East","icu_prev",45
+2020-06-06,"South West","hospital_prev",198
+2020-06-06,"South West","icu_prev",15
+2020-06-07,"East of England","hospital_inc",28
+2020-06-07,"England","hospital_inc",348
+2020-06-07,"London","hospital_inc",69
+2020-06-07,"Midlands","hospital_inc",86
+2020-06-07,"North East and Yorkshire","hospital_inc",52
+2020-06-07,"North West","hospital_inc",68
+2020-06-07,"South East","hospital_inc",38
+2020-06-07,"South West","hospital_inc",7
+2020-06-07,"East of England","hospital_prev",349
+2020-06-07,"East of England","icu_prev",40
+2020-06-07,"England","hospital_prev",3877
+2020-06-07,"England","icu_prev",448
+2020-06-07,"London","hospital_prev",452
+2020-06-07,"London","icu_prev",134
+2020-06-07,"Midlands","hospital_prev",855
+2020-06-07,"Midlands","icu_prev",77
+2020-06-07,"North East and Yorkshire","hospital_prev",634
+2020-06-07,"North East and Yorkshire","icu_prev",64
+2020-06-07,"North West","hospital_prev",938
+2020-06-07,"North West","icu_prev",78
+2020-06-07,"South East","hospital_prev",474
+2020-06-07,"South East","icu_prev",42
+2020-06-07,"South West","hospital_prev",175
+2020-06-07,"South West","icu_prev",13
+2020-06-08,"East of England","hospital_inc",44
+2020-06-08,"England","hospital_inc",397
+2020-06-08,"London","hospital_inc",35
+2020-06-08,"Midlands","hospital_inc",103
+2020-06-08,"North East and Yorkshire","hospital_inc",61
+2020-06-08,"North West","hospital_inc",98
+2020-06-08,"South East","hospital_inc",39
+2020-06-08,"South West","hospital_inc",17
+2020-06-08,"East of England","hospital_prev",349
+2020-06-08,"East of England","icu_prev",45
+2020-06-08,"England","hospital_prev",3883
+2020-06-08,"England","icu_prev",443
+2020-06-08,"London","hospital_prev",451
+2020-06-08,"London","icu_prev",134
+2020-06-08,"Midlands","hospital_prev",864
+2020-06-08,"Midlands","icu_prev",72
+2020-06-08,"North East and Yorkshire","hospital_prev",648
+2020-06-08,"North East and Yorkshire","icu_prev",60
+2020-06-08,"North West","hospital_prev",943
+2020-06-08,"North West","icu_prev",76
+2020-06-08,"South East","hospital_prev",469
+2020-06-08,"South East","icu_prev",42
+2020-06-08,"South West","hospital_prev",159
+2020-06-08,"South West","icu_prev",14
+2020-06-09,"East of England","hospital_inc",39
+2020-06-09,"England","hospital_inc",402
+2020-06-09,"London","hospital_inc",41
+2020-06-09,"Midlands","hospital_inc",105
+2020-06-09,"North East and Yorkshire","hospital_inc",58
+2020-06-09,"North West","hospital_inc",113
+2020-06-09,"South East","hospital_inc",23
+2020-06-09,"South West","hospital_inc",23
+2020-06-09,"East of England","hospital_prev",313
+2020-06-09,"East of England","icu_prev",42
+2020-06-09,"England","hospital_prev",3749
+2020-06-09,"England","icu_prev",427
+2020-06-09,"London","hospital_prev",454
+2020-06-09,"London","icu_prev",129
+2020-06-09,"Midlands","hospital_prev",855
+2020-06-09,"Midlands","icu_prev",70
+2020-06-09,"North East and Yorkshire","hospital_prev",624
+2020-06-09,"North East and Yorkshire","icu_prev",62
+2020-06-09,"North West","hospital_prev",910
+2020-06-09,"North West","icu_prev",74
+2020-06-09,"South East","hospital_prev",443
+2020-06-09,"South East","icu_prev",38
+2020-06-09,"South West","hospital_prev",150
+2020-06-09,"South West","icu_prev",12
+2020-06-10,"East of England","hospital_inc",42
+2020-06-10,"England","hospital_inc",330
+2020-06-10,"London","hospital_inc",32
+2020-06-10,"Midlands","hospital_inc",76
+2020-06-10,"North East and Yorkshire","hospital_inc",45
+2020-06-10,"North West","hospital_inc",101
+2020-06-10,"South East","hospital_inc",27
+2020-06-10,"South West","hospital_inc",7
+2020-06-10,"East of England","hospital_prev",290
+2020-06-10,"East of England","icu_prev",48
+2020-06-10,"England","hospital_prev",3576
+2020-06-10,"England","icu_prev",384
+2020-06-10,"London","hospital_prev",441
+2020-06-10,"London","icu_prev",115
+2020-06-10,"Midlands","hospital_prev",830
+2020-06-10,"Midlands","icu_prev",71
+2020-06-10,"North East and Yorkshire","hospital_prev",586
+2020-06-10,"North East and Yorkshire","icu_prev",61
+2020-06-10,"North West","hospital_prev",846
+2020-06-10,"North West","icu_prev",46
+2020-06-10,"South East","hospital_prev",442
+2020-06-10,"South East","icu_prev",32
+2020-06-10,"South West","hospital_prev",141
+2020-06-10,"South West","icu_prev",11
+2020-06-11,"East of England","hospital_inc",30
+2020-06-11,"England","hospital_inc",298
+2020-06-11,"London","hospital_inc",30
+2020-06-11,"Midlands","hospital_inc",69
+2020-06-11,"North East and Yorkshire","hospital_inc",45
+2020-06-11,"North West","hospital_inc",92
+2020-06-11,"South East","hospital_inc",28
+2020-06-11,"South West","hospital_inc",4
+2020-06-11,"East of England","hospital_prev",284
+2020-06-11,"East of England","icu_prev",43
+2020-06-11,"England","hospital_prev",3408
+2020-06-11,"England","icu_prev",334
+2020-06-11,"London","hospital_prev",409
+2020-06-11,"London","icu_prev",100
+2020-06-11,"Midlands","hospital_prev",791
+2020-06-11,"Midlands","icu_prev",59
+2020-06-11,"North East and Yorkshire","hospital_prev",537
+2020-06-11,"North East and Yorkshire","icu_prev",48
+2020-06-11,"North West","hospital_prev",845
+2020-06-11,"North West","icu_prev",43
+2020-06-11,"South East","hospital_prev",426
+2020-06-11,"South East","icu_prev",32
+2020-06-11,"South West","hospital_prev",116
+2020-06-11,"South West","icu_prev",9
+2020-06-12,"East of England","hospital_inc",32
+2020-06-12,"England","hospital_inc",265
+2020-06-12,"London","hospital_inc",20
+2020-06-12,"Midlands","hospital_inc",73
+2020-06-12,"North East and Yorkshire","hospital_inc",37
+2020-06-12,"North West","hospital_inc",63
+2020-06-12,"South East","hospital_inc",28
+2020-06-12,"South West","hospital_inc",12
+2020-06-12,"East of England","hospital_prev",277
+2020-06-12,"East of England","icu_prev",41
+2020-06-12,"England","hospital_prev",3382
+2020-06-12,"England","icu_prev",336
+2020-06-12,"London","hospital_prev",370
+2020-06-12,"London","icu_prev",100
+2020-06-12,"Midlands","hospital_prev",806
+2020-06-12,"Midlands","icu_prev",58
+2020-06-12,"North East and Yorkshire","hospital_prev",569
+2020-06-12,"North East and Yorkshire","icu_prev",59
+2020-06-12,"North West","hospital_prev",836
+2020-06-12,"North West","icu_prev",41
+2020-06-12,"South East","hospital_prev",407
+2020-06-12,"South East","icu_prev",28
+2020-06-12,"South West","hospital_prev",117
+2020-06-12,"South West","icu_prev",9
+2020-06-13,"East of England","hospital_inc",38
+2020-06-13,"England","hospital_inc",306
+2020-06-13,"London","hospital_inc",22
+2020-06-13,"Midlands","hospital_inc",72
+2020-06-13,"North East and Yorkshire","hospital_inc",43
+2020-06-13,"North West","hospital_inc",80
+2020-06-13,"South East","hospital_inc",46
+2020-06-13,"South West","hospital_inc",5
+2020-06-13,"East of England","hospital_prev",269
+2020-06-13,"East of England","icu_prev",45
+2020-06-13,"England","hospital_prev",3249
+2020-06-13,"England","icu_prev",339
+2020-06-13,"London","hospital_prev",343
+2020-06-13,"London","icu_prev",100
+2020-06-13,"Midlands","hospital_prev",790
+2020-06-13,"Midlands","icu_prev",54
+2020-06-13,"North East and Yorkshire","hospital_prev",533
+2020-06-13,"North East and Yorkshire","icu_prev",55
+2020-06-13,"North West","hospital_prev",831
+2020-06-13,"North West","icu_prev",46
+2020-06-13,"South East","hospital_prev",377
+2020-06-13,"South East","icu_prev",30
+2020-06-13,"South West","hospital_prev",106
+2020-06-13,"South West","icu_prev",9
+2020-06-14,"East of England","hospital_inc",57
+2020-06-14,"England","hospital_inc",365
+2020-06-14,"London","hospital_inc",49
+2020-06-14,"Midlands","hospital_inc",78
+2020-06-14,"North East and Yorkshire","hospital_inc",49
+2020-06-14,"North West","hospital_inc",78
+2020-06-14,"South East","hospital_inc",45
+2020-06-14,"South West","hospital_inc",9
+2020-06-14,"East of England","hospital_prev",259
+2020-06-14,"East of England","icu_prev",45
+2020-06-14,"England","hospital_prev",3250
+2020-06-14,"England","icu_prev",343
+2020-06-14,"London","hospital_prev",337
+2020-06-14,"London","icu_prev",100
+2020-06-14,"Midlands","hospital_prev",807
+2020-06-14,"Midlands","icu_prev",53
+2020-06-14,"North East and Yorkshire","hospital_prev",521
+2020-06-14,"North East and Yorkshire","icu_prev",55
+2020-06-14,"North West","hospital_prev",837
+2020-06-14,"North West","icu_prev",47
+2020-06-14,"South East","hospital_prev",384
+2020-06-14,"South East","icu_prev",34
+2020-06-14,"South West","hospital_prev",105
+2020-06-14,"South West","icu_prev",9
+2020-06-15,"East of England","hospital_inc",33
+2020-06-15,"England","hospital_inc",354
+2020-06-15,"London","hospital_inc",56
+2020-06-15,"Midlands","hospital_inc",72
+2020-06-15,"North East and Yorkshire","hospital_inc",62
+2020-06-15,"North West","hospital_inc",83
+2020-06-15,"South East","hospital_inc",37
+2020-06-15,"South West","hospital_inc",11
+2020-06-15,"East of England","hospital_prev",239
+2020-06-15,"East of England","icu_prev",39
+2020-06-15,"England","hospital_prev",3221
+2020-06-15,"England","icu_prev",327
+2020-06-15,"London","hospital_prev",321
+2020-06-15,"London","icu_prev",98
+2020-06-15,"Midlands","hospital_prev",799
+2020-06-15,"Midlands","icu_prev",58
+2020-06-15,"North East and Yorkshire","hospital_prev",524
+2020-06-15,"North East and Yorkshire","icu_prev",55
+2020-06-15,"North West","hospital_prev",854
+2020-06-15,"North West","icu_prev",40
+2020-06-15,"South East","hospital_prev",376
+2020-06-15,"South East","icu_prev",29
+2020-06-15,"South West","hospital_prev",108
+2020-06-15,"South West","icu_prev",8
+2020-06-16,"East of England","hospital_inc",43
+2020-06-16,"England","hospital_inc",334
+2020-06-16,"London","hospital_inc",56
+2020-06-16,"Midlands","hospital_inc",66
+2020-06-16,"North East and Yorkshire","hospital_inc",54
+2020-06-16,"North West","hospital_inc",77
+2020-06-16,"South East","hospital_inc",28
+2020-06-16,"South West","hospital_inc",10
+2020-06-16,"East of England","hospital_prev",280
+2020-06-16,"East of England","icu_prev",42
+2020-06-16,"England","hospital_prev",3242
+2020-06-16,"England","icu_prev",327
+2020-06-16,"London","hospital_prev",356
+2020-06-16,"London","icu_prev",97
+2020-06-16,"Midlands","hospital_prev",801
+2020-06-16,"Midlands","icu_prev",55
+2020-06-16,"North East and Yorkshire","hospital_prev",517
+2020-06-16,"North East and Yorkshire","icu_prev",52
+2020-06-16,"North West","hospital_prev",801
+2020-06-16,"North West","icu_prev",48
+2020-06-16,"South East","hospital_prev",383
+2020-06-16,"South East","icu_prev",26
+2020-06-16,"South West","hospital_prev",104
+2020-06-16,"South West","icu_prev",7
+2020-06-17,"East of England","hospital_inc",38
+2020-06-17,"England","hospital_inc",312
+2020-06-17,"London","hospital_inc",50
+2020-06-17,"Midlands","hospital_inc",66
+2020-06-17,"North East and Yorkshire","hospital_inc",52
+2020-06-17,"North West","hospital_inc",71
+2020-06-17,"South East","hospital_inc",22
+2020-06-17,"South West","hospital_inc",13
+2020-06-17,"East of England","hospital_prev",308
+2020-06-17,"East of England","icu_prev",39
+2020-06-17,"England","hospital_prev",3163
+2020-06-17,"England","icu_prev",300
+2020-06-17,"London","hospital_prev",337
+2020-06-17,"London","icu_prev",84
+2020-06-17,"Midlands","hospital_prev",774
+2020-06-17,"Midlands","icu_prev",47
+2020-06-17,"North East and Yorkshire","hospital_prev",474
+2020-06-17,"North East and Yorkshire","icu_prev",50
+2020-06-17,"North West","hospital_prev",801
+2020-06-17,"North West","icu_prev",48
+2020-06-17,"South East","hospital_prev",375
+2020-06-17,"South East","icu_prev",26
+2020-06-17,"South West","hospital_prev",94
+2020-06-17,"South West","icu_prev",6
+2020-06-18,"East of England","hospital_inc",28
+2020-06-18,"England","hospital_inc",253
+2020-06-18,"London","hospital_inc",47
+2020-06-18,"Midlands","hospital_inc",54
+2020-06-18,"North East and Yorkshire","hospital_inc",33
+2020-06-18,"North West","hospital_inc",57
+2020-06-18,"South East","hospital_inc",25
+2020-06-18,"South West","hospital_inc",9
+2020-06-18,"East of England","hospital_prev",290
+2020-06-18,"East of England","icu_prev",35
+2020-06-18,"England","hospital_prev",3047
+2020-06-18,"England","icu_prev",299
+2020-06-18,"London","hospital_prev",334
+2020-06-18,"London","icu_prev",83
+2020-06-18,"Midlands","hospital_prev",756
+2020-06-18,"Midlands","icu_prev",49
+2020-06-18,"North East and Yorkshire","hospital_prev",468
+2020-06-18,"North East and Yorkshire","icu_prev",50
+2020-06-18,"North West","hospital_prev",764
+2020-06-18,"North West","icu_prev",55
+2020-06-18,"South East","hospital_prev",346
+2020-06-18,"South East","icu_prev",22
+2020-06-18,"South West","hospital_prev",89
+2020-06-18,"South West","icu_prev",5
+2020-06-19,"East of England","hospital_inc",19
+2020-06-19,"England","hospital_inc",184
+2020-06-19,"London","hospital_inc",19
+2020-06-19,"Midlands","hospital_inc",42
+2020-06-19,"North East and Yorkshire","hospital_inc",30
+2020-06-19,"North West","hospital_inc",34
+2020-06-19,"South East","hospital_inc",35
+2020-06-19,"South West","hospital_inc",5
+2020-06-19,"East of England","hospital_prev",323
+2020-06-19,"East of England","icu_prev",34
+2020-06-19,"England","hospital_prev",2965
+2020-06-19,"England","icu_prev",283
+2020-06-19,"London","hospital_prev",317
+2020-06-19,"London","icu_prev",72
+2020-06-19,"Midlands","hospital_prev",693
+2020-06-19,"Midlands","icu_prev",48
+2020-06-19,"North East and Yorkshire","hospital_prev",451
+2020-06-19,"North East and Yorkshire","icu_prev",45
+2020-06-19,"North West","hospital_prev",752
+2020-06-19,"North West","icu_prev",55
+2020-06-19,"South East","hospital_prev",346
+2020-06-19,"South East","icu_prev",24
+2020-06-19,"South West","hospital_prev",83
+2020-06-19,"South West","icu_prev",5
+2020-06-20,"East of England","hospital_inc",22
+2020-06-20,"England","hospital_inc",215
+2020-06-20,"London","hospital_inc",25
+2020-06-20,"Midlands","hospital_inc",61
+2020-06-20,"North East and Yorkshire","hospital_inc",23
+2020-06-20,"North West","hospital_inc",54
+2020-06-20,"South East","hospital_inc",27
+2020-06-20,"South West","hospital_inc",3
+2020-06-20,"East of England","hospital_prev",289
+2020-06-20,"East of England","icu_prev",31
+2020-06-20,"England","hospital_prev",2840
+2020-06-20,"England","icu_prev",266
+2020-06-20,"London","hospital_prev",311
+2020-06-20,"London","icu_prev",71
+2020-06-20,"Midlands","hospital_prev",691
+2020-06-20,"Midlands","icu_prev",43
+2020-06-20,"North East and Yorkshire","hospital_prev",426
+2020-06-20,"North East and Yorkshire","icu_prev",46
+2020-06-20,"North West","hospital_prev",751
+2020-06-20,"North West","icu_prev",48
+2020-06-20,"South East","hospital_prev",293
+2020-06-20,"South East","icu_prev",22
+2020-06-20,"South West","hospital_prev",79
+2020-06-20,"South West","icu_prev",5
+2020-06-21,"East of England","hospital_inc",43
+2020-06-21,"England","hospital_inc",318
+2020-06-21,"London","hospital_inc",60
+2020-06-21,"Midlands","hospital_inc",55
+2020-06-21,"North East and Yorkshire","hospital_inc",58
+2020-06-21,"North West","hospital_inc",69
+2020-06-21,"South East","hospital_inc",32
+2020-06-21,"South West","hospital_inc",1
+2020-06-21,"East of England","hospital_prev",288
+2020-06-21,"East of England","icu_prev",29
+2020-06-21,"England","hospital_prev",2794
+2020-06-21,"England","icu_prev",265
+2020-06-21,"London","hospital_prev",289
+2020-06-21,"London","icu_prev",69
+2020-06-21,"Midlands","hospital_prev",676
+2020-06-21,"Midlands","icu_prev",44
+2020-06-21,"North East and Yorkshire","hospital_prev",426
+2020-06-21,"North East and Yorkshire","icu_prev",47
+2020-06-21,"North West","hospital_prev",717
+2020-06-21,"North West","icu_prev",49
+2020-06-21,"South East","hospital_prev",322
+2020-06-21,"South East","icu_prev",22
+2020-06-21,"South West","hospital_prev",76
+2020-06-21,"South West","icu_prev",5
+2020-06-22,"East of England","hospital_inc",21
+2020-06-22,"England","hospital_inc",275
+2020-06-22,"London","hospital_inc",69
+2020-06-22,"Midlands","hospital_inc",59
+2020-06-22,"North East and Yorkshire","hospital_inc",44
+2020-06-22,"North West","hospital_inc",52
+2020-06-22,"South East","hospital_inc",21
+2020-06-22,"South West","hospital_inc",9
+2020-06-22,"East of England","hospital_prev",281
+2020-06-22,"East of England","icu_prev",57
+2020-06-22,"England","hospital_prev",2812
+2020-06-22,"England","icu_prev",296
+2020-06-22,"London","hospital_prev",298
+2020-06-22,"London","icu_prev",75
+2020-06-22,"Midlands","hospital_prev",675
+2020-06-22,"Midlands","icu_prev",44
+2020-06-22,"North East and Yorkshire","hospital_prev",446
+2020-06-22,"North East and Yorkshire","icu_prev",46
+2020-06-22,"North West","hospital_prev",736
+2020-06-22,"North West","icu_prev",48
+2020-06-22,"South East","hospital_prev",306
+2020-06-22,"South East","icu_prev",21
+2020-06-22,"South West","hospital_prev",70
+2020-06-22,"South West","icu_prev",5
+2020-06-23,"East of England","hospital_inc",20
+2020-06-23,"England","hospital_inc",262
+2020-06-23,"London","hospital_inc",51
+2020-06-23,"Midlands","hospital_inc",55
+2020-06-23,"North East and Yorkshire","hospital_inc",30
+2020-06-23,"North West","hospital_inc",71
+2020-06-23,"South East","hospital_inc",27
+2020-06-23,"South West","hospital_inc",8
+2020-06-23,"East of England","hospital_prev",281
+2020-06-23,"East of England","icu_prev",28
+2020-06-23,"England","hospital_prev",2741
+2020-06-23,"England","icu_prev",266
+2020-06-23,"London","hospital_prev",295
+2020-06-23,"London","icu_prev",80
+2020-06-23,"Midlands","hospital_prev",643
+2020-06-23,"Midlands","icu_prev",39
+2020-06-23,"North East and Yorkshire","hospital_prev",429
+2020-06-23,"North East and Yorkshire","icu_prev",46
+2020-06-23,"North West","hospital_prev",718
+2020-06-23,"North West","icu_prev",47
+2020-06-23,"South East","hospital_prev",303
+2020-06-23,"South East","icu_prev",21
+2020-06-23,"South West","hospital_prev",72
+2020-06-23,"South West","icu_prev",5
+2020-06-24,"East of England","hospital_inc",42
+2020-06-24,"England","hospital_inc",256
+2020-06-24,"London","hospital_inc",47
+2020-06-24,"Midlands","hospital_inc",39
+2020-06-24,"North East and Yorkshire","hospital_inc",36
+2020-06-24,"North West","hospital_inc",53
+2020-06-24,"South East","hospital_inc",27
+2020-06-24,"South West","hospital_inc",12
+2020-06-24,"East of England","hospital_prev",291
+2020-06-24,"East of England","icu_prev",28
+2020-06-24,"England","hospital_prev",2672
+2020-06-24,"England","icu_prev",264
+2020-06-24,"London","hospital_prev",309
+2020-06-24,"London","icu_prev",77
+2020-06-24,"Midlands","hospital_prev",616
+2020-06-24,"Midlands","icu_prev",42
+2020-06-24,"North East and Yorkshire","hospital_prev",419
+2020-06-24,"North East and Yorkshire","icu_prev",46
+2020-06-24,"North West","hospital_prev",699
+2020-06-24,"North West","icu_prev",48
+2020-06-24,"South East","hospital_prev",276
+2020-06-24,"South East","icu_prev",18
+2020-06-24,"South West","hospital_prev",62
+2020-06-24,"South West","icu_prev",5
+2020-06-25,"East of England","hospital_inc",32
+2020-06-25,"England","hospital_inc",248
+2020-06-25,"London","hospital_inc",39
+2020-06-25,"Midlands","hospital_inc",60
+2020-06-25,"North East and Yorkshire","hospital_inc",35
+2020-06-25,"North West","hospital_inc",53
+2020-06-25,"South East","hospital_inc",22
+2020-06-25,"South West","hospital_inc",7
+2020-06-25,"East of England","hospital_prev",274
+2020-06-25,"East of England","icu_prev",27
+2020-06-25,"England","hospital_prev",2577
+2020-06-25,"England","icu_prev",236
+2020-06-25,"London","hospital_prev",313
+2020-06-25,"London","icu_prev",67
+2020-06-25,"Midlands","hospital_prev",589
+2020-06-25,"Midlands","icu_prev",40
+2020-06-25,"North East and Yorkshire","hospital_prev",395
+2020-06-25,"North East and Yorkshire","icu_prev",41
+2020-06-25,"North West","hospital_prev",660
+2020-06-25,"North West","icu_prev",38
+2020-06-25,"South East","hospital_prev",280
+2020-06-25,"South East","icu_prev",19
+2020-06-25,"South West","hospital_prev",66
+2020-06-25,"South West","icu_prev",4
+2020-06-26,"East of England","hospital_inc",15
+2020-06-26,"England","hospital_inc",209
+2020-06-26,"London","hospital_inc",29
+2020-06-26,"Midlands","hospital_inc",42
+2020-06-26,"North East and Yorkshire","hospital_inc",32
+2020-06-26,"North West","hospital_inc",48
+2020-06-26,"South East","hospital_inc",31
+2020-06-26,"South West","hospital_inc",12
+2020-06-26,"East of England","hospital_prev",262
+2020-06-26,"East of England","icu_prev",24
+2020-06-26,"England","hospital_prev",2387
+2020-06-26,"England","icu_prev",226
+2020-06-26,"London","hospital_prev",303
+2020-06-26,"London","icu_prev",67
+2020-06-26,"Midlands","hospital_prev",531
+2020-06-26,"Midlands","icu_prev",37
+2020-06-26,"North East and Yorkshire","hospital_prev",362
+2020-06-26,"North East and Yorkshire","icu_prev",36
+2020-06-26,"North West","hospital_prev",640
+2020-06-26,"North West","icu_prev",41
+2020-06-26,"South East","hospital_prev",225
+2020-06-26,"South East","icu_prev",17
+2020-06-26,"South West","hospital_prev",64
+2020-06-26,"South West","icu_prev",4
+2020-06-27,"East of England","hospital_inc",9
+2020-06-27,"England","hospital_inc",155
+2020-06-27,"London","hospital_inc",18
+2020-06-27,"Midlands","hospital_inc",29
+2020-06-27,"North East and Yorkshire","hospital_inc",28
+2020-06-27,"North West","hospital_inc",39
+2020-06-27,"South East","hospital_inc",24
+2020-06-27,"South West","hospital_inc",8
+2020-06-27,"East of England","hospital_prev",239
+2020-06-27,"East of England","icu_prev",24
+2020-06-27,"England","hospital_prev",2339
+2020-06-27,"England","icu_prev",233
+2020-06-27,"London","hospital_prev",292
+2020-06-27,"London","icu_prev",62
+2020-06-27,"Midlands","hospital_prev",544
+2020-06-27,"Midlands","icu_prev",41
+2020-06-27,"North East and Yorkshire","hospital_prev",375
+2020-06-27,"North East and Yorkshire","icu_prev",38
+2020-06-27,"North West","hospital_prev",595
+2020-06-27,"North West","icu_prev",44
+2020-06-27,"South East","hospital_prev",240
+2020-06-27,"South East","icu_prev",20
+2020-06-27,"South West","hospital_prev",54
+2020-06-27,"South West","icu_prev",4
+2020-06-28,"East of England","hospital_inc",21
+2020-06-28,"England","hospital_inc",172
+2020-06-28,"London","hospital_inc",20
+2020-06-28,"Midlands","hospital_inc",41
+2020-06-28,"North East and Yorkshire","hospital_inc",24
+2020-06-28,"North West","hospital_inc",36
+2020-06-28,"South East","hospital_inc",23
+2020-06-28,"South West","hospital_inc",7
+2020-06-28,"East of England","hospital_prev",238
+2020-06-28,"East of England","icu_prev",24
+2020-06-28,"England","hospital_prev",2346
+2020-06-28,"England","icu_prev",236
+2020-06-28,"London","hospital_prev",278
+2020-06-28,"London","icu_prev",63
+2020-06-28,"Midlands","hospital_prev",553
+2020-06-28,"Midlands","icu_prev",39
+2020-06-28,"North East and Yorkshire","hospital_prev",387
+2020-06-28,"North East and Yorkshire","icu_prev",42
+2020-06-28,"North West","hospital_prev",602
+2020-06-28,"North West","icu_prev",44
+2020-06-28,"South East","hospital_prev",230
+2020-06-28,"South East","icu_prev",20
+2020-06-28,"South West","hospital_prev",58
+2020-06-28,"South West","icu_prev",4
+2020-06-29,"East of England","hospital_inc",20
+2020-06-29,"England","hospital_inc",189
+2020-06-29,"London","hospital_inc",28
+2020-06-29,"Midlands","hospital_inc",44
+2020-06-29,"North East and Yorkshire","hospital_inc",33
+2020-06-29,"North West","hospital_inc",22
+2020-06-29,"South East","hospital_inc",31
+2020-06-29,"South West","hospital_inc",11
+2020-06-29,"East of England","hospital_prev",244
+2020-06-29,"East of England","icu_prev",25
+2020-06-29,"England","hospital_prev",2552
+2020-06-29,"England","icu_prev",228
+2020-06-29,"London","hospital_prev",282
+2020-06-29,"London","icu_prev",62
+2020-06-29,"Midlands","hospital_prev",528
+2020-06-29,"Midlands","icu_prev",40
+2020-06-29,"North East and Yorkshire","hospital_prev",607
+2020-06-29,"North East and Yorkshire","icu_prev",39
+2020-06-29,"North West","hospital_prev",591
+2020-06-29,"North West","icu_prev",37
+2020-06-29,"South East","hospital_prev",238
+2020-06-29,"South East","icu_prev",21
+2020-06-29,"South West","hospital_prev",62
+2020-06-29,"South West","icu_prev",4
+2020-06-30,"East of England","hospital_inc",20
+2020-06-30,"England","hospital_inc",201
+2020-06-30,"London","hospital_inc",53
+2020-06-30,"Midlands","hospital_inc",42
+2020-06-30,"North East and Yorkshire","hospital_inc",28
+2020-06-30,"North West","hospital_inc",27
+2020-06-30,"South East","hospital_inc",27
+2020-06-30,"South West","hospital_inc",4
+2020-06-30,"East of England","hospital_prev",222
+2020-06-30,"East of England","icu_prev",24
+2020-06-30,"England","hospital_prev",2203
+2020-06-30,"England","icu_prev",238
+2020-06-30,"London","hospital_prev",271
+2020-06-30,"London","icu_prev",66
+2020-06-30,"Midlands","hospital_prev",517
+2020-06-30,"Midlands","icu_prev",42
+2020-06-30,"North East and Yorkshire","hospital_prev",351
+2020-06-30,"North East and Yorkshire","icu_prev",41
+2020-06-30,"North West","hospital_prev",568
+2020-06-30,"North West","icu_prev",38
+2020-06-30,"South East","hospital_prev",216
+2020-06-30,"South East","icu_prev",20
+2020-06-30,"South West","hospital_prev",58
+2020-06-30,"South West","icu_prev",7
+2020-07-01,"East of England","hospital_inc",22
+2020-07-01,"England","hospital_inc",149
+2020-07-01,"London","hospital_inc",27
+2020-07-01,"Midlands","hospital_inc",31
+2020-07-01,"North East and Yorkshire","hospital_inc",30
+2020-07-01,"North West","hospital_inc",17
+2020-07-01,"South East","hospital_inc",20
+2020-07-01,"South West","hospital_inc",2
+2020-07-01,"East of England","hospital_prev",207
+2020-07-01,"East of England","icu_prev",23
+2020-07-01,"England","hospital_prev",2069
+2020-07-01,"England","icu_prev",220
+2020-07-01,"London","hospital_prev",226
+2020-07-01,"London","icu_prev",59
+2020-07-01,"Midlands","hospital_prev",487
+2020-07-01,"Midlands","icu_prev",46
+2020-07-01,"North East and Yorkshire","hospital_prev",328
+2020-07-01,"North East and Yorkshire","icu_prev",36
+2020-07-01,"North West","hospital_prev",560
+2020-07-01,"North West","icu_prev",33
+2020-07-01,"South East","hospital_prev",210
+2020-07-01,"South East","icu_prev",18
+2020-07-01,"South West","hospital_prev",51
+2020-07-01,"South West","icu_prev",5
+2020-07-02,"East of England","hospital_inc",9
+2020-07-02,"England","hospital_inc",146
+2020-07-02,"London","hospital_inc",20
+2020-07-02,"Midlands","hospital_inc",37
+2020-07-02,"North East and Yorkshire","hospital_inc",26
+2020-07-02,"North West","hospital_inc",30
+2020-07-02,"South East","hospital_inc",19
+2020-07-02,"South West","hospital_inc",5
+2020-07-02,"East of England","hospital_prev",188
+2020-07-02,"East of England","icu_prev",23
+2020-07-02,"England","hospital_prev",1978
+2020-07-02,"England","icu_prev",211
+2020-07-02,"London","hospital_prev",220
+2020-07-02,"London","icu_prev",54
+2020-07-02,"Midlands","hospital_prev",462
+2020-07-02,"Midlands","icu_prev",42
+2020-07-02,"North East and Yorkshire","hospital_prev",330
+2020-07-02,"North East and Yorkshire","icu_prev",35
+2020-07-02,"North West","hospital_prev",516
+2020-07-02,"North West","icu_prev",33
+2020-07-02,"South East","hospital_prev",214
+2020-07-02,"South East","icu_prev",22
+2020-07-02,"South West","hospital_prev",48
+2020-07-02,"South West","icu_prev",2
+2020-07-03,"East of England","hospital_inc",17
+2020-07-03,"England","hospital_inc",120
+2020-07-03,"London","hospital_inc",16
+2020-07-03,"Midlands","hospital_inc",19
+2020-07-03,"North East and Yorkshire","hospital_inc",22
+2020-07-03,"North West","hospital_inc",19
+2020-07-03,"South East","hospital_inc",21
+2020-07-03,"South West","hospital_inc",6
+2020-07-03,"East of England","hospital_prev",198
+2020-07-03,"East of England","icu_prev",25
+2020-07-03,"England","hospital_prev",1884
+2020-07-03,"England","icu_prev",202
+2020-07-03,"London","hospital_prev",221
+2020-07-03,"London","icu_prev",51
+2020-07-03,"Midlands","hospital_prev",406
+2020-07-03,"Midlands","icu_prev",40
+2020-07-03,"North East and Yorkshire","hospital_prev",318
+2020-07-03,"North East and Yorkshire","icu_prev",34
+2020-07-03,"North West","hospital_prev",479
+2020-07-03,"North West","icu_prev",29
+2020-07-03,"South East","hospital_prev",216
+2020-07-03,"South East","icu_prev",21
+2020-07-03,"South West","hospital_prev",46
+2020-07-03,"South West","icu_prev",2
+2020-07-04,"East of England","hospital_inc",24
+2020-07-04,"England","hospital_inc",131
+2020-07-04,"London","hospital_inc",23
+2020-07-04,"Midlands","hospital_inc",25
+2020-07-04,"North East and Yorkshire","hospital_inc",16
+2020-07-04,"North West","hospital_inc",23
+2020-07-04,"South East","hospital_inc",15
+2020-07-04,"South West","hospital_inc",5
+2020-07-04,"East of England","hospital_prev",177
+2020-07-04,"East of England","icu_prev",24
+2020-07-04,"England","hospital_prev",1768
+2020-07-04,"England","icu_prev",186
+2020-07-04,"London","hospital_prev",203
+2020-07-04,"London","icu_prev",51
+2020-07-04,"Midlands","hospital_prev",409
+2020-07-04,"Midlands","icu_prev",37
+2020-07-04,"North East and Yorkshire","hospital_prev",317
+2020-07-04,"North East and Yorkshire","icu_prev",31
+2020-07-04,"North West","hospital_prev",410
+2020-07-04,"North West","icu_prev",26
+2020-07-04,"South East","hospital_prev",201
+2020-07-04,"South East","icu_prev",16
+2020-07-04,"South West","hospital_prev",51
+2020-07-04,"South West","icu_prev",1
+2020-07-05,"East of England","hospital_inc",22
+2020-07-05,"England","hospital_inc",150
+2020-07-05,"London","hospital_inc",30
+2020-07-05,"Midlands","hospital_inc",31
+2020-07-05,"North East and Yorkshire","hospital_inc",26
+2020-07-05,"North West","hospital_inc",20
+2020-07-05,"South East","hospital_inc",19
+2020-07-05,"South West","hospital_inc",2
+2020-07-05,"East of England","hospital_prev",178
+2020-07-05,"East of England","icu_prev",28
+2020-07-05,"England","hospital_prev",1733
+2020-07-05,"England","icu_prev",190
+2020-07-05,"London","hospital_prev",203
+2020-07-05,"London","icu_prev",47
+2020-07-05,"Midlands","hospital_prev",398
+2020-07-05,"Midlands","icu_prev",36
+2020-07-05,"North East and Yorkshire","hospital_prev",302
+2020-07-05,"North East and Yorkshire","icu_prev",31
+2020-07-05,"North West","hospital_prev",398
+2020-07-05,"North West","icu_prev",32
+2020-07-05,"South East","hospital_prev",198
+2020-07-05,"South East","icu_prev",15
+2020-07-05,"South West","hospital_prev",56
+2020-07-05,"South West","icu_prev",1
+2020-07-06,"East of England","hospital_inc",18
+2020-07-06,"England","hospital_inc",148
+2020-07-06,"London","hospital_inc",26
+2020-07-06,"Midlands","hospital_inc",27
+2020-07-06,"North East and Yorkshire","hospital_inc",34
+2020-07-06,"North West","hospital_inc",17
+2020-07-06,"South East","hospital_inc",23
+2020-07-06,"South West","hospital_inc",3
+2020-07-06,"East of England","hospital_prev",183
+2020-07-06,"East of England","icu_prev",27
+2020-07-06,"England","hospital_prev",1723
+2020-07-06,"England","icu_prev",188
+2020-07-06,"London","hospital_prev",202
+2020-07-06,"London","icu_prev",52
+2020-07-06,"Midlands","hospital_prev",402
+2020-07-06,"Midlands","icu_prev",35
+2020-07-06,"North East and Yorkshire","hospital_prev",290
+2020-07-06,"North East and Yorkshire","icu_prev",28
+2020-07-06,"North West","hospital_prev",396
+2020-07-06,"North West","icu_prev",30
+2020-07-06,"South East","hospital_prev",197
+2020-07-06,"South East","icu_prev",15
+2020-07-06,"South West","hospital_prev",53
+2020-07-06,"South West","icu_prev",1
+2020-07-07,"East of England","hospital_inc",16
+2020-07-07,"England","hospital_inc",141
+2020-07-07,"London","hospital_inc",30
+2020-07-07,"Midlands","hospital_inc",29
+2020-07-07,"North East and Yorkshire","hospital_inc",26
+2020-07-07,"North West","hospital_inc",20
+2020-07-07,"South East","hospital_inc",19
+2020-07-07,"South West","hospital_inc",1
+2020-07-07,"East of England","hospital_prev",182
+2020-07-07,"East of England","icu_prev",24
+2020-07-07,"England","hospital_prev",1643
+2020-07-07,"England","icu_prev",178
+2020-07-07,"London","hospital_prev",198
+2020-07-07,"London","icu_prev",48
+2020-07-07,"Midlands","hospital_prev",371
+2020-07-07,"Midlands","icu_prev",35
+2020-07-07,"North East and Yorkshire","hospital_prev",287
+2020-07-07,"North East and Yorkshire","icu_prev",29
+2020-07-07,"North West","hospital_prev",358
+2020-07-07,"North West","icu_prev",30
+2020-07-07,"South East","hospital_prev",203
+2020-07-07,"South East","icu_prev",10
+2020-07-07,"South West","hospital_prev",44
+2020-07-07,"South West","icu_prev",2
+2020-07-08,"East of England","hospital_inc",8
+2020-07-08,"England","hospital_inc",136
+2020-07-08,"London","hospital_inc",27
+2020-07-08,"Midlands","hospital_inc",25
+2020-07-08,"North East and Yorkshire","hospital_inc",22
+2020-07-08,"North West","hospital_inc",24
+2020-07-08,"South East","hospital_inc",25
+2020-07-08,"South West","hospital_inc",5
+2020-07-08,"East of England","hospital_prev",181
+2020-07-08,"East of England","icu_prev",24
+2020-07-08,"England","hospital_prev",1540
+2020-07-08,"England","icu_prev",164
+2020-07-08,"London","hospital_prev",184
+2020-07-08,"London","icu_prev",45
+2020-07-08,"Midlands","hospital_prev",344
+2020-07-08,"Midlands","icu_prev",30
+2020-07-08,"North East and Yorkshire","hospital_prev",275
+2020-07-08,"North East and Yorkshire","icu_prev",26
+2020-07-08,"North West","hospital_prev",326
+2020-07-08,"North West","icu_prev",29
+2020-07-08,"South East","hospital_prev",195
+2020-07-08,"South East","icu_prev",8
+2020-07-08,"South West","hospital_prev",35
+2020-07-08,"South West","icu_prev",2
+2020-07-09,"East of England","hospital_inc",9
+2020-07-09,"England","hospital_inc",104
+2020-07-09,"London","hospital_inc",26
+2020-07-09,"Midlands","hospital_inc",16
+2020-07-09,"North East and Yorkshire","hospital_inc",22
+2020-07-09,"North West","hospital_inc",9
+2020-07-09,"South East","hospital_inc",16
+2020-07-09,"South West","hospital_inc",6
+2020-07-09,"East of England","hospital_prev",169
+2020-07-09,"East of England","icu_prev",24
+2020-07-09,"England","hospital_prev",1482
+2020-07-09,"England","icu_prev",167
+2020-07-09,"London","hospital_prev",178
+2020-07-09,"London","icu_prev",45
+2020-07-09,"Midlands","hospital_prev",320
+2020-07-09,"Midlands","icu_prev",33
+2020-07-09,"North East and Yorkshire","hospital_prev",277
+2020-07-09,"North East and Yorkshire","icu_prev",25
+2020-07-09,"North West","hospital_prev",297
+2020-07-09,"North West","icu_prev",28
+2020-07-09,"South East","hospital_prev",202
+2020-07-09,"South East","icu_prev",10
+2020-07-09,"South West","hospital_prev",39
+2020-07-09,"South West","icu_prev",2
+2020-07-10,"East of England","hospital_inc",12
+2020-07-10,"England","hospital_inc",97
+2020-07-10,"London","hospital_inc",17
+2020-07-10,"Midlands","hospital_inc",15
+2020-07-10,"North East and Yorkshire","hospital_inc",21
+2020-07-10,"North West","hospital_inc",12
+2020-07-10,"South East","hospital_inc",14
+2020-07-10,"South West","hospital_inc",6
+2020-07-10,"East of England","hospital_prev",153
+2020-07-10,"East of England","icu_prev",27
+2020-07-10,"England","hospital_prev",1446
+2020-07-10,"England","icu_prev",162
+2020-07-10,"London","hospital_prev",177
+2020-07-10,"London","icu_prev",39
+2020-07-10,"Midlands","hospital_prev",317
+2020-07-10,"Midlands","icu_prev",27
+2020-07-10,"North East and Yorkshire","hospital_prev",270
+2020-07-10,"North East and Yorkshire","icu_prev",27
+2020-07-10,"North West","hospital_prev",303
+2020-07-10,"North West","icu_prev",30
+2020-07-10,"South East","hospital_prev",195
+2020-07-10,"South East","icu_prev",10
+2020-07-10,"South West","hospital_prev",31
+2020-07-10,"South West","icu_prev",2
+2020-07-11,"East of England","hospital_inc",11
+2020-07-11,"England","hospital_inc",72
+2020-07-11,"London","hospital_inc",16
+2020-07-11,"Midlands","hospital_inc",14
+2020-07-11,"North East and Yorkshire","hospital_inc",13
+2020-07-11,"North West","hospital_inc",8
+2020-07-11,"South East","hospital_inc",8
+2020-07-11,"South West","hospital_inc",2
+2020-07-11,"East of England","hospital_prev",130
+2020-07-11,"East of England","icu_prev",24
+2020-07-11,"England","hospital_prev",1328
+2020-07-11,"England","icu_prev",152
+2020-07-11,"London","hospital_prev",130
+2020-07-11,"London","icu_prev",38
+2020-07-11,"Midlands","hospital_prev",303
+2020-07-11,"Midlands","icu_prev",26
+2020-07-11,"North East and Yorkshire","hospital_prev",270
+2020-07-11,"North East and Yorkshire","icu_prev",28
+2020-07-11,"North West","hospital_prev",282
+2020-07-11,"North West","icu_prev",23
+2020-07-11,"South East","hospital_prev",186
+2020-07-11,"South East","icu_prev",11
+2020-07-11,"South West","hospital_prev",27
+2020-07-11,"South West","icu_prev",2
+2020-07-12,"East of England","hospital_inc",19
+2020-07-12,"England","hospital_inc",137
+2020-07-12,"London","hospital_inc",18
+2020-07-12,"Midlands","hospital_inc",24
+2020-07-12,"North East and Yorkshire","hospital_inc",27
+2020-07-12,"North West","hospital_inc",18
+2020-07-12,"South East","hospital_inc",25
+2020-07-12,"South West","hospital_inc",6
+2020-07-12,"East of England","hospital_prev",137
+2020-07-12,"East of England","icu_prev",19
+2020-07-12,"England","hospital_prev",1338
+2020-07-12,"England","icu_prev",139
+2020-07-12,"London","hospital_prev",169
+2020-07-12,"London","icu_prev",37
+2020-07-12,"Midlands","hospital_prev",284
+2020-07-12,"Midlands","icu_prev",25
+2020-07-12,"North East and Yorkshire","hospital_prev",269
+2020-07-12,"North East and Yorkshire","icu_prev",26
+2020-07-12,"North West","hospital_prev",270
+2020-07-12,"North West","icu_prev",20
+2020-07-12,"South East","hospital_prev",182
+2020-07-12,"South East","icu_prev",10
+2020-07-12,"South West","hospital_prev",27
+2020-07-12,"South West","icu_prev",2
+2020-07-13,"East of England","hospital_inc",17
+2020-07-13,"England","hospital_inc",122
+2020-07-13,"London","hospital_inc",19
+2020-07-13,"Midlands","hospital_inc",21
+2020-07-13,"North East and Yorkshire","hospital_inc",25
+2020-07-13,"North West","hospital_inc",20
+2020-07-13,"South East","hospital_inc",15
+2020-07-13,"South West","hospital_inc",5
+2020-07-13,"East of England","hospital_prev",140
+2020-07-13,"East of England","icu_prev",20
+2020-07-13,"England","hospital_prev",1337
+2020-07-13,"England","icu_prev",138
+2020-07-13,"London","hospital_prev",175
+2020-07-13,"London","icu_prev",34
+2020-07-13,"Midlands","hospital_prev",283
+2020-07-13,"Midlands","icu_prev",25
+2020-07-13,"North East and Yorkshire","hospital_prev",249
+2020-07-13,"North East and Yorkshire","icu_prev",25
+2020-07-13,"North West","hospital_prev",278
+2020-07-13,"North West","icu_prev",22
+2020-07-13,"South East","hospital_prev",183
+2020-07-13,"South East","icu_prev",10
+2020-07-13,"South West","hospital_prev",29
+2020-07-13,"South West","icu_prev",2
+2020-07-14,"East of England","hospital_inc",19
+2020-07-14,"England","hospital_inc",116
+2020-07-14,"London","hospital_inc",22
+2020-07-14,"Midlands","hospital_inc",16
+2020-07-14,"North East and Yorkshire","hospital_inc",20
+2020-07-14,"North West","hospital_inc",19
+2020-07-14,"South East","hospital_inc",15
+2020-07-14,"South West","hospital_inc",5
+2020-07-14,"East of England","hospital_prev",130
+2020-07-14,"East of England","icu_prev",16
+2020-07-14,"England","hospital_prev",1269
+2020-07-14,"England","icu_prev",123
+2020-07-14,"London","hospital_prev",159
+2020-07-14,"London","icu_prev",35
+2020-07-14,"Midlands","hospital_prev",275
+2020-07-14,"Midlands","icu_prev",20
+2020-07-14,"North East and Yorkshire","hospital_prev",242
+2020-07-14,"North East and Yorkshire","icu_prev",22
+2020-07-14,"North West","hospital_prev",260
+2020-07-14,"North West","icu_prev",19
+2020-07-14,"South East","hospital_prev",177
+2020-07-14,"South East","icu_prev",10
+2020-07-14,"South West","hospital_prev",26
+2020-07-14,"South West","icu_prev",1
+2020-07-15,"East of England","hospital_inc",17
+2020-07-15,"England","hospital_inc",114
+2020-07-15,"London","hospital_inc",24
+2020-07-15,"Midlands","hospital_inc",16
+2020-07-15,"North East and Yorkshire","hospital_inc",19
+2020-07-15,"North West","hospital_inc",20
+2020-07-15,"South East","hospital_inc",15
+2020-07-15,"South West","hospital_inc",3
+2020-07-15,"East of England","hospital_prev",127
+2020-07-15,"East of England","icu_prev",26
+2020-07-15,"England","hospital_prev",1228
+2020-07-15,"England","icu_prev",136
+2020-07-15,"London","hospital_prev",149
+2020-07-15,"London","icu_prev",30
+2020-07-15,"Midlands","hospital_prev",269
+2020-07-15,"Midlands","icu_prev",25
+2020-07-15,"North East and Yorkshire","hospital_prev",230
+2020-07-15,"North East and Yorkshire","icu_prev",20
+2020-07-15,"North West","hospital_prev",251
+2020-07-15,"North West","icu_prev",22
+2020-07-15,"South East","hospital_prev",177
+2020-07-15,"South East","icu_prev",12
+2020-07-15,"South West","hospital_prev",25
+2020-07-15,"South West","icu_prev",1
+2020-07-16,"East of England","hospital_inc",10
+2020-07-16,"England","hospital_inc",83
+2020-07-16,"London","hospital_inc",18
+2020-07-16,"Midlands","hospital_inc",11
+2020-07-16,"North East and Yorkshire","hospital_inc",15
+2020-07-16,"North West","hospital_inc",10
+2020-07-16,"South East","hospital_inc",12
+2020-07-16,"South West","hospital_inc",7
+2020-07-16,"East of England","hospital_prev",95
+2020-07-16,"East of England","icu_prev",16
+2020-07-16,"England","hospital_prev",1108
+2020-07-16,"England","icu_prev",118
+2020-07-16,"London","hospital_prev",127
+2020-07-16,"London","icu_prev",28
+2020-07-16,"Midlands","hospital_prev",246
+2020-07-16,"Midlands","icu_prev",19
+2020-07-16,"North East and Yorkshire","hospital_prev",225
+2020-07-16,"North East and Yorkshire","icu_prev",23
+2020-07-16,"North West","hospital_prev",227
+2020-07-16,"North West","icu_prev",22
+2020-07-16,"South East","hospital_prev",163
+2020-07-16,"South East","icu_prev",10
+2020-07-16,"South West","hospital_prev",25
+2020-07-16,"South West","icu_prev",0
+2020-07-17,"East of England","hospital_inc",8
+2020-07-17,"England","hospital_inc",48
+2020-07-17,"London","hospital_inc",5
+2020-07-17,"Midlands","hospital_inc",7
+2020-07-17,"North East and Yorkshire","hospital_inc",5
+2020-07-17,"North West","hospital_inc",10
+2020-07-17,"South East","hospital_inc",11
+2020-07-17,"South West","hospital_inc",2
+2020-07-17,"East of England","hospital_prev",113
+2020-07-17,"East of England","icu_prev",16
+2020-07-17,"England","hospital_prev",1111
+2020-07-17,"England","icu_prev",122
+2020-07-17,"London","hospital_prev",126
+2020-07-17,"London","icu_prev",29
+2020-07-17,"Midlands","hospital_prev",239
+2020-07-17,"Midlands","icu_prev",22
+2020-07-17,"North East and Yorkshire","hospital_prev",211
+2020-07-17,"North East and Yorkshire","icu_prev",25
+2020-07-17,"North West","hospital_prev",233
+2020-07-17,"North West","icu_prev",20
+2020-07-17,"South East","hospital_prev",165
+2020-07-17,"South East","icu_prev",10
+2020-07-17,"South West","hospital_prev",24
+2020-07-17,"South West","icu_prev",0
+2020-07-18,"East of England","hospital_inc",6
+2020-07-18,"England","hospital_inc",72
+2020-07-18,"London","hospital_inc",7
+2020-07-18,"Midlands","hospital_inc",11
+2020-07-18,"North East and Yorkshire","hospital_inc",20
+2020-07-18,"North West","hospital_inc",13
+2020-07-18,"South East","hospital_inc",13
+2020-07-18,"South West","hospital_inc",2
+2020-07-18,"East of England","hospital_prev",118
+2020-07-18,"East of England","icu_prev",17
+2020-07-18,"England","hospital_prev",1093
+2020-07-18,"England","icu_prev",118
+2020-07-18,"London","hospital_prev",118
+2020-07-18,"London","icu_prev",29
+2020-07-18,"Midlands","hospital_prev",226
+2020-07-18,"Midlands","icu_prev",21
+2020-07-18,"North East and Yorkshire","hospital_prev",227
+2020-07-18,"North East and Yorkshire","icu_prev",22
+2020-07-18,"North West","hospital_prev",216
+2020-07-18,"North West","icu_prev",18
+2020-07-18,"South East","hospital_prev",156
+2020-07-18,"South East","icu_prev",11
+2020-07-18,"South West","hospital_prev",32
+2020-07-18,"South West","icu_prev",0
+2020-07-19,"East of England","hospital_inc",8
+2020-07-19,"England","hospital_inc",86
+2020-07-19,"London","hospital_inc",14
+2020-07-19,"Midlands","hospital_inc",22
+2020-07-19,"North East and Yorkshire","hospital_inc",6
+2020-07-19,"North West","hospital_inc",26
+2020-07-19,"South East","hospital_inc",8
+2020-07-19,"South West","hospital_inc",2
+2020-07-19,"East of England","hospital_prev",118
+2020-07-19,"East of England","icu_prev",15
+2020-07-19,"England","hospital_prev",1071
+2020-07-19,"England","icu_prev",119
+2020-07-19,"London","hospital_prev",116
+2020-07-19,"London","icu_prev",32
+2020-07-19,"Midlands","hospital_prev",226
+2020-07-19,"Midlands","icu_prev",20
+2020-07-19,"North East and Yorkshire","hospital_prev",223
+2020-07-19,"North East and Yorkshire","icu_prev",21
+2020-07-19,"North West","hospital_prev",203
+2020-07-19,"North West","icu_prev",19
+2020-07-19,"South East","hospital_prev",158
+2020-07-19,"South East","icu_prev",12
+2020-07-19,"South West","hospital_prev",27
+2020-07-19,"South West","icu_prev",0
+2020-07-20,"East of England","hospital_inc",7
+2020-07-20,"England","hospital_inc",79
+2020-07-20,"London","hospital_inc",11
+2020-07-20,"Midlands","hospital_inc",20
+2020-07-20,"North East and Yorkshire","hospital_inc",6
+2020-07-20,"North West","hospital_inc",27
+2020-07-20,"South East","hospital_inc",7
+2020-07-20,"South West","hospital_inc",1
+2020-07-20,"East of England","hospital_prev",120
+2020-07-20,"East of England","icu_prev",14
+2020-07-20,"England","hospital_prev",1050
+2020-07-20,"England","icu_prev",112
+2020-07-20,"London","hospital_prev",117
+2020-07-20,"London","icu_prev",30
+2020-07-20,"Midlands","hospital_prev",226
+2020-07-20,"Midlands","icu_prev",20
+2020-07-20,"North East and Yorkshire","hospital_prev",188
+2020-07-20,"North East and Yorkshire","icu_prev",20
+2020-07-20,"North West","hospital_prev",213
+2020-07-20,"North West","icu_prev",17
+2020-07-20,"South East","hospital_prev",158
+2020-07-20,"South East","icu_prev",11
+2020-07-20,"South West","hospital_prev",28
+2020-07-20,"South West","icu_prev",0
+2020-07-21,"East of England","hospital_inc",13
+2020-07-21,"England","hospital_inc",82
+2020-07-21,"London","hospital_inc",11
+2020-07-21,"Midlands","hospital_inc",13
+2020-07-21,"North East and Yorkshire","hospital_inc",9
+2020-07-21,"North West","hospital_inc",22
+2020-07-21,"South East","hospital_inc",11
+2020-07-21,"South West","hospital_inc",3
+2020-07-21,"East of England","hospital_prev",91
+2020-07-21,"East of England","icu_prev",13
+2020-07-21,"England","hospital_prev",974
+2020-07-21,"England","icu_prev",106
+2020-07-21,"London","hospital_prev",114
+2020-07-21,"London","icu_prev",29
+2020-07-21,"Midlands","hospital_prev",235
+2020-07-21,"Midlands","icu_prev",15
+2020-07-21,"North East and Yorkshire","hospital_prev",143
+2020-07-21,"North East and Yorkshire","icu_prev",22
+2020-07-21,"North West","hospital_prev",212
+2020-07-21,"North West","icu_prev",14
+2020-07-21,"South East","hospital_prev",153
+2020-07-21,"South East","icu_prev",12
+2020-07-21,"South West","hospital_prev",26
+2020-07-21,"South West","icu_prev",1
+2020-07-22,"East of England","hospital_inc",24
+2020-07-22,"England","hospital_inc",109
+2020-07-22,"London","hospital_inc",14
+2020-07-22,"Midlands","hospital_inc",22
+2020-07-22,"North East and Yorkshire","hospital_inc",8
+2020-07-22,"North West","hospital_inc",27
+2020-07-22,"South East","hospital_inc",12
+2020-07-22,"South West","hospital_inc",2
+2020-07-22,"East of England","hospital_prev",94
+2020-07-22,"East of England","icu_prev",14
+2020-07-22,"England","hospital_prev",1113
+2020-07-22,"England","icu_prev",97
+2020-07-22,"London","hospital_prev",119
+2020-07-22,"London","icu_prev",25
+2020-07-22,"Midlands","hospital_prev",234
+2020-07-22,"Midlands","icu_prev",15
+2020-07-22,"North East and Yorkshire","hospital_prev",149
+2020-07-22,"North East and Yorkshire","icu_prev",17
+2020-07-22,"North West","hospital_prev",354
+2020-07-22,"North West","icu_prev",16
+2020-07-22,"South East","hospital_prev",141
+2020-07-22,"South East","icu_prev",10
+2020-07-22,"South West","hospital_prev",22
+2020-07-22,"South West","icu_prev",0
+2020-07-23,"East of England","hospital_inc",12
+2020-07-23,"England","hospital_inc",93
+2020-07-23,"London","hospital_inc",15
+2020-07-23,"Midlands","hospital_inc",15
+2020-07-23,"North East and Yorkshire","hospital_inc",15
+2020-07-23,"North West","hospital_inc",22
+2020-07-23,"South East","hospital_inc",14
+2020-07-23,"South West","hospital_inc",0
+2020-07-23,"East of England","hospital_prev",81
+2020-07-23,"East of England","icu_prev",12
+2020-07-23,"England","hospital_prev",916
+2020-07-23,"England","icu_prev",101
+2020-07-23,"London","hospital_prev",114
+2020-07-23,"London","icu_prev",25
+2020-07-23,"Midlands","hospital_prev",213
+2020-07-23,"Midlands","icu_prev",16
+2020-07-23,"North East and Yorkshire","hospital_prev",151
+2020-07-23,"North East and Yorkshire","icu_prev",18
+2020-07-23,"North West","hospital_prev",209
+2020-07-23,"North West","icu_prev",18
+2020-07-23,"South East","hospital_prev",127
+2020-07-23,"South East","icu_prev",12
+2020-07-23,"South West","hospital_prev",21
+2020-07-23,"South West","icu_prev",0
+2020-07-24,"East of England","hospital_inc",16
+2020-07-24,"England","hospital_inc",65
+2020-07-24,"London","hospital_inc",5
+2020-07-24,"Midlands","hospital_inc",12
+2020-07-24,"North East and Yorkshire","hospital_inc",9
+2020-07-24,"North West","hospital_inc",11
+2020-07-24,"South East","hospital_inc",7
+2020-07-24,"South West","hospital_inc",5
+2020-07-24,"East of England","hospital_prev",87
+2020-07-24,"East of England","icu_prev",12
+2020-07-24,"England","hospital_prev",836
+2020-07-24,"England","icu_prev",92
+2020-07-24,"London","hospital_prev",103
+2020-07-24,"London","icu_prev",21
+2020-07-24,"Midlands","hospital_prev",192
+2020-07-24,"Midlands","icu_prev",15
+2020-07-24,"North East and Yorkshire","hospital_prev",119
+2020-07-24,"North East and Yorkshire","icu_prev",15
+2020-07-24,"North West","hospital_prev",204
+2020-07-24,"North West","icu_prev",16
+2020-07-24,"South East","hospital_prev",113
+2020-07-24,"South East","icu_prev",12
+2020-07-24,"South West","hospital_prev",18
+2020-07-24,"South West","icu_prev",1
+2020-07-25,"East of England","hospital_inc",7
+2020-07-25,"England","hospital_inc",64
+2020-07-25,"London","hospital_inc",9
+2020-07-25,"Midlands","hospital_inc",12
+2020-07-25,"North East and Yorkshire","hospital_inc",11
+2020-07-25,"North West","hospital_inc",13
+2020-07-25,"South East","hospital_inc",9
+2020-07-25,"South West","hospital_inc",3
+2020-07-25,"East of England","hospital_prev",74
+2020-07-25,"East of England","icu_prev",11
+2020-07-25,"England","hospital_prev",769
+2020-07-25,"England","icu_prev",82
+2020-07-25,"London","hospital_prev",70
+2020-07-25,"London","icu_prev",17
+2020-07-25,"Midlands","hospital_prev",182
+2020-07-25,"Midlands","icu_prev",12
+2020-07-25,"North East and Yorkshire","hospital_prev",115
+2020-07-25,"North East and Yorkshire","icu_prev",15
+2020-07-25,"North West","hospital_prev",207
+2020-07-25,"North West","icu_prev",17
+2020-07-25,"South East","hospital_prev",104
+2020-07-25,"South East","icu_prev",9
+2020-07-25,"South West","hospital_prev",17
+2020-07-25,"South West","icu_prev",1
+2020-07-26,"East of England","hospital_inc",18
+2020-07-26,"England","hospital_inc",82
+2020-07-26,"London","hospital_inc",10
+2020-07-26,"Midlands","hospital_inc",8
+2020-07-26,"North East and Yorkshire","hospital_inc",15
+2020-07-26,"North West","hospital_inc",12
+2020-07-26,"South East","hospital_inc",13
+2020-07-26,"South West","hospital_inc",6
+2020-07-26,"East of England","hospital_prev",88
+2020-07-26,"East of England","icu_prev",10
+2020-07-26,"England","hospital_prev",805
+2020-07-26,"England","icu_prev",81
+2020-07-26,"London","hospital_prev",102
+2020-07-26,"London","icu_prev",18
+2020-07-26,"Midlands","hospital_prev",182
+2020-07-26,"Midlands","icu_prev",9
+2020-07-26,"North East and Yorkshire","hospital_prev",111
+2020-07-26,"North East and Yorkshire","icu_prev",14
+2020-07-26,"North West","hospital_prev",200
+2020-07-26,"North West","icu_prev",18
+2020-07-26,"South East","hospital_prev",103
+2020-07-26,"South East","icu_prev",11
+2020-07-26,"South West","hospital_prev",19
+2020-07-26,"South West","icu_prev",1
+2020-07-27,"East of England","hospital_inc",9
+2020-07-27,"England","hospital_inc",69
+2020-07-27,"London","hospital_inc",7
+2020-07-27,"Midlands","hospital_inc",15
+2020-07-27,"North East and Yorkshire","hospital_inc",8
+2020-07-27,"North West","hospital_inc",16
+2020-07-27,"South East","hospital_inc",12
+2020-07-27,"South West","hospital_inc",2
+2020-07-27,"East of England","hospital_prev",84
+2020-07-27,"East of England","icu_prev",9
+2020-07-27,"England","hospital_prev",781
+2020-07-27,"England","icu_prev",83
+2020-07-27,"London","hospital_prev",95
+2020-07-27,"London","icu_prev",19
+2020-07-27,"Midlands","hospital_prev",190
+2020-07-27,"Midlands","icu_prev",11
+2020-07-27,"North East and Yorkshire","hospital_prev",113
+2020-07-27,"North East and Yorkshire","icu_prev",14
+2020-07-27,"North West","hospital_prev",197
+2020-07-27,"North West","icu_prev",17
+2020-07-27,"South East","hospital_prev",79
+2020-07-27,"South East","icu_prev",12
+2020-07-27,"South West","hospital_prev",23
+2020-07-27,"South West","icu_prev",1
+2020-07-28,"East of England","hospital_inc",8
+2020-07-28,"England","hospital_inc",63
+2020-07-28,"London","hospital_inc",11
+2020-07-28,"Midlands","hospital_inc",14
+2020-07-28,"North East and Yorkshire","hospital_inc",6
+2020-07-28,"North West","hospital_inc",12
+2020-07-28,"South East","hospital_inc",9
+2020-07-28,"South West","hospital_inc",3
+2020-07-28,"East of England","hospital_prev",79
+2020-07-28,"East of England","icu_prev",10
+2020-07-28,"England","hospital_prev",790
+2020-07-28,"England","icu_prev",78
+2020-07-28,"London","hospital_prev",91
+2020-07-28,"London","icu_prev",17
+2020-07-28,"Midlands","hospital_prev",192
+2020-07-28,"Midlands","icu_prev",10
+2020-07-28,"North East and Yorkshire","hospital_prev",115
+2020-07-28,"North East and Yorkshire","icu_prev",11
+2020-07-28,"North West","hospital_prev",194
+2020-07-28,"North West","icu_prev",16
+2020-07-28,"South East","hospital_prev",99
+2020-07-28,"South East","icu_prev",12
+2020-07-28,"South West","hospital_prev",20
+2020-07-28,"South West","icu_prev",2
+2020-07-29,"East of England","hospital_inc",8
+2020-07-29,"England","hospital_inc",75
+2020-07-29,"London","hospital_inc",5
+2020-07-29,"Midlands","hospital_inc",15
+2020-07-29,"North East and Yorkshire","hospital_inc",16
+2020-07-29,"North West","hospital_inc",21
+2020-07-29,"South East","hospital_inc",8
+2020-07-29,"South West","hospital_inc",2
+2020-07-29,"East of England","hospital_prev",79
+2020-07-29,"East of England","icu_prev",9
+2020-07-29,"England","hospital_prev",778
+2020-07-29,"England","icu_prev",72
+2020-07-29,"London","hospital_prev",94
+2020-07-29,"London","icu_prev",17
+2020-07-29,"Midlands","hospital_prev",179
+2020-07-29,"Midlands","icu_prev",9
+2020-07-29,"North East and Yorkshire","hospital_prev",116
+2020-07-29,"North East and Yorkshire","icu_prev",10
+2020-07-29,"North West","hospital_prev",184
+2020-07-29,"North West","icu_prev",15
+2020-07-29,"South East","hospital_prev",104
+2020-07-29,"South East","icu_prev",12
+2020-07-29,"South West","hospital_prev",22
+2020-07-29,"South West","icu_prev",0
+2020-07-30,"East of England","hospital_inc",5
+2020-07-30,"England","hospital_inc",55
+2020-07-30,"London","hospital_inc",2
+2020-07-30,"Midlands","hospital_inc",11
+2020-07-30,"North East and Yorkshire","hospital_inc",11
+2020-07-30,"North West","hospital_inc",12
+2020-07-30,"South East","hospital_inc",10
+2020-07-30,"South West","hospital_inc",4
+2020-07-30,"East of England","hospital_prev",70
+2020-07-30,"East of England","icu_prev",8
+2020-07-30,"England","hospital_prev",765
+2020-07-30,"England","icu_prev",70
+2020-07-30,"London","hospital_prev",96
+2020-07-30,"London","icu_prev",19
+2020-07-30,"Midlands","hospital_prev",181
+2020-07-30,"Midlands","icu_prev",8
+2020-07-30,"North East and Yorkshire","hospital_prev",112
+2020-07-30,"North East and Yorkshire","icu_prev",10
+2020-07-30,"North West","hospital_prev",185
+2020-07-30,"North West","icu_prev",14
+2020-07-30,"South East","hospital_prev",101
+2020-07-30,"South East","icu_prev",11
+2020-07-30,"South West","hospital_prev",20
+2020-07-30,"South West","icu_prev",0
+2020-07-31,"East of England","hospital_inc",2
+2020-07-31,"England","hospital_inc",50
+2020-07-31,"London","hospital_inc",5
+2020-07-31,"Midlands","hospital_inc",8
+2020-07-31,"North East and Yorkshire","hospital_inc",9
+2020-07-31,"North West","hospital_inc",11
+2020-07-31,"South East","hospital_inc",14
+2020-07-31,"South West","hospital_inc",1
+2020-07-31,"East of England","hospital_prev",65
+2020-07-31,"East of England","icu_prev",8
+2020-07-31,"England","hospital_prev",736
+2020-07-31,"England","icu_prev",71
+2020-07-31,"London","hospital_prev",91
+2020-07-31,"London","icu_prev",18
+2020-07-31,"Midlands","hospital_prev",180
+2020-07-31,"Midlands","icu_prev",11
+2020-07-31,"North East and Yorkshire","hospital_prev",108
+2020-07-31,"North East and Yorkshire","icu_prev",9
+2020-07-31,"North West","hospital_prev",177
+2020-07-31,"North West","icu_prev",13
+2020-07-31,"South East","hospital_prev",95
+2020-07-31,"South East","icu_prev",12
+2020-07-31,"South West","hospital_prev",20
+2020-07-31,"South West","icu_prev",0
+2020-08-01,"East of England","hospital_inc",7
+2020-08-01,"England","hospital_inc",57
+2020-08-01,"London","hospital_inc",10
+2020-08-01,"Midlands","hospital_inc",5
+2020-08-01,"North East and Yorkshire","hospital_inc",14
+2020-08-01,"North West","hospital_inc",12
+2020-08-01,"South East","hospital_inc",5
+2020-08-01,"South West","hospital_inc",4
+2020-08-01,"East of England","hospital_prev",72
+2020-08-01,"East of England","icu_prev",9
+2020-08-01,"England","hospital_prev",735
+2020-08-01,"England","icu_prev",74
+2020-08-01,"London","hospital_prev",91
+2020-08-01,"London","icu_prev",16
+2020-08-01,"Midlands","hospital_prev",184
+2020-08-01,"Midlands","icu_prev",13
+2020-08-01,"North East and Yorkshire","hospital_prev",108
+2020-08-01,"North East and Yorkshire","icu_prev",9
+2020-08-01,"North West","hospital_prev",171
+2020-08-01,"North West","icu_prev",15
+2020-08-01,"South East","hospital_prev",91
+2020-08-01,"South East","icu_prev",12
+2020-08-01,"South West","hospital_prev",18
+2020-08-01,"South West","icu_prev",0
+2020-08-02,"East of England","hospital_inc",7
+2020-08-02,"England","hospital_inc",74
+2020-08-02,"London","hospital_inc",2
+2020-08-02,"Midlands","hospital_inc",13
+2020-08-02,"North East and Yorkshire","hospital_inc",25
+2020-08-02,"North West","hospital_inc",19
+2020-08-02,"South East","hospital_inc",4
+2020-08-02,"South West","hospital_inc",4
+2020-08-02,"East of England","hospital_prev",67
+2020-08-02,"East of England","icu_prev",9
+2020-08-02,"England","hospital_prev",701
+2020-08-02,"England","icu_prev",68
+2020-08-02,"London","hospital_prev",84
+2020-08-02,"London","icu_prev",15
+2020-08-02,"Midlands","hospital_prev",165
+2020-08-02,"Midlands","icu_prev",10
+2020-08-02,"North East and Yorkshire","hospital_prev",111
+2020-08-02,"North East and Yorkshire","icu_prev",8
+2020-08-02,"North West","hospital_prev",165
+2020-08-02,"North West","icu_prev",15
+2020-08-02,"South East","hospital_prev",89
+2020-08-02,"South East","icu_prev",11
+2020-08-02,"South West","hospital_prev",20
+2020-08-02,"South West","icu_prev",0
+2020-08-03,"East of England","hospital_inc",5
+2020-08-03,"England","hospital_inc",58
+2020-08-03,"London","hospital_inc",5
+2020-08-03,"Midlands","hospital_inc",8
+2020-08-03,"North East and Yorkshire","hospital_inc",16
+2020-08-03,"North West","hospital_inc",11
+2020-08-03,"South East","hospital_inc",9
+2020-08-03,"South West","hospital_inc",4
+2020-08-03,"East of England","hospital_prev",61
+2020-08-03,"East of England","icu_prev",8
+2020-08-03,"England","hospital_prev",700
+2020-08-03,"England","icu_prev",67
+2020-08-03,"London","hospital_prev",87
+2020-08-03,"London","icu_prev",17
+2020-08-03,"Midlands","hospital_prev",176
+2020-08-03,"Midlands","icu_prev",10
+2020-08-03,"North East and Yorkshire","hospital_prev",107
+2020-08-03,"North East and Yorkshire","icu_prev",7
+2020-08-03,"North West","hospital_prev",159
+2020-08-03,"North West","icu_prev",13
+2020-08-03,"South East","hospital_prev",90
+2020-08-03,"South East","icu_prev",12
+2020-08-03,"South West","hospital_prev",20
+2020-08-03,"South West","icu_prev",0
+2020-08-04,"East of England","hospital_inc",5
+2020-08-04,"England","hospital_inc",60
+2020-08-04,"London","hospital_inc",12
+2020-08-04,"Midlands","hospital_inc",12
+2020-08-04,"North East and Yorkshire","hospital_inc",6
+2020-08-04,"North West","hospital_inc",12
+2020-08-04,"South East","hospital_inc",12
+2020-08-04,"South West","hospital_inc",1
+2020-08-04,"East of England","hospital_prev",56
+2020-08-04,"East of England","icu_prev",8
+2020-08-04,"England","hospital_prev",672
+2020-08-04,"England","icu_prev",65
+2020-08-04,"London","hospital_prev",87
+2020-08-04,"London","icu_prev",15
+2020-08-04,"Midlands","hospital_prev",151
+2020-08-04,"Midlands","icu_prev",13
+2020-08-04,"North East and Yorkshire","hospital_prev",115
+2020-08-04,"North East and Yorkshire","icu_prev",7
+2020-08-04,"North West","hospital_prev",156
+2020-08-04,"North West","icu_prev",13
+2020-08-04,"South East","hospital_prev",87
+2020-08-04,"South East","icu_prev",9
+2020-08-04,"South West","hospital_prev",20
+2020-08-04,"South West","icu_prev",0
+2020-08-05,"East of England","hospital_inc",4
+2020-08-05,"England","hospital_inc",52
+2020-08-05,"London","hospital_inc",7
+2020-08-05,"Midlands","hospital_inc",8
+2020-08-05,"North East and Yorkshire","hospital_inc",15
+2020-08-05,"North West","hospital_inc",13
+2020-08-05,"South East","hospital_inc",2
+2020-08-05,"South West","hospital_inc",3
+2020-08-05,"East of England","hospital_prev",56
+2020-08-05,"East of England","icu_prev",8
+2020-08-05,"England","hospital_prev",664
+2020-08-05,"England","icu_prev",63
+2020-08-05,"London","hospital_prev",83
+2020-08-05,"London","icu_prev",13
+2020-08-05,"Midlands","hospital_prev",149
+2020-08-05,"Midlands","icu_prev",13
+2020-08-05,"North East and Yorkshire","hospital_prev",117
+2020-08-05,"North East and Yorkshire","icu_prev",7
+2020-08-05,"North West","hospital_prev",155
+2020-08-05,"North West","icu_prev",13
+2020-08-05,"South East","hospital_prev",81
+2020-08-05,"South East","icu_prev",9
+2020-08-05,"South West","hospital_prev",23
+2020-08-05,"South West","icu_prev",0
+2020-08-06,"East of England","hospital_inc",10
+2020-08-06,"England","hospital_inc",60
+2020-08-06,"London","hospital_inc",7
+2020-08-06,"Midlands","hospital_inc",5
+2020-08-06,"North East and Yorkshire","hospital_inc",11
+2020-08-06,"North West","hospital_inc",17
+2020-08-06,"South East","hospital_inc",6
+2020-08-06,"South West","hospital_inc",4
+2020-08-06,"East of England","hospital_prev",57
+2020-08-06,"East of England","icu_prev",9
+2020-08-06,"England","hospital_prev",630
+2020-08-06,"England","icu_prev",61
+2020-08-06,"London","hospital_prev",88
+2020-08-06,"London","icu_prev",11
+2020-08-06,"Midlands","hospital_prev",145
+2020-08-06,"Midlands","icu_prev",14
+2020-08-06,"North East and Yorkshire","hospital_prev",121
+2020-08-06,"North East and Yorkshire","icu_prev",6
+2020-08-06,"North West","hospital_prev",132
+2020-08-06,"North West","icu_prev",13
+2020-08-06,"South East","hospital_prev",68
+2020-08-06,"South East","icu_prev",8
+2020-08-06,"South West","hospital_prev",19
+2020-08-06,"South West","icu_prev",0
+2020-08-07,"East of England","hospital_inc",6
+2020-08-07,"England","hospital_inc",78
+2020-08-07,"London","hospital_inc",2
+2020-08-07,"Midlands","hospital_inc",12
+2020-08-07,"North East and Yorkshire","hospital_inc",8
+2020-08-07,"North West","hospital_inc",41
+2020-08-07,"South East","hospital_inc",7
+2020-08-07,"South West","hospital_inc",2
+2020-08-07,"East of England","hospital_prev",45
+2020-08-07,"East of England","icu_prev",9
+2020-08-07,"England","hospital_prev",581
+2020-08-07,"England","icu_prev",57
+2020-08-07,"London","hospital_prev",82
+2020-08-07,"London","icu_prev",10
+2020-08-07,"Midlands","hospital_prev",148
+2020-08-07,"Midlands","icu_prev",10
+2020-08-07,"North East and Yorkshire","hospital_prev",103
+2020-08-07,"North East and Yorkshire","icu_prev",7
+2020-08-07,"North West","hospital_prev",132
+2020-08-07,"North West","icu_prev",13
+2020-08-07,"South East","hospital_prev",54
+2020-08-07,"South East","icu_prev",8
+2020-08-07,"South West","hospital_prev",17
+2020-08-07,"South West","icu_prev",0
+2020-08-08,"East of England","hospital_inc",3
+2020-08-08,"England","hospital_inc",53
+2020-08-08,"London","hospital_inc",10
+2020-08-08,"Midlands","hospital_inc",12
+2020-08-08,"North East and Yorkshire","hospital_inc",14
+2020-08-08,"North West","hospital_inc",10
+2020-08-08,"South East","hospital_inc",4
+2020-08-08,"South West","hospital_inc",0
+2020-08-08,"East of England","hospital_prev",42
+2020-08-08,"East of England","icu_prev",11
+2020-08-08,"England","hospital_prev",510
+2020-08-08,"England","icu_prev",55
+2020-08-08,"London","hospital_prev",86
+2020-08-08,"London","icu_prev",10
+2020-08-08,"Midlands","hospital_prev",72
+2020-08-08,"Midlands","icu_prev",5
+2020-08-08,"North East and Yorkshire","hospital_prev",108
+2020-08-08,"North East and Yorkshire","icu_prev",8
+2020-08-08,"North West","hospital_prev",126
+2020-08-08,"North West","icu_prev",14
+2020-08-08,"South East","hospital_prev",58
+2020-08-08,"South East","icu_prev",7
+2020-08-08,"South West","hospital_prev",18
+2020-08-08,"South West","icu_prev",0
+2020-08-09,"East of England","hospital_inc",8
+2020-08-09,"England","hospital_inc",50
+2020-08-09,"London","hospital_inc",9
+2020-08-09,"Midlands","hospital_inc",4
+2020-08-09,"North East and Yorkshire","hospital_inc",10
+2020-08-09,"North West","hospital_inc",11
+2020-08-09,"South East","hospital_inc",4
+2020-08-09,"South West","hospital_inc",4
+2020-08-09,"East of England","hospital_prev",44
+2020-08-09,"East of England","icu_prev",9
+2020-08-09,"England","hospital_prev",489
+2020-08-09,"England","icu_prev",56
+2020-08-09,"London","hospital_prev",82
+2020-08-09,"London","icu_prev",12
+2020-08-09,"Midlands","hospital_prev",77
+2020-08-09,"Midlands","icu_prev",6
+2020-08-09,"North East and Yorkshire","hospital_prev",110
+2020-08-09,"North East and Yorkshire","icu_prev",7
+2020-08-09,"North West","hospital_prev",109
+2020-08-09,"North West","icu_prev",14
+2020-08-09,"South East","hospital_prev",48
+2020-08-09,"South East","icu_prev",8
+2020-08-09,"South West","hospital_prev",19
+2020-08-09,"South West","icu_prev",0
+2020-08-10,"East of England","hospital_inc",7
+2020-08-10,"England","hospital_inc",63
+2020-08-10,"London","hospital_inc",18
+2020-08-10,"Midlands","hospital_inc",6
+2020-08-10,"North East and Yorkshire","hospital_inc",14
+2020-08-10,"North West","hospital_inc",13
+2020-08-10,"South East","hospital_inc",3
+2020-08-10,"South West","hospital_inc",2
+2020-08-10,"East of England","hospital_prev",50
+2020-08-10,"East of England","icu_prev",8
+2020-08-10,"England","hospital_prev",587
+2020-08-10,"England","icu_prev",60
+2020-08-10,"London","hospital_prev",81
+2020-08-10,"London","icu_prev",12
+2020-08-10,"Midlands","hospital_prev",133
+2020-08-10,"Midlands","icu_prev",9
+2020-08-10,"North East and Yorkshire","hospital_prev",116
+2020-08-10,"North East and Yorkshire","icu_prev",5
+2020-08-10,"North West","hospital_prev",129
+2020-08-10,"North West","icu_prev",18
+2020-08-10,"South East","hospital_prev",59
+2020-08-10,"South East","icu_prev",8
+2020-08-10,"South West","hospital_prev",19
+2020-08-10,"South West","icu_prev",0
+2020-08-11,"East of England","hospital_inc",1
+2020-08-11,"England","hospital_inc",51
+2020-08-11,"London","hospital_inc",5
+2020-08-11,"Midlands","hospital_inc",6
+2020-08-11,"North East and Yorkshire","hospital_inc",13
+2020-08-11,"North West","hospital_inc",9
+2020-08-11,"South East","hospital_inc",13
+2020-08-11,"South West","hospital_inc",4
+2020-08-11,"East of England","hospital_prev",47
+2020-08-11,"East of England","icu_prev",8
+2020-08-11,"England","hospital_prev",543
+2020-08-11,"England","icu_prev",63
+2020-08-11,"London","hospital_prev",77
+2020-08-11,"London","icu_prev",13
+2020-08-11,"Midlands","hospital_prev",127
+2020-08-11,"Midlands","icu_prev",9
+2020-08-11,"North East and Yorkshire","hospital_prev",110
+2020-08-11,"North East and Yorkshire","icu_prev",4
+2020-08-11,"North West","hospital_prev",120
+2020-08-11,"North West","icu_prev",21
+2020-08-11,"South East","hospital_prev",47
+2020-08-11,"South East","icu_prev",8
+2020-08-11,"South West","hospital_prev",15
+2020-08-11,"South West","icu_prev",0
+2020-08-12,"East of England","hospital_inc",6
+2020-08-12,"England","hospital_inc",60
+2020-08-12,"London","hospital_inc",9
+2020-08-12,"Midlands","hospital_inc",16
+2020-08-12,"North East and Yorkshire","hospital_inc",6
+2020-08-12,"North West","hospital_inc",12
+2020-08-12,"South East","hospital_inc",10
+2020-08-12,"South West","hospital_inc",1
+2020-08-12,"East of England","hospital_prev",44
+2020-08-12,"East of England","icu_prev",8
+2020-08-12,"England","hospital_prev",515
+2020-08-12,"England","icu_prev",68
+2020-08-12,"London","hospital_prev",79
+2020-08-12,"London","icu_prev",17
+2020-08-12,"Midlands","hospital_prev",123
+2020-08-12,"Midlands","icu_prev",9
+2020-08-12,"North East and Yorkshire","hospital_prev",104
+2020-08-12,"North East and Yorkshire","icu_prev",4
+2020-08-12,"North West","hospital_prev",111
+2020-08-12,"North West","icu_prev",23
+2020-08-12,"South East","hospital_prev",39
+2020-08-12,"South East","icu_prev",7
+2020-08-12,"South West","hospital_prev",15
+2020-08-12,"South West","icu_prev",0
+2020-08-13,"East of England","hospital_inc",8
+2020-08-13,"England","hospital_inc",55
+2020-08-13,"London","hospital_inc",8
+2020-08-13,"Midlands","hospital_inc",13
+2020-08-13,"North East and Yorkshire","hospital_inc",8
+2020-08-13,"North West","hospital_inc",7
+2020-08-13,"South East","hospital_inc",9
+2020-08-13,"South West","hospital_inc",2
+2020-08-13,"East of England","hospital_prev",44
+2020-08-13,"East of England","icu_prev",9
+2020-08-13,"England","hospital_prev",533
+2020-08-13,"England","icu_prev",64
+2020-08-13,"London","hospital_prev",76
+2020-08-13,"London","icu_prev",15
+2020-08-13,"Midlands","hospital_prev",127
+2020-08-13,"Midlands","icu_prev",8
+2020-08-13,"North East and Yorkshire","hospital_prev",110
+2020-08-13,"North East and Yorkshire","icu_prev",4
+2020-08-13,"North West","hospital_prev",119
+2020-08-13,"North West","icu_prev",19
+2020-08-13,"South East","hospital_prev",42
+2020-08-13,"South East","icu_prev",9
+2020-08-13,"South West","hospital_prev",15
+2020-08-13,"South West","icu_prev",0
+2020-08-14,"East of England","hospital_inc",2
+2020-08-14,"England","hospital_inc",38
+2020-08-14,"London","hospital_inc",4
+2020-08-14,"Midlands","hospital_inc",15
+2020-08-14,"North East and Yorkshire","hospital_inc",8
+2020-08-14,"North West","hospital_inc",4
+2020-08-14,"South East","hospital_inc",3
+2020-08-14,"South West","hospital_inc",2
+2020-08-14,"East of England","hospital_prev",42
+2020-08-14,"East of England","icu_prev",6
+2020-08-14,"England","hospital_prev",525
+2020-08-14,"England","icu_prev",63
+2020-08-14,"London","hospital_prev",77
+2020-08-14,"London","icu_prev",15
+2020-08-14,"Midlands","hospital_prev",118
+2020-08-14,"Midlands","icu_prev",9
+2020-08-14,"North East and Yorkshire","hospital_prev",100
+2020-08-14,"North East and Yorkshire","icu_prev",5
+2020-08-14,"North West","hospital_prev",120
+2020-08-14,"North West","icu_prev",18
+2020-08-14,"South East","hospital_prev",50
+2020-08-14,"South East","icu_prev",10
+2020-08-14,"South West","hospital_prev",18
+2020-08-14,"South West","icu_prev",0
+2020-08-15,"East of England","hospital_inc",4
+2020-08-15,"England","hospital_inc",39
+2020-08-15,"London","hospital_inc",7
+2020-08-15,"Midlands","hospital_inc",11
+2020-08-15,"North East and Yorkshire","hospital_inc",7
+2020-08-15,"North West","hospital_inc",3
+2020-08-15,"South East","hospital_inc",5
+2020-08-15,"South West","hospital_inc",2
+2020-08-15,"East of England","hospital_prev",48
+2020-08-15,"East of England","icu_prev",8
+2020-08-15,"England","hospital_prev",508
+2020-08-15,"England","icu_prev",68
+2020-08-15,"London","hospital_prev",74
+2020-08-15,"London","icu_prev",15
+2020-08-15,"Midlands","hospital_prev",118
+2020-08-15,"Midlands","icu_prev",9
+2020-08-15,"North East and Yorkshire","hospital_prev",94
+2020-08-15,"North East and Yorkshire","icu_prev",6
+2020-08-15,"North West","hospital_prev",107
+2020-08-15,"North West","icu_prev",21
+2020-08-15,"South East","hospital_prev",50
+2020-08-15,"South East","icu_prev",9
+2020-08-15,"South West","hospital_prev",17
+2020-08-15,"South West","icu_prev",0
+2020-08-16,"East of England","hospital_inc",5
+2020-08-16,"England","hospital_inc",46
+2020-08-16,"London","hospital_inc",2
+2020-08-16,"Midlands","hospital_inc",14
+2020-08-16,"North East and Yorkshire","hospital_inc",8
+2020-08-16,"North West","hospital_inc",9
+2020-08-16,"South East","hospital_inc",5
+2020-08-16,"South West","hospital_inc",3
+2020-08-16,"East of England","hospital_prev",43
+2020-08-16,"East of England","icu_prev",7
+2020-08-16,"England","hospital_prev",511
+2020-08-16,"England","icu_prev",69
+2020-08-16,"London","hospital_prev",70
+2020-08-16,"London","icu_prev",19
+2020-08-16,"Midlands","hospital_prev",125
+2020-08-16,"Midlands","icu_prev",7
+2020-08-16,"North East and Yorkshire","hospital_prev",94
+2020-08-16,"North East and Yorkshire","icu_prev",6
+2020-08-16,"North West","hospital_prev",107
+2020-08-16,"North West","icu_prev",20
+2020-08-16,"South East","hospital_prev",49
+2020-08-16,"South East","icu_prev",9
+2020-08-16,"South West","hospital_prev",23
+2020-08-16,"South West","icu_prev",1
+2020-08-17,"East of England","hospital_inc",3
+2020-08-17,"England","hospital_inc",16
+2020-08-17,"London","hospital_inc",1
+2020-08-17,"Midlands","hospital_inc",4
+2020-08-17,"North East and Yorkshire","hospital_inc",4
+2020-08-17,"North West","hospital_inc",3
+2020-08-17,"South East","hospital_inc",0
+2020-08-17,"South West","hospital_inc",1
+2020-08-17,"East of England","hospital_prev",45
+2020-08-17,"East of England","icu_prev",8
+2020-08-17,"England","hospital_prev",505
+2020-08-17,"England","icu_prev",67
+2020-08-17,"London","hospital_prev",78
+2020-08-17,"London","icu_prev",19
+2020-08-17,"Midlands","hospital_prev",136
+2020-08-17,"Midlands","icu_prev",6
+2020-08-17,"North East and Yorkshire","hospital_prev",90
+2020-08-17,"North East and Yorkshire","icu_prev",7
+2020-08-17,"North West","hospital_prev",91
+2020-08-17,"North West","icu_prev",17
+2020-08-17,"South East","hospital_prev",47
+2020-08-17,"South East","icu_prev",9
+2020-08-17,"South West","hospital_prev",18
+2020-08-17,"South West","icu_prev",1
+2020-08-18,"East of England","hospital_inc",0
+2020-08-18,"England","hospital_inc",0
+2020-08-18,"London","hospital_inc",0
+2020-08-18,"Midlands","hospital_inc",0
+2020-08-18,"North East and Yorkshire","hospital_inc",0
+2020-08-18,"North West","hospital_inc",0
+2020-08-18,"South East","hospital_inc",0
+2020-08-18,"South West","hospital_inc",0
+2020-08-18,"East of England","hospital_prev",38
+2020-08-18,"East of England","icu_prev",6
+2020-08-18,"England","hospital_prev",481
+2020-08-18,"England","icu_prev",64
+2020-08-18,"London","hospital_prev",70
+2020-08-18,"London","icu_prev",19
+2020-08-18,"Midlands","hospital_prev",139
+2020-08-18,"Midlands","icu_prev",6
+2020-08-18,"North East and Yorkshire","hospital_prev",81
+2020-08-18,"North East and Yorkshire","icu_prev",7
+2020-08-18,"North West","hospital_prev",87
+2020-08-18,"North West","icu_prev",16
+2020-08-18,"South East","hospital_prev",48
+2020-08-18,"South East","icu_prev",9
+2020-08-18,"South West","hospital_prev",18
+2020-08-18,"South West","icu_prev",1
+2020-08-19,"East of England","hospital_inc",0
+2020-08-19,"England","hospital_inc",0
+2020-08-19,"London","hospital_inc",0
+2020-08-19,"Midlands","hospital_inc",0
+2020-08-19,"North East and Yorkshire","hospital_inc",0
+2020-08-19,"North West","hospital_inc",0
+2020-08-19,"South East","hospital_inc",0
+2020-08-19,"South West","hospital_inc",0
+2020-08-19,"East of England","hospital_prev",40
+2020-08-19,"East of England","icu_prev",6
+2020-08-19,"England","hospital_prev",460
+2020-08-19,"England","icu_prev",63
+2020-08-19,"London","hospital_prev",65
+2020-08-19,"London","icu_prev",15
+2020-08-19,"Midlands","hospital_prev",133
+2020-08-19,"Midlands","icu_prev",7
+2020-08-19,"North East and Yorkshire","hospital_prev",80
+2020-08-19,"North East and Yorkshire","icu_prev",7
+2020-08-19,"North West","hospital_prev",83
+2020-08-19,"North West","icu_prev",18
+2020-08-19,"South East","hospital_prev",44
+2020-08-19,"South East","icu_prev",8
+2020-08-19,"South West","hospital_prev",15
+2020-08-19,"South West","icu_prev",2
