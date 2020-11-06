@@ -80,7 +80,7 @@ optim_func_ward = function(par, total_LoS_all, cov_curve, true_prev){
   total_LoS_all$Ward$LoS$mean = par
   
   #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(5, cov_curve, total_LoS_all, length(cov_curve))
+  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
   
   sq_diff = sum((res_total_LoS_all$Ward - true_prev$Ward)^2, na.rm = T)
   
@@ -95,7 +95,7 @@ optim_func_CC = function(par, total_LoS_all, cov_curve, true_prev){
   total_LoS_all$CC$LoS$mean = par
   
   #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(5, cov_curve, total_LoS_all, length(cov_curve))
+  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
   
   sq_diff = sum((res_total_LoS_all$CC - true_prev$CC)^2, na.rm = T)
   
@@ -135,7 +135,7 @@ for (i in unique(regions_hospital_data$geography)) {
   total_LoS_all$CC$LoS$mean = opt_res_CC$minimum
   
   #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
+  res_total_LoS_all = multi_pathways_model(100, cov_curve, total_LoS_all, length(cov_curve))
   res_total_LoS_all$region = i
   res_total_LoS_all$date = true_reg$date
   
@@ -186,7 +186,7 @@ optim_func2 = function(par, total_LoS_all, cov_curve, true_prev){
   
   
   #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(5, cov_curve, total_LoS_all, length(cov_curve))
+  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
   
   sq_diff = sum((res_total_LoS_all$Ward - true_prev$Ward)^2, na.rm = T)
   sq_diff2 = sum((res_total_LoS_all$CC - true_prev$CC)^2, na.rm = T)
@@ -224,7 +224,7 @@ for (i in unique(regions_hospital_data$geography)) {
   total_LoS_all$Ward$proba = 1-opt_res$minimum
   
   #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
+  res_total_LoS_all = multi_pathways_model(100, cov_curve, total_LoS_all, length(cov_curve))
   res_total_LoS_all$region = i
   res_total_LoS_all$date = true_reg$date
   
