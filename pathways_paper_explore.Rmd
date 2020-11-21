@@ -100,6 +100,9 @@ data_orig = read.xlsx(here::here("data", "data_figs.xlsx"))
 paths <- data_orig$path_name[1:7]
 names(paths) <- data_orig$path[1:7]
 
+stages <- c("Stage 1", "Stage 2", "Stage 3")
+names(stages) <- c("1", "2", "3")
+
 data <- subset(data_orig, path < 6)
 
 data$path_f = factor(data$path, levels=c(2,1,4,5,3)) # To reorder to match proportions
@@ -108,7 +111,7 @@ p1 <- ggplot(data = subset(data, !is.na(bed) & source == "uclh"), aes(x=1, y = m
   coord_flip() + 
   geom_bar(stat="identity") + 
   geom_errorbar(aes(ymin = mean - sd, ymax = mean + sd)) + 
-  facet_grid(path_f~step, labeller = labeller(path_f = paths),  switch = "y", scales = "free") +  
+  facet_grid(path_f~step, labeller = labeller(path_f = paths, step = stages),  switch = "y", scales = "free") +  
   scale_x_continuous(labels = NULL, "") + 
   scale_y_continuous("Length of stay", limits = c(0,22)) + 
   theme_bw(base_size = 11)  + 
@@ -121,7 +124,7 @@ p2 <- ggplot(data = subset(data, !is.na(bed) & source == "cocin"), aes(x=1, y = 
   coord_flip() + 
   geom_bar(stat="identity") + 
   geom_errorbar(aes(ymin = pmax(0,mean - sd), ymax = pmin(mean + sd,22))) + 
-  facet_grid(path_f~step, labeller = labeller(path_f = paths),  switch = "y") + 
+  facet_grid(path_f~step, labeller = labeller(path_f = paths, step = stages),  switch = "y") + 
   scale_x_continuous(labels = NULL, "") + 
   scale_y_continuous("Length of stay", limits = c(0,22)) + 
   theme_bw(base_size = 11)  + 
@@ -616,6 +619,7 @@ plotA = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 week", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,65)) +
   theme_bw()
 
 #create plot B
@@ -644,6 +648,7 @@ plotB = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 week", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,65)) +
   theme_bw()
 
 #create plot C
@@ -672,6 +677,7 @@ plotC = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 month", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,20100)) +
   theme_bw()
 
 #create plot D
@@ -700,20 +706,29 @@ plotD = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 month", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,20100)) +
   theme_bw()
 
 
 legend = get_legend(plotA + theme(legend.position = "bottom"))
 plot_grid(
+  NULL,
   plot_grid(
     plotA+theme(legend.position = "none"), plotB+theme(legend.position = "none"),
+    NULL, NULL,
     plotC+theme(legend.position = "none"), plotD+theme(legend.position = "none"),
-    labels = c("A)", "B)", "C)", "D)"), 
-    label_size = 12, hjust = -0.3
+    labels = c("A) UCLH, average LoS",
+               "B) UCLH, full pathways",
+               "", "",
+               "C) COCIN, average LoS",
+               "D) COCIN, full pathways"), 
+    label_size = 12, hjust = -0.3, vjust = 0,
+    nrow = 3,
+    rel_heights = c(1, 0.05, 1)
   ),
   legend,
-  nrow = 2,
-  rel_heights = c(1, 0.1))
+  nrow = 3,
+  rel_heights = c(0.05, 1, 0.1))
 
 
 ```
@@ -901,6 +916,19 @@ summary_results = data.frame(Dataset = c(rep("UCLH", 3), rep("COCIN", 3)),
                                             IQR(res_average_LoS_eng_peak$Ward_peak_time),
                                             IQR(res_full_pathways_eng_peak$Ward_peak_time),
                                             NA),
+                             ward_t_quant = c(res_average_LoS_uclh$date[quantile(res_average_LoS_uclh_peak$Ward_peak_time, 0.25)],
+                                              res_full_pathways_uclh$date[quantile(res_full_pathways_uclh_peak$Ward_peak_time, 0.25)],
+                                              NA,
+                                              res_average_LoS_eng$date[quantile(res_average_LoS_eng_peak$Ward_peak_time, 0.25)],
+                                              res_full_pathways_eng$date[quantile(res_full_pathways_eng_peak$Ward_peak_time, 0.25)],
+                                              NA),
+                             ward_t_quant2 = c(res_average_LoS_uclh$date[quantile(res_average_LoS_uclh_peak$Ward_peak_time, 0.75)],
+                                               res_full_pathways_uclh$date[quantile(res_full_pathways_uclh_peak$Ward_peak_time, 0.75)],
+                                               NA,
+                                               res_average_LoS_eng$date[quantile(res_average_LoS_eng_peak$Ward_peak_time, 0.75)],
+                                               res_full_pathways_eng$date[quantile(res_full_pathways_eng_peak$Ward_peak_time, 0.75)],
+                                               NA),
+                             
                              ward_max = c(mean(res_average_LoS_uclh_peak$Ward_peak),
                                           mean(res_full_pathways_uclh_peak$Ward_peak),
                                           uclh_data_ward$value[t_max_data_ward_uclh],
@@ -926,6 +954,19 @@ summary_results = data.frame(Dataset = c(rep("UCLH", 3), rep("COCIN", 3)),
                                           IQR(res_average_LoS_eng_peak$CC_peak_time),
                                           IQR(res_full_pathways_eng_peak$CC_peak_time),
                                           NA),
+                                                          cc_t_quant = c(res_average_LoS_uclh$date[quantile(res_average_LoS_uclh_peak$CC_peak_time, 0.25)],
+                                              res_full_pathways_uclh$date[quantile(res_full_pathways_uclh_peak$CC_peak_time, 0.25)],
+                                              NA,
+                                              res_average_LoS_eng$date[quantile(res_average_LoS_eng_peak$CC_peak_time, 0.25)],
+                                              res_full_pathways_eng$date[quantile(res_full_pathways_eng_peak$CC_peak_time, 0.25)],
+                                              NA),
+                             cc_t_quant2 = c(res_average_LoS_uclh$date[quantile(res_average_LoS_uclh_peak$CC_peak_time, 0.75)],
+                                               res_full_pathways_uclh$date[quantile(res_full_pathways_uclh_peak$CC_peak_time, 0.75)],
+                                               NA,
+                                               res_average_LoS_eng$date[quantile(res_average_LoS_eng_peak$CC_peak_time, 0.75)],
+                                               res_full_pathways_eng$date[quantile(res_full_pathways_eng_peak$CC_peak_time, 0.75)],
+                                               NA),
+
                              cc_max = c(mean(res_average_LoS_uclh_peak$CC_peak),
                                         mean(res_full_pathways_uclh_peak$CC_peak),
                                         uclh_data_CC$value[t_max_data_CC_uclh],
@@ -1557,13 +1598,13 @@ for(i in 1:nrow(sqdiff_regions)){
     filter(region == region_i)
   
   sqdiff_regions$sqdiff_average[i] = round(sum((dat_i$Ward-av_i$Ward)^2,
-                                         (dat_i$CC-av_i$CC)^2, na.rm = T)/10^5, 2)
+                                               (dat_i$CC-av_i$CC)^2, na.rm = T)/10^5, 2)
   sqdiff_regions$sqdiff_pathways[i] = round(sum((dat_i$Ward-path_i$Ward)^2,
-                                         (dat_i$CC-path_i$CC)^2, na.rm = T)/10^5, 2)
+                                                (dat_i$CC-path_i$CC)^2, na.rm = T)/10^5, 2)
   sqdiff_regions$sqdiff_los_fit[i] = round(sum((dat_i$Ward-los_fit_i$Ward)^2,
-                                         (dat_i$CC-los_fit_i$CC)^2, na.rm = T)/10^5, 2)
+                                               (dat_i$CC-los_fit_i$CC)^2, na.rm = T)/10^5, 2)
   sqdiff_regions$sqdiff_cc_fit[i] = round(sum((dat_i$Ward-cc_fit_i$Ward)^2,
-                                         (dat_i$CC-cc_fit_i$CC)^2, na.rm = T)/10^5, 2)
+                                              (dat_i$CC-cc_fit_i$CC)^2, na.rm = T)/10^5, 2)
   
 }
 

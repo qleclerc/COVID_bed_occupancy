@@ -340,17 +340,17 @@ saveRDS(res_full_pathways_uclh, here::here("outputs", "results", "res_full_pathw
 ## CO-CIN LoS, England admissions, round LoS
 
 ```{r all_simulations_eng_round}
-
-message("Simulating using average LoS...")
-res_average_LoS = multi_pathways_model(100, 
-                                       cov_curve$value, 
-                                       total_LoS_all, 
-                                       length(cov_curve$date),
-                                       LoS_rounding = "round",
-                                       verbose = T)
-res_average_LoS$date = as.Date(cov_curve$date)
-
-saveRDS(res_average_LoS, here::here("outputs", "results", "res_average_LoS_eng_round.rds"))
+# 
+# message("Simulating using average LoS...")
+# res_average_LoS = multi_pathways_model(100, 
+#                                        cov_curve$value, 
+#                                        total_LoS_all, 
+#                                        length(cov_curve$date),
+#                                        LoS_rounding = "round",
+#                                        verbose = T)
+# res_average_LoS$date = as.Date(cov_curve$date)
+# 
+# saveRDS(res_average_LoS, here::here("outputs", "results", "res_average_LoS_eng_round.rds"))
 
 #skip pathways as using exact distribution
 #message("Simulating using full pathways...")

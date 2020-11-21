@@ -3,17 +3,11 @@ library(dplyr)
 library(tidyr)
 library(rio)
 
-data = get_regional_data("UK", totals = F, include_level_2_regions = F)
-
-data = data %>%
-  select(date, level_2_region)
-
-
 #they actually have a nice api system in place, so might be a nicer way to do this!
 #tried playing a bit with sprintf(), but doesn't work well with url format
 
 #base query url
-base_url <- "https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaType="
+base_url <- "https://api.coronavirus.data.gov.uk/v1/data?filters=areaType="
 
 #available geographies (regions and countries):
 regions <- c(
