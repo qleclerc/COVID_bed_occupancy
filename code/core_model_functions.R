@@ -23,6 +23,7 @@ pathways_model = function(cov_curve, pathways, run_duration,
   beds_needed = list.map(pathways, LoS)
   beds_needed = unique(list.mapv(beds_needed, Bed))
   beds_needed = grep("_sd", beds_needed, value = T, invert = T) #remove sd names
+  beds_needed = grep("_proba", beds_needed, value = T, invert = T) #remove proba names
   
   
   results = data.frame(time = c(1:run_duration))
@@ -163,6 +164,7 @@ multi_pathways_model = function(nruns, cov_curve, pathways, run_duration,
   beds_needed = list.map(pathways, LoS)
   beds_needed = unique(list.mapv(beds_needed, Bed))
   beds_needed = grep("_sd", beds_needed, value = T, invert = T) #remove sd names
+  beds_needed = grep("_proba", beds_needed, value = T, invert = T) #remove proba names
   #beds_needed = c(beds_needed, "deaths")
   
   #create summary list to store each bed type needs
