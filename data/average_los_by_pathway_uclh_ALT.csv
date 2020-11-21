@@ -1,0 +1,6 @@
+"pathway","n","step1_LoS","step1_SD","step1_SD2","step2_LoS","step2_SD","step2_SD2","step3_LoS","step3_SD","step3_SD2"
+"Bed CC",8,4.88,3.36,6.12,NA,NA,NA,NA,NA,NA
+"Bed CC, Bed Ward",4,3.71,2.27,5.78,2.38,1.74,3.79,NA,NA,NA
+"Bed Ward",137,3.36,1.93,5.53,NA,NA,NA,NA,NA,NA
+"Bed Ward, Bed CC",9,1.23,1.1,1.49,5.11,3.08,5.77,NA,NA,NA
+"Bed Ward, Bed CC, Bed Ward",10,1.95,0.82,3.24,3.55,3.04,4.4,2.12,2.01,2.78
