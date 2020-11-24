@@ -35,6 +35,8 @@ library(patchwork)
 source(here::here("code", "core_model_functions.R"))
 source(here::here("code", "paths_table_to_blocks.R"))
 
+set.seed(3210)
+
 ```
 
 ## Load England hospital data
@@ -249,14 +251,14 @@ sqdiff_weibull_full = results_mean_uclh %>%
 ```
 
 
-```{r uclh_gamma}
+```{r uclh_lognorm}
 
-Mres_average_LoS_uclh = res_average_LoS_uclh_gamma %>%
+Mres_average_LoS_uclh = res_average_LoS_uclh_lognorm %>%
   select(-time) %>%
   melt(id.vars = "date")
 Mres_average_LoS_uclh$grouping = "Model - average LoS"
 
-Mres_full_pathways_uclh = res_full_pathways_uclh_gamma %>%
+Mres_full_pathways_uclh = res_full_pathways_uclh_lognorm %>%
   select(-time) %>%
   melt(id.vars = "date")
 Mres_full_pathways_uclh$grouping = "Model - full pathways"
@@ -264,20 +266,20 @@ Mres_full_pathways_uclh$grouping = "Model - full pathways"
 Mres_all_uclh = rbind(Mres_average_LoS_uclh, Mres_full_pathways_uclh)
 
 #separate mean and sd
-results_mean_uclh_gamma = Mres_all_uclh %>%
+results_mean_uclh_lognorm = Mres_all_uclh %>%
   filter(!grepl("sd", variable)) %>%
   arrange(variable) %>%
   mutate(date = as.Date(date))
 
-results_sd_uclh_gamma = Mres_all_uclh %>% 
+results_sd_uclh_lognorm = Mres_all_uclh %>% 
   filter(grepl("sd", variable)) %>%
   arrange(variable) %>%
   mutate(date = as.Date(date))
 
-results_sd_uclh_gamma$min = results_mean_uclh_gamma$value - 1.96*results_sd_uclh_gamma$value
-results_sd_uclh_gamma$max = results_mean_uclh_gamma$value + 1.96*results_sd_uclh_gamma$value
+results_sd_uclh_lognorm$min = results_mean_uclh_lognorm$value - 1.96*results_sd_uclh_lognorm$value
+results_sd_uclh_lognorm$max = results_mean_uclh_lognorm$value + 1.96*results_sd_uclh_lognorm$value
 
-sqdiff_gamma_average = results_mean_uclh_gamma %>%
+sqdiff_lognorm_average = results_mean_uclh_lognorm %>%
   filter(grouping == "Model - average LoS") %>%
   select(-"grouping") %>%
   rename(value_type = variable) %>%
@@ -288,7 +290,7 @@ sqdiff_gamma_average = results_mean_uclh_gamma %>%
   summarise(sqdiff = diff(value)^2) %>%
   ungroup
 
-sqdiff_gamma_full = results_mean_uclh_gamma %>%
+sqdiff_lognorm_full = results_mean_uclh_lognorm %>%
   filter(grouping == "Model - full pathways") %>%
   select(-"grouping") %>%
   rename(value_type = variable) %>%
@@ -355,14 +357,14 @@ sqdiff_round_full = results_mean_uclh_round %>%
 
 ```
 
-```{r uclh_gamma_round}
+```{r uclh_lognorm_round}
 
-Mres_average_LoS_uclh = res_average_LoS_uclh_gamma_round %>%
+Mres_average_LoS_uclh = res_average_LoS_uclh_lognorm_round %>%
   select(-time) %>%
   melt(id.vars = "date")
 Mres_average_LoS_uclh$grouping = "Model - average LoS"
 
-Mres_full_pathways_uclh = res_full_pathways_uclh_gamma_round %>%
+Mres_full_pathways_uclh = res_full_pathways_uclh_lognorm_round %>%
   select(-time) %>%
   melt(id.vars = "date")
 Mres_full_pathways_uclh$grouping = "Model - full pathways"
@@ -370,20 +372,20 @@ Mres_full_pathways_uclh$grouping = "Model - full pathways"
 Mres_all_uclh = rbind(Mres_average_LoS_uclh, Mres_full_pathways_uclh)
 
 #separate mean and sd
-results_mean_uclh_gamma_round = Mres_all_uclh %>%
+results_mean_uclh_lognorm_round = Mres_all_uclh %>%
   filter(!grepl("sd", variable)) %>%
   arrange(variable) %>%
   mutate(date = as.Date(date))
 
-results_sd_uclh_gamma_round = Mres_all_uclh %>% 
+results_sd_uclh_lognorm_round = Mres_all_uclh %>% 
   filter(grepl("sd", variable)) %>%
   arrange(variable) %>%
   mutate(date = as.Date(date))
 
-results_sd_uclh_gamma_round$min = results_mean_uclh_gamma_round$value - 1.96*results_sd_uclh_gamma_round$value
-results_sd_uclh_gamma_round$max = results_mean_uclh_gamma_round$value + 1.96*results_sd_uclh_gamma_round$value
+results_sd_uclh_lognorm_round$min = results_mean_uclh_lognorm_round$value - 1.96*results_sd_uclh_lognorm_round$value
+results_sd_uclh_lognorm_round$max = results_mean_uclh_lognorm_round$value + 1.96*results_sd_uclh_lognorm_round$value
 
-sqdiff_gamma_round_average = results_mean_uclh_gamma_round %>%
+sqdiff_lognorm_round_average = results_mean_uclh_lognorm_round %>%
   filter(grouping == "Model - average LoS") %>%
   select(-"grouping") %>%
   rename(value_type = variable) %>%
@@ -394,7 +396,7 @@ sqdiff_gamma_round_average = results_mean_uclh_gamma_round %>%
   summarise(sqdiff = diff(value)^2) %>%
   ungroup
 
-sqdiff_gamma_round_full = results_mean_uclh_gamma_round %>%
+sqdiff_lognorm_round_full = results_mean_uclh_lognorm_round %>%
   filter(grouping == "Model - full pathways") %>%
   select(-"grouping") %>%
   rename(value_type = variable) %>%
@@ -412,22 +414,22 @@ sqdiff_gamma_round_full = results_mean_uclh_gamma_round %>%
 ```{r sqdifftable}
 
 sqdiff_distributions = data.frame(rounding = c(rep("Round", 4), rep("Ceiling", 4)),
-                                  distribution = rep(c("Weibull", "Weibull", "Gamma", "Gamma"),2),
+                                  distribution = rep(c("Weibull", "Weibull", "Lognormal", "Lognormal"),2),
                                   pathway = c("Average LoS", "Full pathways",
                                               "Average LoS", "Full pathways",
                                               "Average LoS", "Full pathways",
                                               "Average LoS", "Full pathways"),
                                   sqdiff = c(sum(sqdiff_round_average$sqdiff),
                                              sum(sqdiff_round_full$sqdiff),
-                                             sum(sqdiff_gamma_round_average$sqdiff),
-                                             sum(sqdiff_gamma_round_full$sqdiff),
+                                             sum(sqdiff_lognorm_round_average$sqdiff),
+                                             sum(sqdiff_lognorm_round_full$sqdiff),
                                              sum(sqdiff_weibull_average$sqdiff),
                                              sum(sqdiff_weibull_full$sqdiff),
-                                             sum(sqdiff_gamma_average$sqdiff),
-                                             sum(sqdiff_gamma_full$sqdiff)))
+                                             sum(sqdiff_lognorm_average$sqdiff),
+                                             sum(sqdiff_lognorm_full$sqdiff)))
 
 kable(sqdiff_distributions, format = "latex", booktabs = T,
-      caption = "Squared difference between model results for average LoS or full pathways, and Weibull or Gamma 
+      caption = "Squared difference between model results for average LoS or full pathways, and Weibull or Lognormal 
       distribution.",
       col.names = c("Rounding",
                     "Distribution",
@@ -437,19 +439,20 @@ kable(sqdiff_distributions, format = "latex", booktabs = T,
 
 ```
 
-```{r gammaweibull, fig.width = 14, fig.height = 7, dpi = 300}
+```{r lognormweibull, fig.width = 14, fig.height = 7, dpi = 300}
 
 weibullpar = mixdist::weibullpar(3.98, 3.60, 0)
 weibull_LoS = ceiling(rweibull(1000, shape = weibullpar$shape, scale = weibullpar$scale))
 
-gamma_LoS = ceiling(rgamma(1000,
-                           shape = (3.98/3.60)^2,
-                           rate = 3.98/3.60^2))
+lognorm_LoS = ceiling(rlnorm(1000,
+                           log(3.98),
+                           log(3.60)))
+
 #create plot C
 plotC = ggplot() +
   geom_density(aes(weibull_LoS, fill = "Weibull"), alpha = 0.2) +
-  geom_density(aes(gamma_LoS, fill = "Gamma"), alpha = 0.2) +
-  scale_x_continuous(breaks = seq(1,31,4)) +
+  geom_density(aes(lognorm_LoS, fill = "Lognormal"), alpha = 0.2) +
+  scale_x_continuous(breaks = seq(1,31,4), limits = c(0,31)) +
   labs(x = "LoS (days)", y = "Density", fill = "Distribution:")+
   theme_bw()
 
@@ -479,20 +482,21 @@ plotA = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 week", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,70)) +
   theme_bw()
 
 #create plot B
 plotB = ggplot() +
-  geom_line(data = results_mean_uclh_gamma %>% filter(grouping == "Model - average LoS"),
+  geom_line(data = results_mean_uclh_lognorm %>% filter(grouping == "Model - average LoS"),
             aes(date, value, colour = variable, linetype = "Model"), size = 1) +
-  geom_ribbon(data = subset(results_sd_uclh_gamma, variable == "CC_sd") %>%
+  geom_ribbon(data = subset(results_sd_uclh_lognorm, variable == "CC_sd") %>%
                 filter(grouping == "Model - average LoS"), 
               aes(date,
                   ymin = min,
                   ymax = max,
                   fill = "CC"),
               alpha = 0.3) +
-  geom_ribbon(data = subset(results_sd_uclh_gamma, variable == "Ward_sd")%>%
+  geom_ribbon(data = subset(results_sd_uclh_lognorm, variable == "Ward_sd")%>%
                 filter(grouping == "Model - average LoS"),
               aes(date,
                   ymin = min,
@@ -507,6 +511,7 @@ plotB = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 week", date_labels = format("%d %b %Y")) +
+  scale_y_continuous(limits = c(-1.5,70)) +
   theme_bw()
 
 legend = get_legend(plotA)

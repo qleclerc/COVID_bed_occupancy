@@ -96,11 +96,16 @@ pathways_model = function(cov_curve, pathways, run_duration,
           
         } else {
           
-          #weibull or gamma or custom distribution
+          #weibull or gamma or lognormal or custom distribution
           if(LoS_distribution == "weibull"){
             
             step_LoS = mixdist::weibullpar(path_info_patient$mean[patient_step], path_info_patient$sd[patient_step], 0)
             step_LoS = rweibull(1, shape = step_LoS$shape, scale = step_LoS$scale)
+            
+          } else if(LoS_distribution == "lognormal"){
+            
+            step_LoS = rlnorm(1, log(path_info_patient$mean[patient_step]),
+                              log(path_info_patient$sd[patient_step]))
             
           } else {
             
@@ -182,7 +187,7 @@ multi_pathways_model = function(nruns, cov_curve, pathways, run_duration,
   if (!all.equal(sum(list.mapv(pathways, proba)), 1)) stop("Pathways probabilities do not sum to 1!")
   
   #safety check for LoS distribution
-  if (!(LoS_distribution %in% c("custom", "weibull", "gamma"))) stop("Incorrect LoS distribution, only custom, weibull or gamma supported!")
+  if (!(LoS_distribution %in% c("custom", "weibull", "gamma", "lognormal"))) stop("Incorrect LoS distribution, only custom, weibull, gamma or lognormal supported!")
   
   #safety check for LoS rounding
   if (!(LoS_rounding %in% c("ceiling", "round"))) stop("Incorrect LoS rounding, only ceiling or round supported!")

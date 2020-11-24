@@ -194,61 +194,61 @@ saveRDS(all_regions_true_prev, here::here("outputs", "results", "data_regions_en
 
 # Supplementary
 
-## UCLH LoS, UCLH admissions, Gamma distribution
+## UCLH LoS, UCLH admissions, lognormal distribution
 
-```{r all_simulations_uclh_gamma}
+```{r all_simulations_uclh_lognorm}
 
 message("Simulating using average LoS...")
 res_average_LoS_uclh = multi_pathways_model(100, 
                                             cov_curve_uclh$value, 
                                             total_LoS_all_uclh, 
                                             length(cov_curve_uclh$date),
-                                            LoS_distribution = "gamma",
+                                            LoS_distribution = "lognormal",
                                             verbose = T)
 res_average_LoS_uclh$date = as.Date(cov_curve_uclh$date)
 
-saveRDS(res_average_LoS_uclh, here::here("outputs", "results", "res_average_LoS_uclh_gamma.rds"))
+saveRDS(res_average_LoS_uclh, here::here("outputs", "results", "res_average_LoS_uclh_lognorm.rds"))
 
 message("Simulating using full pathways...")
 res_full_pathways_uclh = multi_pathways_model(100, 
                                               cov_curve_uclh$value, 
                                               pathways_all_uclh, 
                                               length(cov_curve_uclh$date),
-                                              LoS_distribution = "gamma",
+                                              LoS_distribution = "lognormal",
                                               verbose = T)
 res_full_pathways_uclh$date = as.Date(cov_curve_uclh$date)
 
-saveRDS(res_full_pathways_uclh, here::here("outputs", "results", "res_full_pathways_uclh_gamma.rds"))
+saveRDS(res_full_pathways_uclh, here::here("outputs", "results", "res_full_pathways_uclh_lognorm.rds"))
 
 ```
 
-## UCLH LoS, UCLH admissions, Gamma distribution, rounding
+## UCLH LoS, UCLH admissions, Lognormal distribution, rounding
 
-```{r all_simulations_uclh_gamma_round}
+```{r all_simulations_uclh_lognorm_round}
 
 message("Simulating using average LoS...")
 res_average_LoS_uclh = multi_pathways_model(100, 
                                             cov_curve_uclh$value, 
                                             total_LoS_all_uclh, 
                                             length(cov_curve_uclh$date),
-                                            LoS_distribution = "gamma",
+                                            LoS_distribution = "lognormal",
                                             LoS_rounding = "round",
                                             verbose = T)
 res_average_LoS_uclh$date = as.Date(cov_curve_uclh$date)
 
-saveRDS(res_average_LoS_uclh, here::here("outputs", "results", "res_average_LoS_uclh_gamma_round.rds"))
+saveRDS(res_average_LoS_uclh, here::here("outputs", "results", "res_average_LoS_uclh_lognorm_round.rds"))
 
 message("Simulating using full pathways...")
 res_full_pathways_uclh = multi_pathways_model(100, 
                                               cov_curve_uclh$value, 
                                               pathways_all_uclh, 
                                               length(cov_curve_uclh$date),
-                                              LoS_distribution = "gamma",
+                                              LoS_distribution = "lognormal",
                                               LoS_rounding = "round",
                                               verbose = T)
 res_full_pathways_uclh$date = as.Date(cov_curve_uclh$date)
 
-saveRDS(res_full_pathways_uclh, here::here("outputs", "results", "res_full_pathways_uclh_gamma_round.rds"))
+saveRDS(res_full_pathways_uclh, here::here("outputs", "results", "res_full_pathways_uclh_lognorm_round.rds"))
 
 ```
 
