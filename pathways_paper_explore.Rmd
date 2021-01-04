@@ -91,7 +91,17 @@ for(filename in all_res){
 
 ```
 
+## Load NHS Trust results
 
+```{r load_nhs_trusts}
+
+best_fit_LoS_nhstrusts = read.csv(here::here("outputs", "tables", "best_fit_LoS_nhstrusts.csv"))
+
+trust_to_region = read.csv(here::here("data", "trust_to_region.csv")) %>%
+  select(trustname, nhs_region)
+
+
+```
 
 # Visualise pathways
 
@@ -218,6 +228,64 @@ CC_points = results_sd_uclh %>%
 
 round(table(CC_points$within)/length(CC_points$within), 2)
 
+
+```
+
+# Best-fit LoS distribution by NHS Trust
+
+```{r losnhstrusts, fig.width = 9, fig.height = 6, dpi = 300}
+
+best_fit_LoS_nhstrusts$trustname = clean_variables(best_fit_LoS_nhstrusts)$region
+best_fit_LoS_nhstrusts = merge(best_fit_LoS_nhstrusts, trust_to_region, by="trustname")
+
+best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
+  melt(id.vars = c("region", "trustname", "nhs_region"))
+
+best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
+  mutate(nhs_region = gsub("_", " ", nhs_region)) %>%
+  mutate(nhs_region = stringr::str_to_title(nhs_region)) %>%
+  mutate(nhs_region = gsub("And", "and", nhs_region)) %>%
+  mutate(nhs_region = gsub("Of", "of", nhs_region))
+
+
+
+#london midlands 
+p1 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("London", "Midlands")),
+            aes(y = variable, x = value)) +
+  geom_boxplot() +
+  coord_flip() +
+  theme_bw() +
+  labs(x = "Length of stay (days)", y = "Bed type") +
+  facet_wrap(~nhs_region)
+
+
+#north east north west
+p2 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("North East and Yorkshire", "North West")),
+            aes(y = variable, x = value)) +
+  geom_boxplot() +
+  coord_flip() +
+  theme_bw() +
+  labs(x = "Length of stay (days)", y = "Bed type") +
+  facet_wrap(~nhs_region)
+
+#south east east south west
+p3 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("South East", "South West", "East of England")),
+            aes(y = variable, x = value)) +
+  geom_boxplot() +
+  coord_flip() +
+  theme_bw() +
+  labs(x = "Length of stay (days)", y = "Bed type") +
+  facet_wrap(~nhs_region)
+
+#all together
+
+plot_grid(p1,
+          p2,
+          p3,
+          ncol = 1,
+          rel_heights = c(1,1,1))
+
+  
 
 ```
 
