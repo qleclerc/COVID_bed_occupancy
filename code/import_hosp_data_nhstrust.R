@@ -83,6 +83,8 @@ datat2 = data  %>%
 data = rbind(datat, datat2) %>%
   arrange(date)
 
-#data = data %>% filter(date < as.Date("2020-08-20"))
+# data = data %>% filter(date > as.Date("2020-09-01"))
+# data = data %>% filter(date < as.Date("2020-12-25"))
 
-write.csv(data, here::here("data", "uk_hospital_data_nhstrust.csv"), row.names = F)
+
+write.csv(data, here::here("data", "uk_hospital_data_nhstrust2.csv"), row.names = F)

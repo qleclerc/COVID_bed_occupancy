@@ -38,7 +38,7 @@ set.seed(3210)
 #(generates a ton of objects, recommend clearing global envir after!)
 #source(here::here("code", "import_hosp_data.R"))
 
-hospital_data = read.csv(here::here("data", "uk_hospital_data_nhstrust.csv")) %>%
+hospital_data = read.csv(here::here("data", "uk_hospital_data_nhstrust2.csv")) %>%
   mutate(date = as.Date(date))
 
 
@@ -104,10 +104,10 @@ for (i in unique(hospital_data$geography)) {
     region = i
   )
   
-  opt_res_ward = optimize(optim_func_ward, lower = 1, upper = 20,
+  opt_res_ward = optimize(optim_func_ward, lower = 1, upper = 30,
                           tol = 0.01, total_LoS_all = total_LoS_all,
                           cov_curve = cov_curve, true_prev = true_reg)
-  opt_res_CC = optimize(optim_func_CC, lower = 1, upper = 20,
+  opt_res_CC = optimize(optim_func_CC, lower = 1, upper = 30,
                         tol = 0.01, total_LoS_all = total_LoS_all,
                         cov_curve = cov_curve, true_prev = true_reg)
   
@@ -133,93 +133,12 @@ for (i in unique(hospital_data$geography)) {
   
 }
 
-saveRDS(all_regions_results, here::here("outputs", "results", "fit_nhstrusts_eng.rds"))
+saveRDS(all_regions_results, here::here("outputs", "results", "fit_nhstrusts_eng2.rds"))
 
-write.csv(all_regions_LoS, here::here("outputs", "tables", "best_fit_LoS_nhstrusts.csv"), row.names = F)
+write.csv(all_regions_LoS, here::here("outputs", "tables", "best_fit_LoS_nhstrusts2.csv"), row.names = F)
 
 
 ```
 
-
-
-
-## Fitting prop to CC by region
-
-```{r fit_by_region_proba}
-all_regions_results2 = data.frame()
-all_regions_true_prev2 = data.frame()
-all_regions_proba2 = data.frame()
-
-
-optim_func2 = function(par, total_LoS_all, cov_curve, true_prev){
-  
-  message("Try CC proba ", par)
-  
-  total_LoS_all$CC$proba = par
-  total_LoS_all$Ward$proba = 1-par
-  
-  
-  #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(10, cov_curve, total_LoS_all, length(cov_curve))
-  
-  sq_diff = sum((res_total_LoS_all$Ward - true_prev$Ward)^2, na.rm = T)
-  sq_diff2 = sum((res_total_LoS_all$CC - true_prev$CC)^2, na.rm = T)
-  
-  sq_diff + sq_diff2
-  
-}
-
-
-for (i in unique(hospital_data$geography)) {
-  
-  message("Currently on region ", i)
-  
-  data_reg = hospital_data %>%
-    filter(geography == i)
-  
-  cov_curve = data_reg %>%
-    filter(value_type == "hospital_inc") %>%
-    select(value) %>%
-    pull
-  
-  true_reg = data.frame(
-    time = c(1:length(unique(data_reg$date))),
-    date = unique(data_reg$date),
-    Ward = data_reg %>% filter(value_type == "hospital_prev") %>% select(value) %>% pull,
-    CC = data_reg %>% filter(value_type == "icu_prev") %>% select(value) %>% pull,
-    region = i
-  )
-  
-  opt_res = optimize(optim_func2, lower = 0.01, upper = 0.5,
-                     tol = 0.01, total_LoS_all = total_LoS_all,
-                     cov_curve = cov_curve, true_prev = true_reg)
-  
-  total_LoS_all$CC$proba = opt_res$minimum
-  total_LoS_all$Ward$proba = 1-opt_res$minimum
-  
-  #giving it a spin with total LoS assumptions
-  res_total_LoS_all = multi_pathways_model(100, cov_curve, total_LoS_all, length(cov_curve))
-  res_total_LoS_all$region = i
-  res_total_LoS_all$date = true_reg$date
-  
-  all_regions_results2 = rbind(all_regions_results2, res_total_LoS_all)
-  all_regions_true_prev2 = rbind(all_regions_true_prev2, true_reg)
-  
-  
-  res_region_proba = data.frame(
-    Ward = 1-opt_res$minimum,
-    CC = opt_res$minimum,
-    region = i
-  )
-  
-  all_regions_proba2 = rbind(all_regions_proba2, res_region_proba)
-  
-}
-
-saveRDS(all_regions_results2, here::here("outputs", "results", "fit_nhstrusts_eng_proba.rds"))
-
-write.csv(all_regions_proba2, here::here("outputs", "tables", "best_fit_proba_nhstrusts.csv"), row.names = F)
-
-```
 
 

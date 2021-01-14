@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE, message = F, warning = F,
                       fig.align = "center",
                       dpi = 900,
                       fig.path = "outputs/figures/",
-                      dev = "png")
+                      dev = "pdf")
 
 library(openxlsx)
 library(dplyr)
@@ -59,7 +59,7 @@ eng_hospital_data = hospital_data %>%
 
 ```
 
-## Load UCLH data
+## Load UCH data
 
 ```{r load_uclh_data}
 
@@ -100,6 +100,20 @@ best_fit_LoS_nhstrusts = read.csv(here::here("outputs", "tables", "best_fit_LoS_
 trust_to_region = read.csv(here::here("data", "trust_to_region.csv")) %>%
   select(trustname, nhs_region)
 
+best_fit_LoS_nhstrusts$trustname = clean_variables(best_fit_LoS_nhstrusts)$region
+best_fit_LoS_nhstrusts = merge(best_fit_LoS_nhstrusts, trust_to_region, by="trustname")
+
+best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
+  melt(id.vars = c("region", "trustname", "nhs_region"))
+
+best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
+  mutate(nhs_region = gsub("_", " ", nhs_region)) %>%
+  mutate(nhs_region = stringr::str_to_title(nhs_region)) %>%
+  mutate(nhs_region = gsub("And", "and", nhs_region)) %>%
+  mutate(nhs_region = gsub("Of", "of", nhs_region))
+
+best_fit_LoS_nhstrusts$variable = factor(best_fit_LoS_nhstrusts$variable, levels = c("CC", "Ward"))
+
 
 ```
 
@@ -129,7 +143,7 @@ p1 <- ggplot(data = subset(data, !is.na(bed) & source == "uclh"), aes(x=1, y = m
   theme_bw(base_size = 11)  + 
   scale_fill_discrete("Bed type", labels = c("CC","Ward"))+ 
   theme(axis.ticks.y = element_blank()) + 
-  ggtitle("UCLH")+
+  ggtitle("UCH")+
   theme(strip.text.y.left = element_text(angle = 0))
 
 p2 <- ggplot(data = subset(data, !is.na(bed) & source == "cocin"), aes(x=1, y = mean, fill = factor(bed)),na.rm = TRUE) + 
@@ -156,8 +170,8 @@ data_prop$path_name = factor(data_prop$path_name)
 
 p3 <- ggplot(data_prop,aes(x=source,y=proportion, fill = path_name)) + 
   geom_bar(position = "stack", stat = "identity") + 
-  scale_fill_manual("Pathway",values=cbPalette) + 
-  scale_x_discrete("Dataset", labels = c("COCIN","UCLH")) + 
+  scale_fill_manual("Bed pathway",values=cbPalette) + 
+  scale_x_discrete("Dataset", labels = c("COCIN","UCH")) + 
   scale_y_continuous("Proportion of admissions") +
   theme_bw(base_size = 11)
 
@@ -201,7 +215,7 @@ results_sd_uclh$max = results_mean_uclh$value + 1.96*results_sd_uclh$value
 
 ```
 
-```{r pointsinCIUCLH}
+```{r pointsinCIUCH}
 #This tells us the percentage of data points that lie within the 95% CI of model
 
 ward_points = results_sd_uclh %>%
@@ -235,47 +249,37 @@ round(table(CC_points$within)/length(CC_points$within), 2)
 
 ```{r losnhstrusts, fig.width = 9, fig.height = 6, dpi = 300}
 
-best_fit_LoS_nhstrusts$trustname = clean_variables(best_fit_LoS_nhstrusts)$region
-best_fit_LoS_nhstrusts = merge(best_fit_LoS_nhstrusts, trust_to_region, by="trustname")
-
-best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
-  melt(id.vars = c("region", "trustname", "nhs_region"))
-
-best_fit_LoS_nhstrusts = best_fit_LoS_nhstrusts %>%
-  mutate(nhs_region = gsub("_", " ", nhs_region)) %>%
-  mutate(nhs_region = stringr::str_to_title(nhs_region)) %>%
-  mutate(nhs_region = gsub("And", "and", nhs_region)) %>%
-  mutate(nhs_region = gsub("Of", "of", nhs_region))
-
-
 
 #london midlands 
 p1 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("London", "Midlands")),
-            aes(y = variable, x = value)) +
+            aes(y = variable, x = value, colour = variable)) +
   geom_boxplot() +
   coord_flip() +
   theme_bw() +
   labs(x = "Length of stay (days)", y = "Bed type") +
-  facet_wrap(~nhs_region)
+  facet_wrap(~nhs_region) +
+  guides(colour = F)
 
 
 #north east north west
 p2 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("North East and Yorkshire", "North West")),
-            aes(y = variable, x = value)) +
+            aes(y = variable, x = value, colour = variable)) +
   geom_boxplot() +
   coord_flip() +
   theme_bw() +
   labs(x = "Length of stay (days)", y = "Bed type") +
-  facet_wrap(~nhs_region)
+  facet_wrap(~nhs_region) +
+  guides(colour = F)
 
 #south east east south west
 p3 = ggplot(data = subset(best_fit_LoS_nhstrusts, nhs_region %in% c("South East", "South West", "East of England")),
-            aes(y = variable, x = value)) +
+            aes(y = variable, x = value, colour = variable)) +
   geom_boxplot() +
   coord_flip() +
   theme_bw() +
   labs(x = "Length of stay (days)", y = "Bed type") +
-  facet_wrap(~nhs_region)
+  facet_wrap(~nhs_region) +
+  guides(colour = F)
 
 #all together
 
@@ -483,10 +487,10 @@ sqdiff_lognorm_round_full = results_mean_uclh_lognorm_round %>%
 
 sqdiff_distributions = data.frame(rounding = c(rep("Round", 4), rep("Ceiling", 4)),
                                   distribution = rep(c("Weibull", "Weibull", "Lognormal", "Lognormal"),2),
-                                  pathway = c("Average LoS", "Full pathways",
-                                              "Average LoS", "Full pathways",
-                                              "Average LoS", "Full pathways",
-                                              "Average LoS", "Full pathways"),
+                                  pathway = c("Average LoS", "Bed pathways",
+                                              "Average LoS", "Bed pathways",
+                                              "Average LoS", "Bed pathways",
+                                              "Average LoS", "Bed pathways"),
                                   sqdiff = c(sum(sqdiff_round_average$sqdiff),
                                              sum(sqdiff_round_full$sqdiff),
                                              sum(sqdiff_lognorm_round_average$sqdiff),
@@ -497,7 +501,7 @@ sqdiff_distributions = data.frame(rounding = c(rep("Round", 4), rep("Ceiling", 4
                                              sum(sqdiff_lognorm_full$sqdiff)))
 
 kable(sqdiff_distributions, format = "latex", booktabs = T,
-      caption = "Squared difference between model results for average LoS or full pathways, and Weibull or Lognormal 
+      caption = "Squared difference between model results for average LoS or bed pathways, and Weibull or Lognormal 
       distribution.",
       col.names = c("Rounding",
                     "Distribution",
@@ -750,7 +754,7 @@ plotC = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 month", date_labels = format("%d %b %Y")) +
-  scale_y_continuous(limits = c(-1.5,20100)) +
+  scale_y_continuous(limits = c(-1.5,21000)) +
   theme_bw()
 
 #create plot D
@@ -779,7 +783,7 @@ plotD = ggplot() +
        x = "Time (days)", y = "Bed occupancy") +
   guides(fill = FALSE) +
   scale_x_date(breaks = "1 month", date_labels = format("%d %b %Y")) +
-  scale_y_continuous(limits = c(-1.5,20100)) +
+  scale_y_continuous(limits = c(-1.5,21000)) +
   theme_bw()
 
 
@@ -790,11 +794,11 @@ plot_grid(
     plotA+theme(legend.position = "none"), plotB+theme(legend.position = "none"),
     NULL, NULL,
     plotC+theme(legend.position = "none"), plotD+theme(legend.position = "none"),
-    labels = c("A) UCLH, average LoS",
-               "B) UCLH, full pathways",
+    labels = c("A) UCH, average LoS",
+               "B) UCH, bed pathways",
                "", "",
                "C) COCIN, average LoS",
-               "D) COCIN, full pathways"), 
+               "D) COCIN, bed pathways"), 
     label_size = 12, hjust = -0.3, vjust = 0,
     nrow = 3,
     rel_heights = c(1, 0.05, 1)
@@ -973,9 +977,9 @@ t_max_full_pathways_CC = median(res_full_pathways_eng_peak$CC_peak_time)
 t_max_data_CC = which.max(eng_hospital_data_CC$value)
 
 
-summary_results = data.frame(Dataset = c(rep("UCLH", 3), rep("COCIN", 3)),
+summary_results = data.frame(Dataset = c(rep("UCH", 3), rep("COCIN", 3)),
                              Grouping = rep(c("Average LoS",
-                                              "Full pathways",
+                                              "Bed pathways",
                                               "Data"), 2),
                              ward_t_max = c(res_average_LoS_uclh$date[t_max_average_LoS_ward_uclh],
                                             res_full_pathways_uclh$date[t_max_full_pathways_ward_uclh],
