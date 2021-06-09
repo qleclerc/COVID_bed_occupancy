@@ -2,7 +2,7 @@
 
 Code for bed occupancy and patient pathway analyses
 
-Pre-print available [here](https://www.medrxiv.org/content/10.1101/2021.01.14.21249791v1).
+Peer-reviewed paper available [here](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06509-x).
 
 Corresponding author: Quentin Leclerc, quentin.leclerc@lshtm.ac.uk
 
